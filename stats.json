@@ -1,11 +1,11 @@
 {
-  "totalSolved": 25,
+  "totalSolved": 26,
   "currentStreak": 1,
   "maxStreak": 1,
   "lastSyncDate": "2026-08-04",
-  "todayCount": 25,
+  "todayCount": 26,
   "difficultyCounts": {
-    "easy": 13,
+    "easy": 14,
     "medium": 1,
     "hard": 0,
     "basic": 11
@@ -35,10 +35,11 @@
     "GeeksForGeeks_Solid_Rectangle": true,
     "GeeksForGeeks_Prime_Number": true,
     "GeeksForGeeks_1_to_n_Without_Loops": true,
-    "GeeksForGeeks_Print_GFG_n_times": true
+    "GeeksForGeeks_Print_GFG_n_times": true,
+    "LeetCode_Pascal's_Triangle_II": true
   },
   "activityHistory": {
-    "2026-08-04": 25
+    "2026-08-04": 26
   },
   "todayProblems": [
     "Sum of Unique Elements",
@@ -65,6 +66,7 @@
     "Solid Rectangle",
     "Prime Number",
     "1 to n Without Loops",
-    "Print GFG n times"
+    "Print GFG n times",
+    "Pascal's Triangle II"
   ]
 }

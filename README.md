@@ -25,3 +25,4 @@
 | 23 | [Prime Number](./GeeksForGeeks/Easy/Prime%20Number) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/prime-number2314/1) | Easy | 04 Aug 2026 | 10:23 am |
 | 24 | [1 to n Without Loops](./GeeksForGeeks/Basic/1%20to%20n%20Without%20Loops) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/print-1-to-n-without-using-loops3621/1) | Basic | 04 Aug 2026 | 10:23 am |
 | 25 | [Print GFG n times](./GeeksForGeeks/Easy/Print%20GFG%20n%20times) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/print-gfg-n-times/1) | Easy | 04 Aug 2026 | 10:23 am |
+| 26 | [Pascal's Triangle II](./LeetCode/Easy/Pascal's%20Triangle%20II) | [LeetCode](https://leetcode.com/problems/pascals-triangle-ii/) | Easy | 04 Aug 2026 | 10:30 am |
