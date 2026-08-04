@@ -31,3 +31,4 @@
 | 29 | [Array Traversal](./GeeksForGeeks/Basic/Array%20Traversal) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/array-traversal/1) | Basic | 04 Aug 2026 | 07:16 pm |
 | 30 | [Array Search](./GeeksForGeeks/Basic/Array%20Search) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/search-an-element-in-an-array-1587115621/1) | Basic | 04 Aug 2026 | 07:22 pm |
 | 31 | [Bubble Sort](./GeeksForGeeks/Easy/Bubble%20Sort) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/bubble-sort/1) | Easy | 04 Aug 2026 | 09:31 pm |
+| 32 | [Count Odd and Even](./GeeksForGeeks/Basic/Count%20Odd%20and%20Even) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/count-odd-even/1) | Basic | 04 Aug 2026 | 09:32 pm |

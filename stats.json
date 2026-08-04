@@ -1,14 +1,14 @@
 {
-  "totalSolved": 31,
+  "totalSolved": 32,
   "currentStreak": 1,
   "maxStreak": 1,
   "lastSyncDate": "2026-08-04",
-  "todayCount": 31,
+  "todayCount": 32,
   "difficultyCounts": {
     "easy": 17,
     "medium": 1,
     "hard": 0,
-    "basic": 13
+    "basic": 14
   },
   "syncedProblems": {
     "LeetCode_Sum_of_Unique_Elements": true,
@@ -41,10 +41,11 @@
     "LeetCode_Calculate_Money_in_Leetcode_Bank": true,
     "GeeksForGeeks_Array_Traversal": true,
     "GeeksForGeeks_Array_Search": true,
-    "GeeksForGeeks_Bubble_Sort": true
+    "GeeksForGeeks_Bubble_Sort": true,
+    "GeeksForGeeks_Count_Odd_and_Even": true
   },
   "activityHistory": {
-    "2026-08-04": 31
+    "2026-08-04": 32
   },
   "todayProblems": [
     "Sum of Unique Elements",
@@ -77,6 +78,7 @@
     "Calculate Money in Leetcode Bank",
     "Array Traversal",
     "Array Search",
-    "Bubble Sort"
+    "Bubble Sort",
+    "Count Odd and Even"
   ]
 }
