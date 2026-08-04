@@ -18,3 +18,4 @@
 | 16 | [Factorial](./GeeksForGeeks/Basic/Factorial) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/factorial5739/1) | Basic | 04 Aug 2026 | 10:18 am |
 | 17 | [Pyramid Pattern](./GeeksForGeeks/Basic/Pyramid%20Pattern) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/pyramid-patterns/1) | Basic | 04 Aug 2026 | 10:18 am |
 | 18 | [Armstrong Numbers](./GeeksForGeeks/Easy/Armstrong%20Numbers) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/armstrong-numbers2727/1) | Easy | 04 Aug 2026 | 10:19 am |
+| 19 | [GCD of two numbers](./GeeksForGeeks/Basic/GCD%20of%20two%20numbers) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/gcd-of-two-numbers3459/1) | Basic | 04 Aug 2026 | 10:19 am |

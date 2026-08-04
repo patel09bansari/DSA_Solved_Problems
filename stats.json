@@ -1,14 +1,14 @@
 {
-  "totalSolved": 18,
+  "totalSolved": 19,
   "currentStreak": 1,
   "maxStreak": 1,
   "lastSyncDate": "2026-08-04",
-  "todayCount": 18,
+  "todayCount": 19,
   "difficultyCounts": {
     "easy": 10,
     "medium": 1,
     "hard": 0,
-    "basic": 7
+    "basic": 8
   },
   "syncedProblems": {
     "LeetCode_Sum_of_Unique_Elements": true,
@@ -28,10 +28,11 @@
     "GeeksForGeeks_Right_Angle_Triangle_Pattern": true,
     "GeeksForGeeks_Factorial": true,
     "GeeksForGeeks_Pyramid_Pattern": true,
-    "GeeksForGeeks_Armstrong_Numbers": true
+    "GeeksForGeeks_Armstrong_Numbers": true,
+    "GeeksForGeeks_GCD_of_two_numbers": true
   },
   "activityHistory": {
-    "2026-08-04": 18
+    "2026-08-04": 19
   },
   "todayProblems": [
     "Sum of Unique Elements",
@@ -51,6 +52,7 @@
     "Right Angle Triangle Pattern",
     "Factorial",
     "Pyramid Pattern",
-    "Armstrong Numbers"
+    "Armstrong Numbers",
+    "GCD of two numbers"
   ]
 }
