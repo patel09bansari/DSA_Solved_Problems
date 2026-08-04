@@ -20,3 +20,4 @@
 | 18 | [Armstrong Numbers](./GeeksForGeeks/Easy/Armstrong%20Numbers) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/armstrong-numbers2727/1) | Easy | 04 Aug 2026 | 10:19 am |
 | 19 | [GCD of two numbers](./GeeksForGeeks/Basic/GCD%20of%20two%20numbers) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/gcd-of-two-numbers3459/1) | Basic | 04 Aug 2026 | 10:19 am |
 | 20 | [Half Diamond Star Pattern](./GeeksForGeeks/Basic/Half%20Diamond%20Star%20Pattern) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/triangle-pattern-1661718013/1) | Basic | 04 Aug 2026 | 10:19 am |
+| 21 | [Inverted Triangle of Stars](./GeeksForGeeks/Easy/Inverted%20Triangle%20of%20Stars) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/inverted-triangle-of-stars0110/1) | Easy | 04 Aug 2026 | 10:21 am |
