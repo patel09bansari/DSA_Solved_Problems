@@ -22,3 +22,4 @@
 | 20 | [Half Diamond Star Pattern](./GeeksForGeeks/Basic/Half%20Diamond%20Star%20Pattern) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/triangle-pattern-1661718013/1) | Basic | 04 Aug 2026 | 10:19 am |
 | 21 | [Inverted Triangle of Stars](./GeeksForGeeks/Easy/Inverted%20Triangle%20of%20Stars) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/inverted-triangle-of-stars0110/1) | Easy | 04 Aug 2026 | 10:21 am |
 | 22 | [Solid Rectangle](./GeeksForGeeks/Basic/Solid%20Rectangle) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/solid-rectangle/1) | Basic | 04 Aug 2026 | 10:22 am |
+| 23 | [Prime Number](./GeeksForGeeks/Easy/Prime%20Number) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/prime-number2314/1) | Easy | 04 Aug 2026 | 10:23 am |

@@ -1,11 +1,11 @@
 {
-  "totalSolved": 22,
+  "totalSolved": 23,
   "currentStreak": 1,
   "maxStreak": 1,
   "lastSyncDate": "2026-08-04",
-  "todayCount": 22,
+  "todayCount": 23,
   "difficultyCounts": {
-    "easy": 11,
+    "easy": 12,
     "medium": 1,
     "hard": 0,
     "basic": 10
@@ -32,10 +32,11 @@
     "GeeksForGeeks_GCD_of_two_numbers": true,
     "GeeksForGeeks_Half_Diamond_Star_Pattern": true,
     "GeeksForGeeks_Inverted_Triangle_of_Stars": true,
-    "GeeksForGeeks_Solid_Rectangle": true
+    "GeeksForGeeks_Solid_Rectangle": true,
+    "GeeksForGeeks_Prime_Number": true
   },
   "activityHistory": {
-    "2026-08-04": 22
+    "2026-08-04": 23
   },
   "todayProblems": [
     "Sum of Unique Elements",
@@ -59,6 +60,7 @@
     "GCD of two numbers",
     "Half Diamond Star Pattern",
     "Inverted Triangle of Stars",
-    "Solid Rectangle"
+    "Solid Rectangle",
+    "Prime Number"
   ]
 }
