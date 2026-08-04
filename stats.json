@@ -1,11 +1,11 @@
 {
-  "totalSolved": 14,
+  "totalSolved": 15,
   "currentStreak": 1,
   "maxStreak": 1,
   "lastSyncDate": "2026-08-04",
-  "todayCount": 14,
+  "todayCount": 15,
   "difficultyCounts": {
-    "easy": 8,
+    "easy": 9,
     "medium": 1,
     "hard": 0,
     "basic": 5
@@ -24,10 +24,11 @@
     "GeeksForGeeks_Segregate_0s_and_1s": true,
     "GeeksForGeeks_Reading_Books": true,
     "GeeksForGeeks_Palindrome_Array": true,
-    "GeeksForGeeks_Boolean_Matrix": true
+    "GeeksForGeeks_Boolean_Matrix": true,
+    "GeeksForGeeks_Right_Angle_Triangle_Pattern": true
   },
   "activityHistory": {
-    "2026-08-04": 14
+    "2026-08-04": 15
   },
   "todayProblems": [
     "Sum of Unique Elements",
@@ -43,6 +44,7 @@
     "Segregate 0s and 1s",
     "Reading Books",
     "Palindrome Array",
-    "Boolean Matrix"
+    "Boolean Matrix",
+    "Right Angle Triangle Pattern"
   ]
 }
