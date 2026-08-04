@@ -17,3 +17,4 @@
 | 15 | [Right Angle Triangle Pattern](./GeeksForGeeks/Easy/Right%20Angle%20Triangle%20Pattern) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/right-angle-triangle-1605685807/1) | Easy | 04 Aug 2026 | 10:17 am |
 | 16 | [Factorial](./GeeksForGeeks/Basic/Factorial) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/factorial5739/1) | Basic | 04 Aug 2026 | 10:18 am |
 | 17 | [Pyramid Pattern](./GeeksForGeeks/Basic/Pyramid%20Pattern) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/pyramid-patterns/1) | Basic | 04 Aug 2026 | 10:18 am |
+| 18 | [Armstrong Numbers](./GeeksForGeeks/Easy/Armstrong%20Numbers) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/armstrong-numbers2727/1) | Easy | 04 Aug 2026 | 10:19 am |

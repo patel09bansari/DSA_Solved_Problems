@@ -1,11 +1,11 @@
 {
-  "totalSolved": 17,
+  "totalSolved": 18,
   "currentStreak": 1,
   "maxStreak": 1,
   "lastSyncDate": "2026-08-04",
-  "todayCount": 17,
+  "todayCount": 18,
   "difficultyCounts": {
-    "easy": 9,
+    "easy": 10,
     "medium": 1,
     "hard": 0,
     "basic": 7
@@ -27,10 +27,11 @@
     "GeeksForGeeks_Boolean_Matrix": true,
     "GeeksForGeeks_Right_Angle_Triangle_Pattern": true,
     "GeeksForGeeks_Factorial": true,
-    "GeeksForGeeks_Pyramid_Pattern": true
+    "GeeksForGeeks_Pyramid_Pattern": true,
+    "GeeksForGeeks_Armstrong_Numbers": true
   },
   "activityHistory": {
-    "2026-08-04": 17
+    "2026-08-04": 18
   },
   "todayProblems": [
     "Sum of Unique Elements",
@@ -49,6 +50,7 @@
     "Boolean Matrix",
     "Right Angle Triangle Pattern",
     "Factorial",
-    "Pyramid Pattern"
+    "Pyramid Pattern",
+    "Armstrong Numbers"
   ]
 }
