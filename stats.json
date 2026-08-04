@@ -1,14 +1,14 @@
 {
-  "totalSolved": 8,
+  "totalSolved": 9,
   "currentStreak": 1,
   "maxStreak": 1,
   "lastSyncDate": "2026-08-04",
-  "todayCount": 8,
+  "todayCount": 9,
   "difficultyCounts": {
     "easy": 5,
     "medium": 0,
     "hard": 0,
-    "basic": 3
+    "basic": 4
   },
   "syncedProblems": {
     "LeetCode_Sum_of_Unique_Elements": true,
@@ -18,10 +18,11 @@
     "GeeksForGeeks_Largest_in_Array": true,
     "GeeksForGeeks_Second_Largest": true,
     "GeeksForGeeks_Sum_Array_Puzzle": true,
-    "GeeksForGeeks_Reverse_an_Array": true
+    "GeeksForGeeks_Reverse_an_Array": true,
+    "GeeksForGeeks_Rotate_Array_by_One": true
   },
   "activityHistory": {
-    "2026-08-04": 8
+    "2026-08-04": 9
   },
   "todayProblems": [
     "Sum of Unique Elements",
@@ -31,6 +32,7 @@
     "Largest in Array",
     "Second Largest",
     "Sum Array Puzzle",
-    "Reverse an Array"
+    "Reverse an Array",
+    "Rotate Array by One"
   ]
 }

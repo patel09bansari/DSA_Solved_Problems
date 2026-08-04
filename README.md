@@ -8,3 +8,4 @@
 | 6 | [Second Largest](./GeeksForGeeks/Easy/Second%20Largest) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/second-largest3735/1) | Easy | 04 Aug 2026 | 10:13 am |
 | 7 | [Sum Array Puzzle](./GeeksForGeeks/Basic/Sum%20Array%20Puzzle) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/sum-array-puzzle/1) | Basic | 04 Aug 2026 | 10:13 am |
 | 8 | [Reverse an Array](./GeeksForGeeks/Easy/Reverse%20an%20Array) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/reverse-an-array/1) | Easy | 04 Aug 2026 | 10:13 am |
+| 9 | [Rotate Array by One](./GeeksForGeeks/Basic/Rotate%20Array%20by%20One) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one2614/1) | Basic | 04 Aug 2026 | 10:14 am |
