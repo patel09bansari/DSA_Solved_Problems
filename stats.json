@@ -1,14 +1,14 @@
 {
-  "totalSolved": 23,
+  "totalSolved": 24,
   "currentStreak": 1,
   "maxStreak": 1,
   "lastSyncDate": "2026-08-04",
-  "todayCount": 23,
+  "todayCount": 24,
   "difficultyCounts": {
     "easy": 12,
     "medium": 1,
     "hard": 0,
-    "basic": 10
+    "basic": 11
   },
   "syncedProblems": {
     "LeetCode_Sum_of_Unique_Elements": true,
@@ -33,10 +33,11 @@
     "GeeksForGeeks_Half_Diamond_Star_Pattern": true,
     "GeeksForGeeks_Inverted_Triangle_of_Stars": true,
     "GeeksForGeeks_Solid_Rectangle": true,
-    "GeeksForGeeks_Prime_Number": true
+    "GeeksForGeeks_Prime_Number": true,
+    "GeeksForGeeks_1_to_n_Without_Loops": true
   },
   "activityHistory": {
-    "2026-08-04": 23
+    "2026-08-04": 24
   },
   "todayProblems": [
     "Sum of Unique Elements",
@@ -61,6 +62,7 @@
     "Half Diamond Star Pattern",
     "Inverted Triangle of Stars",
     "Solid Rectangle",
-    "Prime Number"
+    "Prime Number",
+    "1 to n Without Loops"
   ]
 }
