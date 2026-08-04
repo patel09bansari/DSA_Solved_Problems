@@ -1,14 +1,14 @@
 {
-  "totalSolved": 28,
+  "totalSolved": 29,
   "currentStreak": 1,
   "maxStreak": 1,
   "lastSyncDate": "2026-08-04",
-  "todayCount": 28,
+  "todayCount": 29,
   "difficultyCounts": {
     "easy": 16,
     "medium": 1,
     "hard": 0,
-    "basic": 11
+    "basic": 12
   },
   "syncedProblems": {
     "LeetCode_Sum_of_Unique_Elements": true,
@@ -38,10 +38,11 @@
     "GeeksForGeeks_Print_GFG_n_times": true,
     "LeetCode_Pascal's_Triangle_II": true,
     "LeetCode_Pascal's_Triangle": true,
-    "LeetCode_Calculate_Money_in_Leetcode_Bank": true
+    "LeetCode_Calculate_Money_in_Leetcode_Bank": true,
+    "GeeksForGeeks_Array_Traversal": true
   },
   "activityHistory": {
-    "2026-08-04": 28
+    "2026-08-04": 29
   },
   "todayProblems": [
     "Sum of Unique Elements",
@@ -71,6 +72,7 @@
     "Print GFG n times",
     "Pascal's Triangle II",
     "Pascal's Triangle",
-    "Calculate Money in Leetcode Bank"
+    "Calculate Money in Leetcode Bank",
+    "Array Traversal"
   ]
 }
