@@ -13,3 +13,4 @@
 | 11 | [Segregate 0s and 1s](./GeeksForGeeks/Easy/Segregate%200s%20and%201s) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/segregate-0s-and-1s5106/1) | Easy | 04 Aug 2026 | 10:15 am |
 | 12 | [Reading Books](./GeeksForGeeks/Easy/Reading%20Books) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/reading-books3803/1) | Easy | 04 Aug 2026 | 10:15 am |
 | 13 | [Palindrome Array](./GeeksForGeeks/Basic/Palindrome%20Array) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/perfect-arrays4645/1) | Basic | 04 Aug 2026 | 10:16 am |
+| 14 | [Boolean Matrix](./GeeksForGeeks/Medium/Boolean%20Matrix) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/boolean-matrix-problem-1587115620/1) | Medium | 04 Aug 2026 | 10:17 am |

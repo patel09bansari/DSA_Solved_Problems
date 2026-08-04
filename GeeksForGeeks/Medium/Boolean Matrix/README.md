@@ -1,0 +1,24 @@
+# Boolean Matrix
+
+## Difficulty: Medium
+
+## Platform: GeeksForGeeks
+
+## Problem Link
+[View Problem](https://www.geeksforgeeks.org/problems/boolean-matrix-problem-1587115620/1)
+
+## Solved On
+04 Aug 2026 at 10:17 am
+
+<h2><a href="https://www.geeksforgeeks.org/problems/boolean-matrix-problem-1587115620/1">Boolean Matrix</a></h2><h3>Difficulty Level: Medium</h3><hr><p><span style="font-size: 18px;">Given a boolean matrix <strong>mat[],</strong> where each cell contains either 0 or 1, modify it such that if a matrix cell matrix[i][j] is 1 then all the cells in its i</span><sup>th</sup><span style="font-size: 18px;">&nbsp;row and j</span><sup>th</sup><span style="font-size: 18px;">&nbsp;column will become 1.</span></p>
+<p><strong><span style="font-size: 18px;">Examples:</span></strong></p>
+<pre><span style="font-size: 18px;"><strong>Input: </strong><span style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; white-space: normal;">mat</span>[][] = [[1, 0], [0, 0]]
+<strong>Output: </strong>[[1, 1], [1, 0]] </span>
+<span style="font-size: 18px;"><strong>Explanation: </strong>Only cell that has 1 is at (0,0) so all cells in row 0 are modified to 1 and all cells in column 0 are modified to 1.</span></pre>
+<pre><span style="font-size: 18px;"><strong>Input:</strong> <span style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; white-space: normal;">mat</span>[][] = [[1, 0, 0], [1, 0, 0], [1, 0, 0], [0, 0, 0]]</span>
+<span style="font-size: 18px;"><strong>Output: </strong>[[1, 1, 1], [1, 1, 1], [1, 1, 1], [1, 0, 0]]</span>
+<span style="font-size: 18px;"><strong>Explanation: </strong>The position of cells that have 1 in the original matrix are (0, 0), (1, 0) and (2, 0). Therefore, all cells in row 0, 1, 2 are and column 0 are modified to 1. </span></pre>
+<pre><span style="font-size: 18px;"><strong>Input: </strong><span style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; white-space: normal;">mat</span>[][] = [[0, 0], [0, 0]]
+<strong>Output: </strong>[[0, 0], [0, 0]] </span>
+<span style="font-size: 18px;"><strong>Explanation: </strong>There is no cell that contains 1, so mat[] will remain the same.</span></pre>
+<p><span style="font-size: 18px;"><strong>Constraints:</strong><br>1 ≤ mat.size(), mat[0].size() ≤ 10<sup>3</sup><br>0 ≤ mat[i][j] ≤ 1</span></p>
