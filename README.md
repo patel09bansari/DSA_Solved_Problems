@@ -6,3 +6,4 @@
 | 4 | [Find element at a given Index](./GeeksForGeeks/Basic/Find%20element%20at%20a%20given%20Index) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/c-array-print-an-element-set-25933/1) | Basic | 04 Aug 2026 | 10:11 am |
 | 5 | [Largest in Array](./GeeksForGeeks/Basic/Largest%20in%20Array) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/largest-element-in-array4009/1) | Basic | 04 Aug 2026 | 10:11 am |
 | 6 | [Second Largest](./GeeksForGeeks/Easy/Second%20Largest) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/second-largest3735/1) | Easy | 04 Aug 2026 | 10:13 am |
+| 7 | [Sum Array Puzzle](./GeeksForGeeks/Basic/Sum%20Array%20Puzzle) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/sum-array-puzzle/1) | Basic | 04 Aug 2026 | 10:13 am |

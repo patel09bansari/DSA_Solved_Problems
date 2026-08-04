@@ -1,14 +1,14 @@
 {
-  "totalSolved": 6,
+  "totalSolved": 7,
   "currentStreak": 1,
   "maxStreak": 1,
   "lastSyncDate": "2026-08-04",
-  "todayCount": 6,
+  "todayCount": 7,
   "difficultyCounts": {
     "easy": 4,
     "medium": 0,
     "hard": 0,
-    "basic": 2
+    "basic": 3
   },
   "syncedProblems": {
     "LeetCode_Sum_of_Unique_Elements": true,
@@ -16,10 +16,11 @@
     "GeeksForGeeks_Palindrome_Number": true,
     "GeeksForGeeks_Find_element_at_a_given_Index": true,
     "GeeksForGeeks_Largest_in_Array": true,
-    "GeeksForGeeks_Second_Largest": true
+    "GeeksForGeeks_Second_Largest": true,
+    "GeeksForGeeks_Sum_Array_Puzzle": true
   },
   "activityHistory": {
-    "2026-08-04": 6
+    "2026-08-04": 7
   },
   "todayProblems": [
     "Sum of Unique Elements",
@@ -27,6 +28,7 @@
     "Palindrome Number",
     "Find element at a given Index",
     "Largest in Array",
-    "Second Largest"
+    "Second Largest",
+    "Sum Array Puzzle"
   ]
 }
