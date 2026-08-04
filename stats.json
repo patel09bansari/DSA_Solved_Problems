@@ -1,11 +1,11 @@
 {
-  "totalSolved": 7,
+  "totalSolved": 8,
   "currentStreak": 1,
   "maxStreak": 1,
   "lastSyncDate": "2026-08-04",
-  "todayCount": 7,
+  "todayCount": 8,
   "difficultyCounts": {
-    "easy": 4,
+    "easy": 5,
     "medium": 0,
     "hard": 0,
     "basic": 3
@@ -17,10 +17,11 @@
     "GeeksForGeeks_Find_element_at_a_given_Index": true,
     "GeeksForGeeks_Largest_in_Array": true,
     "GeeksForGeeks_Second_Largest": true,
-    "GeeksForGeeks_Sum_Array_Puzzle": true
+    "GeeksForGeeks_Sum_Array_Puzzle": true,
+    "GeeksForGeeks_Reverse_an_Array": true
   },
   "activityHistory": {
-    "2026-08-04": 7
+    "2026-08-04": 8
   },
   "todayProblems": [
     "Sum of Unique Elements",
@@ -29,6 +30,7 @@
     "Find element at a given Index",
     "Largest in Array",
     "Second Largest",
-    "Sum Array Puzzle"
+    "Sum Array Puzzle",
+    "Reverse an Array"
   ]
 }
