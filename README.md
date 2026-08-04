@@ -10,3 +10,4 @@
 | 8 | [Reverse an Array](./GeeksForGeeks/Easy/Reverse%20an%20Array) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/reverse-an-array/1) | Easy | 04 Aug 2026 | 10:13 am |
 | 9 | [Rotate Array by One](./GeeksForGeeks/Basic/Rotate%20Array%20by%20One) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one2614/1) | Basic | 04 Aug 2026 | 10:14 am |
 | 10 | [Check Equal Arrays](./GeeksForGeeks/Easy/Check%20Equal%20Arrays) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/check-if-two-arrays-are-equal-or-not3847/1) | Easy | 04 Aug 2026 | 10:14 am |
+| 11 | [Segregate 0s and 1s](./GeeksForGeeks/Easy/Segregate%200s%20and%201s) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/segregate-0s-and-1s5106/1) | Easy | 04 Aug 2026 | 10:15 am |
