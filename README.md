@@ -16,3 +16,4 @@
 | 14 | [Boolean Matrix](./GeeksForGeeks/Medium/Boolean%20Matrix) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/boolean-matrix-problem-1587115620/1) | Medium | 04 Aug 2026 | 10:17 am |
 | 15 | [Right Angle Triangle Pattern](./GeeksForGeeks/Easy/Right%20Angle%20Triangle%20Pattern) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/right-angle-triangle-1605685807/1) | Easy | 04 Aug 2026 | 10:17 am |
 | 16 | [Factorial](./GeeksForGeeks/Basic/Factorial) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/factorial5739/1) | Basic | 04 Aug 2026 | 10:18 am |
+| 17 | [Pyramid Pattern](./GeeksForGeeks/Basic/Pyramid%20Pattern) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/pyramid-patterns/1) | Basic | 04 Aug 2026 | 10:18 am |
