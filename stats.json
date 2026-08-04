@@ -1,14 +1,14 @@
 {
-  "totalSolved": 21,
+  "totalSolved": 22,
   "currentStreak": 1,
   "maxStreak": 1,
   "lastSyncDate": "2026-08-04",
-  "todayCount": 21,
+  "todayCount": 22,
   "difficultyCounts": {
     "easy": 11,
     "medium": 1,
     "hard": 0,
-    "basic": 9
+    "basic": 10
   },
   "syncedProblems": {
     "LeetCode_Sum_of_Unique_Elements": true,
@@ -31,10 +31,11 @@
     "GeeksForGeeks_Armstrong_Numbers": true,
     "GeeksForGeeks_GCD_of_two_numbers": true,
     "GeeksForGeeks_Half_Diamond_Star_Pattern": true,
-    "GeeksForGeeks_Inverted_Triangle_of_Stars": true
+    "GeeksForGeeks_Inverted_Triangle_of_Stars": true,
+    "GeeksForGeeks_Solid_Rectangle": true
   },
   "activityHistory": {
-    "2026-08-04": 21
+    "2026-08-04": 22
   },
   "todayProblems": [
     "Sum of Unique Elements",
@@ -57,6 +58,7 @@
     "Armstrong Numbers",
     "GCD of two numbers",
     "Half Diamond Star Pattern",
-    "Inverted Triangle of Stars"
+    "Inverted Triangle of Stars",
+    "Solid Rectangle"
   ]
 }
