@@ -1,14 +1,14 @@
 {
-  "totalSolved": 15,
+  "totalSolved": 16,
   "currentStreak": 1,
   "maxStreak": 1,
   "lastSyncDate": "2026-08-04",
-  "todayCount": 15,
+  "todayCount": 16,
   "difficultyCounts": {
     "easy": 9,
     "medium": 1,
     "hard": 0,
-    "basic": 5
+    "basic": 6
   },
   "syncedProblems": {
     "LeetCode_Sum_of_Unique_Elements": true,
@@ -25,10 +25,11 @@
     "GeeksForGeeks_Reading_Books": true,
     "GeeksForGeeks_Palindrome_Array": true,
     "GeeksForGeeks_Boolean_Matrix": true,
-    "GeeksForGeeks_Right_Angle_Triangle_Pattern": true
+    "GeeksForGeeks_Right_Angle_Triangle_Pattern": true,
+    "GeeksForGeeks_Factorial": true
   },
   "activityHistory": {
-    "2026-08-04": 15
+    "2026-08-04": 16
   },
   "todayProblems": [
     "Sum of Unique Elements",
@@ -45,6 +46,7 @@
     "Reading Books",
     "Palindrome Array",
     "Boolean Matrix",
-    "Right Angle Triangle Pattern"
+    "Right Angle Triangle Pattern",
+    "Factorial"
   ]
 }
