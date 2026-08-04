@@ -12,3 +12,4 @@
 | 10 | [Check Equal Arrays](./GeeksForGeeks/Easy/Check%20Equal%20Arrays) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/check-if-two-arrays-are-equal-or-not3847/1) | Easy | 04 Aug 2026 | 10:14 am |
 | 11 | [Segregate 0s and 1s](./GeeksForGeeks/Easy/Segregate%200s%20and%201s) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/segregate-0s-and-1s5106/1) | Easy | 04 Aug 2026 | 10:15 am |
 | 12 | [Reading Books](./GeeksForGeeks/Easy/Reading%20Books) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/reading-books3803/1) | Easy | 04 Aug 2026 | 10:15 am |
+| 13 | [Palindrome Array](./GeeksForGeeks/Basic/Palindrome%20Array) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/perfect-arrays4645/1) | Basic | 04 Aug 2026 | 10:16 am |

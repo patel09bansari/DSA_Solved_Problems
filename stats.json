@@ -1,14 +1,14 @@
 {
-  "totalSolved": 12,
+  "totalSolved": 13,
   "currentStreak": 1,
   "maxStreak": 1,
   "lastSyncDate": "2026-08-04",
-  "todayCount": 12,
+  "todayCount": 13,
   "difficultyCounts": {
     "easy": 8,
     "medium": 0,
     "hard": 0,
-    "basic": 4
+    "basic": 5
   },
   "syncedProblems": {
     "LeetCode_Sum_of_Unique_Elements": true,
@@ -22,10 +22,11 @@
     "GeeksForGeeks_Rotate_Array_by_One": true,
     "GeeksForGeeks_Check_Equal_Arrays": true,
     "GeeksForGeeks_Segregate_0s_and_1s": true,
-    "GeeksForGeeks_Reading_Books": true
+    "GeeksForGeeks_Reading_Books": true,
+    "GeeksForGeeks_Palindrome_Array": true
   },
   "activityHistory": {
-    "2026-08-04": 12
+    "2026-08-04": 13
   },
   "todayProblems": [
     "Sum of Unique Elements",
@@ -39,6 +40,7 @@
     "Rotate Array by One",
     "Check Equal Arrays",
     "Segregate 0s and 1s",
-    "Reading Books"
+    "Reading Books",
+    "Palindrome Array"
   ]
 }
