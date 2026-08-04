@@ -1,11 +1,11 @@
 {
-  "totalSolved": 30,
+  "totalSolved": 31,
   "currentStreak": 1,
   "maxStreak": 1,
   "lastSyncDate": "2026-08-04",
-  "todayCount": 30,
+  "todayCount": 31,
   "difficultyCounts": {
-    "easy": 16,
+    "easy": 17,
     "medium": 1,
     "hard": 0,
     "basic": 13
@@ -40,10 +40,11 @@
     "LeetCode_Pascal's_Triangle": true,
     "LeetCode_Calculate_Money_in_Leetcode_Bank": true,
     "GeeksForGeeks_Array_Traversal": true,
-    "GeeksForGeeks_Array_Search": true
+    "GeeksForGeeks_Array_Search": true,
+    "GeeksForGeeks_Bubble_Sort": true
   },
   "activityHistory": {
-    "2026-08-04": 30
+    "2026-08-04": 31
   },
   "todayProblems": [
     "Sum of Unique Elements",
@@ -75,6 +76,7 @@
     "Pascal's Triangle",
     "Calculate Money in Leetcode Bank",
     "Array Traversal",
-    "Array Search"
+    "Array Search",
+    "Bubble Sort"
   ]
 }
