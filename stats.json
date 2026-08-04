@@ -1,11 +1,11 @@
 {
-  "totalSolved": 5,
+  "totalSolved": 6,
   "currentStreak": 1,
   "maxStreak": 1,
   "lastSyncDate": "2026-08-04",
-  "todayCount": 5,
+  "todayCount": 6,
   "difficultyCounts": {
-    "easy": 3,
+    "easy": 4,
     "medium": 0,
     "hard": 0,
     "basic": 2
@@ -15,16 +15,18 @@
     "GeeksForGeeks_Sum_of_Natural_Numbers": true,
     "GeeksForGeeks_Palindrome_Number": true,
     "GeeksForGeeks_Find_element_at_a_given_Index": true,
-    "GeeksForGeeks_Largest_in_Array": true
+    "GeeksForGeeks_Largest_in_Array": true,
+    "GeeksForGeeks_Second_Largest": true
   },
   "activityHistory": {
-    "2026-08-04": 5
+    "2026-08-04": 6
   },
   "todayProblems": [
     "Sum of Unique Elements",
     "Sum of Natural Numbers",
     "Palindrome Number",
     "Find element at a given Index",
-    "Largest in Array"
+    "Largest in Array",
+    "Second Largest"
   ]
 }
