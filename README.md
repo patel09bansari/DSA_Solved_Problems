@@ -44,3 +44,4 @@
 | 42 | [Richest Customer Wealth](./LeetCode/Easy/Richest%20Customer%20Wealth) | [LeetCode](https://leetcode.com/problems/richest-customer-wealth/) | Easy | 05 Aug 2026 | 10:19 am |
 | 43 | [Intersection of Two Arrays](./LeetCode/Easy/Intersection%20of%20Two%20Arrays) | [LeetCode](https://leetcode.com/problems/intersection-of-two-arrays/) | Easy | 05 Aug 2026 | 12:19 pm |
 | 44 | [Remove Element](./LeetCode/Easy/Remove%20Element) | [LeetCode](https://leetcode.com/problems/remove-element/) | Easy | 05 Aug 2026 | 10:15 pm |
+| 45 | [Convert Sorted Array to Binary Search Tree](./LeetCode/Easy/Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree) | [LeetCode](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | Easy | 05 Aug 2026 | 10:17 pm |
