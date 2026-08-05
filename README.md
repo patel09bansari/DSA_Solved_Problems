@@ -43,3 +43,4 @@
 | 41 | [Concatenation of Array](./LeetCode/Easy/Concatenation%20of%20Array) | [LeetCode](https://leetcode.com/problems/concatenation-of-array/) | Easy | 05 Aug 2026 | 10:13 am |
 | 42 | [Richest Customer Wealth](./LeetCode/Easy/Richest%20Customer%20Wealth) | [LeetCode](https://leetcode.com/problems/richest-customer-wealth/) | Easy | 05 Aug 2026 | 10:19 am |
 | 43 | [Intersection of Two Arrays](./LeetCode/Easy/Intersection%20of%20Two%20Arrays) | [LeetCode](https://leetcode.com/problems/intersection-of-two-arrays/) | Easy | 05 Aug 2026 | 12:19 pm |
+| 44 | [Remove Element](./LeetCode/Easy/Remove%20Element) | [LeetCode](https://leetcode.com/problems/remove-element/) | Easy | 05 Aug 2026 | 10:15 pm |
