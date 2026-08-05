@@ -1,11 +1,11 @@
 {
-  "totalSolved": 41,
+  "totalSolved": 42,
   "currentStreak": 2,
   "maxStreak": 2,
   "lastSyncDate": "2026-08-05",
-  "todayCount": 7,
+  "todayCount": 8,
   "difficultyCounts": {
-    "easy": 24,
+    "easy": 25,
     "medium": 1,
     "hard": 0,
     "basic": 16
@@ -51,11 +51,12 @@
     "LeetCode_Running_Sum_of_1d_Array": true,
     "LeetCode_Build_Array_from_Permutation": true,
     "GeeksForGeeks_Insertion_Sort": true,
-    "LeetCode_Concatenation_of_Array": true
+    "LeetCode_Concatenation_of_Array": true,
+    "LeetCode_Richest_Customer_Wealth": true
   },
   "activityHistory": {
     "2026-08-04": 34,
-    "2026-08-05": 7
+    "2026-08-05": 8
   },
   "todayProblems": [
     "Selection Sort",
@@ -64,6 +65,7 @@
     "Running Sum of 1d Array",
     "Build Array from Permutation",
     "Insertion Sort",
-    "Concatenation of Array"
+    "Concatenation of Array",
+    "Richest Customer Wealth"
   ]
 }
