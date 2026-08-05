@@ -1,11 +1,11 @@
 {
-  "totalSolved": 45,
+  "totalSolved": 46,
   "currentStreak": 2,
   "maxStreak": 2,
   "lastSyncDate": "2026-08-05",
-  "todayCount": 11,
+  "todayCount": 12,
   "difficultyCounts": {
-    "easy": 28,
+    "easy": 29,
     "medium": 1,
     "hard": 0,
     "basic": 16
@@ -55,11 +55,12 @@
     "LeetCode_Richest_Customer_Wealth": true,
     "LeetCode_Intersection_of_Two_Arrays": true,
     "LeetCode_Remove_Element": true,
-    "LeetCode_Convert_Sorted_Array_to_Binary_Search_Tree": true
+    "LeetCode_Convert_Sorted_Array_to_Binary_Search_Tree": true,
+    "LeetCode_Contains_Duplicate_II": true
   },
   "activityHistory": {
     "2026-08-04": 34,
-    "2026-08-05": 11
+    "2026-08-05": 12
   },
   "todayProblems": [
     "Selection Sort",
@@ -72,6 +73,7 @@
     "Richest Customer Wealth",
     "Intersection of Two Arrays",
     "Remove Element",
-    "Convert Sorted Array to Binary Search Tree"
+    "Convert Sorted Array to Binary Search Tree",
+    "Contains Duplicate II"
   ]
 }
