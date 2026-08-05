@@ -1,11 +1,11 @@
 {
-  "totalSolved": 34,
-  "currentStreak": 1,
-  "maxStreak": 1,
-  "lastSyncDate": "2026-08-04",
-  "todayCount": 34,
+  "totalSolved": 35,
+  "currentStreak": 2,
+  "maxStreak": 2,
+  "lastSyncDate": "2026-08-05",
+  "todayCount": 1,
   "difficultyCounts": {
-    "easy": 17,
+    "easy": 18,
     "medium": 1,
     "hard": 0,
     "basic": 16
@@ -44,45 +44,14 @@
     "GeeksForGeeks_Bubble_Sort": true,
     "GeeksForGeeks_Count_Odd_and_Even": true,
     "GeeksForGeeks_Right-Angled_Number_Triangle_Pattern": true,
-    "GeeksForGeeks_Inverted_Right_Angle_Triangle_Pattern": true
+    "GeeksForGeeks_Inverted_Right_Angle_Triangle_Pattern": true,
+    "GeeksForGeeks_Selection_Sort": true
   },
   "activityHistory": {
-    "2026-08-04": 34
+    "2026-08-04": 34,
+    "2026-08-05": 1
   },
   "todayProblems": [
-    "Sum of Unique Elements",
-    "Sum of Natural Numbers",
-    "Palindrome Number",
-    "Find element at a given Index",
-    "Largest in Array",
-    "Second Largest",
-    "Sum Array Puzzle",
-    "Reverse an Array",
-    "Rotate Array by One",
-    "Check Equal Arrays",
-    "Segregate 0s and 1s",
-    "Reading Books",
-    "Palindrome Array",
-    "Boolean Matrix",
-    "Right Angle Triangle Pattern",
-    "Factorial",
-    "Pyramid Pattern",
-    "Armstrong Numbers",
-    "GCD of two numbers",
-    "Half Diamond Star Pattern",
-    "Inverted Triangle of Stars",
-    "Solid Rectangle",
-    "Prime Number",
-    "1 to n Without Loops",
-    "Print GFG n times",
-    "Pascal's Triangle II",
-    "Pascal's Triangle",
-    "Calculate Money in Leetcode Bank",
-    "Array Traversal",
-    "Array Search",
-    "Bubble Sort",
-    "Count Odd and Even",
-    "Right-Angled Number Triangle Pattern",
-    "Inverted Right Angle Triangle Pattern"
+    "Selection Sort"
   ]
 }
