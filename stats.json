@@ -1,11 +1,11 @@
 {
-  "totalSolved": 36,
+  "totalSolved": 37,
   "currentStreak": 2,
   "maxStreak": 2,
   "lastSyncDate": "2026-08-05",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
-    "easy": 19,
+    "easy": 20,
     "medium": 1,
     "hard": 0,
     "basic": 16
@@ -46,14 +46,16 @@
     "GeeksForGeeks_Right-Angled_Number_Triangle_Pattern": true,
     "GeeksForGeeks_Inverted_Right_Angle_Triangle_Pattern": true,
     "GeeksForGeeks_Selection_Sort": true,
-    "LeetCode_Find_All_Numbers_Disappeared_in_an_Array": true
+    "LeetCode_Find_All_Numbers_Disappeared_in_an_Array": true,
+    "GeeksForGeeks_Find_the_Frequency": true
   },
   "activityHistory": {
     "2026-08-04": 34,
-    "2026-08-05": 2
+    "2026-08-05": 3
   },
   "todayProblems": [
     "Selection Sort",
-    "Find All Numbers Disappeared in an Array"
+    "Find All Numbers Disappeared in an Array",
+    "Find the Frequency"
   ]
 }
