@@ -37,3 +37,4 @@
 | 35 | [Selection Sort](./GeeksForGeeks/Easy/Selection%20Sort) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/selection-sort/1) | Easy | 05 Aug 2026 | 08:21 am |
 | 36 | [Find All Numbers Disappeared in an Array](./LeetCode/Easy/Find%20All%20Numbers%20Disappeared%20in%20an%20Array) | [LeetCode](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | Easy | 05 Aug 2026 | 09:06 am |
 | 37 | [Find the Frequency](./GeeksForGeeks/Easy/Find%20the%20Frequency) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/find-the-frequency/1) | Easy | 05 Aug 2026 | 09:14 am |
+| 38 | [Running Sum of 1d Array](./LeetCode/Easy/Running%20Sum%20of%201d%20Array) | [LeetCode](https://leetcode.com/problems/running-sum-of-1d-array/) | Easy | 05 Aug 2026 | 09:19 am |
