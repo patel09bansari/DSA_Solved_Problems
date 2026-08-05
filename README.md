@@ -35,3 +35,4 @@
 | 33 | [Right-Angled Number Triangle Pattern](./GeeksForGeeks/Basic/Right-Angled%20Number%20Triangle%20Pattern) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/right-angled-number-triangle/1) | Basic | 04 Aug 2026 | 09:35 pm |
 | 34 | [Inverted Right Angle Triangle Pattern](./GeeksForGeeks/Basic/Inverted%20Right%20Angle%20Triangle%20Pattern) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/inverted-right-angletriangle-1605691171--104349/1) | Basic | 04 Aug 2026 | 09:38 pm |
 | 35 | [Selection Sort](./GeeksForGeeks/Easy/Selection%20Sort) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/selection-sort/1) | Easy | 05 Aug 2026 | 08:21 am |
+| 36 | [Find All Numbers Disappeared in an Array](./LeetCode/Easy/Find%20All%20Numbers%20Disappeared%20in%20an%20Array) | [LeetCode](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | Easy | 05 Aug 2026 | 09:06 am |
