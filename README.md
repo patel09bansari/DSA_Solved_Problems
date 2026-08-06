@@ -48,3 +48,4 @@
 | 46 | [Contains Duplicate II](./LeetCode/Easy/Contains%20Duplicate%20II) | [LeetCode](https://leetcode.com/problems/contains-duplicate-ii/) | Easy | 05 Aug 2026 | 10:22 pm |
 | 47 | [Summary Ranges](./LeetCode/Easy/Summary%20Ranges) | [LeetCode](https://leetcode.com/problems/summary-ranges/) | Easy | 05 Aug 2026 | 10:23 pm |
 | 48 | [Range Sum Query - Immutable](./LeetCode/Easy/Range%20Sum%20Query%20-%20Immutable) | [LeetCode](https://leetcode.com/problems/range-sum-query-immutable/) | Easy | 06 Aug 2026 | 07:46 pm |
+| 49 | [Missing in Array](./GeeksForGeeks/Easy/Missing%20in%20Array) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/missing-number-in-array1416/1) | Easy | 06 Aug 2026 | 07:48 pm |
