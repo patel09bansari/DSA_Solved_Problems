@@ -1,11 +1,11 @@
 {
-  "totalSolved": 50,
+  "totalSolved": 51,
   "currentStreak": 3,
   "maxStreak": 3,
   "lastSyncDate": "2026-08-06",
-  "todayCount": 3,
+  "todayCount": 4,
   "difficultyCounts": {
-    "easy": 32,
+    "easy": 33,
     "medium": 2,
     "hard": 0,
     "basic": 16
@@ -60,16 +60,18 @@
     "LeetCode_Summary_Ranges": true,
     "LeetCode_Range_Sum_Query_-_Immutable": true,
     "GeeksForGeeks_Missing_in_Array": true,
-    "GeeksForGeeks_Minimum_Increment_or_Double_Operations_to_Convert": true
+    "GeeksForGeeks_Minimum_Increment_or_Double_Operations_to_Convert": true,
+    "LeetCode_Smallest_Divisible_Digit_Product_I": true
   },
   "activityHistory": {
     "2026-08-04": 34,
     "2026-08-05": 13,
-    "2026-08-06": 3
+    "2026-08-06": 4
   },
   "todayProblems": [
     "Range Sum Query - Immutable",
     "Missing in Array",
-    "Minimum Increment or Double Operations to Convert"
+    "Minimum Increment or Double Operations to Convert",
+    "Smallest Divisible Digit Product I"
   ]
 }

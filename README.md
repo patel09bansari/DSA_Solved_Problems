@@ -50,3 +50,4 @@
 | 48 | [Range Sum Query - Immutable](./LeetCode/Easy/Range%20Sum%20Query%20-%20Immutable) | [LeetCode](https://leetcode.com/problems/range-sum-query-immutable/) | Easy | 06 Aug 2026 | 07:46 pm |
 | 49 | [Missing in Array](./GeeksForGeeks/Easy/Missing%20in%20Array) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/missing-number-in-array1416/1) | Easy | 06 Aug 2026 | 07:48 pm |
 | 50 | [Minimum Increment or Double Operations to Convert](./GeeksForGeeks/Medium/Minimum%20Increment%20or%20Double%20Operations%20to%20Convert) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/minimum-steps-to-get-desired-array5519/1) | Medium | 06 Aug 2026 | 07:51 pm |
+| 51 | [Smallest Divisible Digit Product I](./LeetCode/Easy/Smallest%20Divisible%20Digit%20Product%20I) | [LeetCode](https://leetcode.com/problems/smallest-divisible-digit-product-i/) | Easy | 06 Aug 2026 | 07:54 pm |
