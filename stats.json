@@ -1,12 +1,12 @@
 {
-  "totalSolved": 49,
+  "totalSolved": 50,
   "currentStreak": 3,
   "maxStreak": 3,
   "lastSyncDate": "2026-08-06",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
     "easy": 32,
-    "medium": 1,
+    "medium": 2,
     "hard": 0,
     "basic": 16
   },
@@ -59,15 +59,17 @@
     "LeetCode_Contains_Duplicate_II": true,
     "LeetCode_Summary_Ranges": true,
     "LeetCode_Range_Sum_Query_-_Immutable": true,
-    "GeeksForGeeks_Missing_in_Array": true
+    "GeeksForGeeks_Missing_in_Array": true,
+    "GeeksForGeeks_Minimum_Increment_or_Double_Operations_to_Convert": true
   },
   "activityHistory": {
     "2026-08-04": 34,
     "2026-08-05": 13,
-    "2026-08-06": 2
+    "2026-08-06": 3
   },
   "todayProblems": [
     "Range Sum Query - Immutable",
-    "Missing in Array"
+    "Missing in Array",
+    "Minimum Increment or Double Operations to Convert"
   ]
 }
