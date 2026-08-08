@@ -1,12 +1,12 @@
 {
-  "totalSolved": 54,
+  "totalSolved": 55,
   "currentStreak": 5,
   "maxStreak": 5,
   "lastSyncDate": "2026-08-08",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 33,
-    "medium": 4,
+    "medium": 5,
     "hard": 1,
     "basic": 16
   },
@@ -64,16 +64,18 @@
     "LeetCode_Smallest_Divisible_Digit_Product_I": true,
     "GeeksForGeeks_Friends_Pairing_Problem": true,
     "LeetCode_Smallest_Divisible_Digit_Product_II": true,
-    "GeeksForGeeks_Min_Edge_Movements_to_Connect_a_Graph": true
+    "GeeksForGeeks_Min_Edge_Movements_to_Connect_a_Graph": true,
+    "LeetCode_Find_the_Lexicographically_Smallest_Valid_Sequence": true
   },
   "activityHistory": {
     "2026-08-04": 34,
     "2026-08-05": 13,
     "2026-08-06": 4,
     "2026-08-07": 2,
-    "2026-08-08": 1
+    "2026-08-08": 2
   },
   "todayProblems": [
-    "Min Edge Movements to Connect a Graph"
+    "Min Edge Movements to Connect a Graph",
+    "Find the Lexicographically Smallest Valid Sequence"
   ]
 }

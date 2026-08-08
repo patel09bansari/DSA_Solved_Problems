@@ -54,3 +54,4 @@
 | 52 | [Friends Pairing Problem](./GeeksForGeeks/Medium/Friends%20Pairing%20Problem) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/friends-pairing-problem5425/1) | Medium | 07 Aug 2026 | 02:40 pm |
 | 53 | [Smallest Divisible Digit Product II](./LeetCode/Hard/Smallest%20Divisible%20Digit%20Product%20II) | [LeetCode](https://leetcode.com/problems/smallest-divisible-digit-product-ii/) | Hard | 07 Aug 2026 | 02:46 pm |
 | 54 | [Min Edge Movements to Connect a Graph](./GeeksForGeeks/Medium/Min%20Edge%20Movements%20to%20Connect%20a%20Graph) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/connecting-the-graph/1) | Medium | 08 Aug 2026 | 09:09 am |
+| 55 | [Find the Lexicographically Smallest Valid Sequence](./LeetCode/Medium/Find%20the%20Lexicographically%20Smallest%20Valid%20Sequence) | [LeetCode](https://leetcode.com/problems/find-the-lexicographically-smallest-valid-sequence/) | Medium | 08 Aug 2026 | 10:20 am |
