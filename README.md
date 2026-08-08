@@ -53,3 +53,4 @@
 | 51 | [Smallest Divisible Digit Product I](./LeetCode/Easy/Smallest%20Divisible%20Digit%20Product%20I) | [LeetCode](https://leetcode.com/problems/smallest-divisible-digit-product-i/) | Easy | 06 Aug 2026 | 07:54 pm |
 | 52 | [Friends Pairing Problem](./GeeksForGeeks/Medium/Friends%20Pairing%20Problem) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/friends-pairing-problem5425/1) | Medium | 07 Aug 2026 | 02:40 pm |
 | 53 | [Smallest Divisible Digit Product II](./LeetCode/Hard/Smallest%20Divisible%20Digit%20Product%20II) | [LeetCode](https://leetcode.com/problems/smallest-divisible-digit-product-ii/) | Hard | 07 Aug 2026 | 02:46 pm |
+| 54 | [Min Edge Movements to Connect a Graph](./GeeksForGeeks/Medium/Min%20Edge%20Movements%20to%20Connect%20a%20Graph) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/connecting-the-graph/1) | Medium | 08 Aug 2026 | 09:09 am |

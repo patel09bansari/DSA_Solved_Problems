@@ -1,12 +1,12 @@
 {
-  "totalSolved": 53,
-  "currentStreak": 4,
-  "maxStreak": 4,
-  "lastSyncDate": "2026-08-07",
-  "todayCount": 2,
+  "totalSolved": 54,
+  "currentStreak": 5,
+  "maxStreak": 5,
+  "lastSyncDate": "2026-08-08",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 33,
-    "medium": 3,
+    "medium": 4,
     "hard": 1,
     "basic": 16
   },
@@ -63,16 +63,17 @@
     "GeeksForGeeks_Minimum_Increment_or_Double_Operations_to_Convert": true,
     "LeetCode_Smallest_Divisible_Digit_Product_I": true,
     "GeeksForGeeks_Friends_Pairing_Problem": true,
-    "LeetCode_Smallest_Divisible_Digit_Product_II": true
+    "LeetCode_Smallest_Divisible_Digit_Product_II": true,
+    "GeeksForGeeks_Min_Edge_Movements_to_Connect_a_Graph": true
   },
   "activityHistory": {
     "2026-08-04": 34,
     "2026-08-05": 13,
     "2026-08-06": 4,
-    "2026-08-07": 2
+    "2026-08-07": 2,
+    "2026-08-08": 1
   },
   "todayProblems": [
-    "Friends Pairing Problem",
-    "Smallest Divisible Digit Product II"
+    "Min Edge Movements to Connect a Graph"
   ]
 }
