@@ -1,11 +1,11 @@
 {
-  "totalSolved": 55,
-  "currentStreak": 5,
-  "maxStreak": 5,
-  "lastSyncDate": "2026-08-08",
-  "todayCount": 2,
+  "totalSolved": 56,
+  "currentStreak": 6,
+  "maxStreak": 6,
+  "lastSyncDate": "2026-08-09",
+  "todayCount": 1,
   "difficultyCounts": {
-    "easy": 33,
+    "easy": 34,
     "medium": 5,
     "hard": 1,
     "basic": 16
@@ -65,17 +65,18 @@
     "GeeksForGeeks_Friends_Pairing_Problem": true,
     "LeetCode_Smallest_Divisible_Digit_Product_II": true,
     "GeeksForGeeks_Min_Edge_Movements_to_Connect_a_Graph": true,
-    "LeetCode_Find_the_Lexicographically_Smallest_Valid_Sequence": true
+    "LeetCode_Find_the_Lexicographically_Smallest_Valid_Sequence": true,
+    "GeeksForGeeks_Largest_Zigzag_Sequence": true
   },
   "activityHistory": {
     "2026-08-04": 34,
     "2026-08-05": 13,
     "2026-08-06": 4,
     "2026-08-07": 2,
-    "2026-08-08": 2
+    "2026-08-08": 2,
+    "2026-08-09": 1
   },
   "todayProblems": [
-    "Min Edge Movements to Connect a Graph",
-    "Find the Lexicographically Smallest Valid Sequence"
+    "Largest Zigzag Sequence"
   ]
 }
