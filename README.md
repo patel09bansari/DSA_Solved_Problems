@@ -60,3 +60,4 @@
 | 58 | [Most Frequent in an Array](./GeeksForGeeks/Easy/Most%20Frequent%20in%20an%20Array) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/most-frequent-element-in-an-array/1) | Easy | 10 Aug 2026 | 08:14 am |
 | 59 | [Sort Colors](./LeetCode/Medium/Sort%20Colors) | [LeetCode](https://leetcode.com/problems/sort-colors/) | Medium | 10 Aug 2026 | 10:11 am |
 | 60 | [High Effort vs Low Effort](./GeeksForGeeks/Easy/High%20Effort%20vs%20Low%20Effort) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/high-effort-vs-low-effort0213/1) | Easy | 10 Aug 2026 | 06:58 pm |
+| 61 | [Stone Game IV](./LeetCode/Hard/Stone%20Game%20IV) | [LeetCode](https://leetcode.com/problems/stone-game-iv/) | Hard | 10 Aug 2026 | 06:59 pm |
