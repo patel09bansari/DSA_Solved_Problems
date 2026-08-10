@@ -58,3 +58,4 @@
 | 56 | [Largest Zigzag Sequence](./GeeksForGeeks/Easy/Largest%20Zigzag%20Sequence) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/largest-zigzag-sequence5416/1) | Easy | 09 Aug 2026 | 11:19 am |
 | 57 | [Stone Game II](./LeetCode/Medium/Stone%20Game%20II) | [LeetCode](https://leetcode.com/problems/stone-game-ii/) | Medium | 09 Aug 2026 | 11:20 am |
 | 58 | [Most Frequent in an Array](./GeeksForGeeks/Easy/Most%20Frequent%20in%20an%20Array) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/most-frequent-element-in-an-array/1) | Easy | 10 Aug 2026 | 08:14 am |
+| 59 | [Sort Colors](./LeetCode/Medium/Sort%20Colors) | [LeetCode](https://leetcode.com/problems/sort-colors/) | Medium | 10 Aug 2026 | 10:11 am |

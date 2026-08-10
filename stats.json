@@ -1,12 +1,12 @@
 {
-  "totalSolved": 58,
+  "totalSolved": 59,
   "currentStreak": 7,
   "maxStreak": 7,
   "lastSyncDate": "2026-08-10",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 35,
-    "medium": 6,
+    "medium": 7,
     "hard": 1,
     "basic": 16
   },
@@ -68,7 +68,8 @@
     "LeetCode_Find_the_Lexicographically_Smallest_Valid_Sequence": true,
     "GeeksForGeeks_Largest_Zigzag_Sequence": true,
     "LeetCode_Stone_Game_II": true,
-    "GeeksForGeeks_Most_Frequent_in_an_Array": true
+    "GeeksForGeeks_Most_Frequent_in_an_Array": true,
+    "LeetCode_Sort_Colors": true
   },
   "activityHistory": {
     "2026-08-04": 34,
@@ -77,9 +78,10 @@
     "2026-08-07": 2,
     "2026-08-08": 2,
     "2026-08-09": 2,
-    "2026-08-10": 1
+    "2026-08-10": 2
   },
   "todayProblems": [
-    "Most Frequent in an Array"
+    "Most Frequent in an Array",
+    "Sort Colors"
   ]
 }
