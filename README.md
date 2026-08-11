@@ -63,3 +63,4 @@
 | 61 | [Stone Game IV](./LeetCode/Hard/Stone%20Game%20IV) | [LeetCode](https://leetcode.com/problems/stone-game-iv/) | Hard | 10 Aug 2026 | 06:59 pm |
 | 62 | [Find Target Indices After Sorting Array](./LeetCode/Easy/Find%20Target%20Indices%20After%20Sorting%20Array) | [LeetCode](https://leetcode.com/problems/find-target-indices-after-sorting-array/) | Easy | 11 Aug 2026 | 07:35 am |
 | 63 | [Determine Whether Matrix Can Be Obtained By Rotation](./LeetCode/Easy/Determine%20Whether%20Matrix%20Can%20Be%20Obtained%20By%20Rotation) | [LeetCode](https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/) | Easy | 11 Aug 2026 | 08:46 am |
+| 64 | [Largest Odd Squares with Limited 1s](./GeeksForGeeks/Medium/Largest%20Odd%20Squares%20with%20Limited%201s) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/largest-square-in-a-binary-matrix-with-at-most-k-1s-for-multiple-queries/1) | Medium | 11 Aug 2026 | 05:19 pm |

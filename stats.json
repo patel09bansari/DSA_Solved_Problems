@@ -1,12 +1,12 @@
 {
-  "totalSolved": 63,
+  "totalSolved": 64,
   "currentStreak": 8,
   "maxStreak": 8,
   "lastSyncDate": "2026-08-11",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
     "easy": 38,
-    "medium": 7,
+    "medium": 8,
     "hard": 2,
     "basic": 16
   },
@@ -73,7 +73,8 @@
     "GeeksForGeeks_High_Effort_vs_Low_Effort": true,
     "LeetCode_Stone_Game_IV": true,
     "LeetCode_Find_Target_Indices_After_Sorting_Array": true,
-    "LeetCode_Determine_Whether_Matrix_Can_Be_Obtained_By_Rotation": true
+    "LeetCode_Determine_Whether_Matrix_Can_Be_Obtained_By_Rotation": true,
+    "GeeksForGeeks_Largest_Odd_Squares_with_Limited_1s": true
   },
   "activityHistory": {
     "2026-08-04": 34,
@@ -83,10 +84,11 @@
     "2026-08-08": 2,
     "2026-08-09": 2,
     "2026-08-10": 4,
-    "2026-08-11": 2
+    "2026-08-11": 3
   },
   "todayProblems": [
     "Find Target Indices After Sorting Array",
-    "Determine Whether Matrix Can Be Obtained By Rotation"
+    "Determine Whether Matrix Can Be Obtained By Rotation",
+    "Largest Odd Squares with Limited 1s"
   ]
 }
