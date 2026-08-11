@@ -1,11 +1,11 @@
 {
-  "totalSolved": 62,
+  "totalSolved": 63,
   "currentStreak": 8,
   "maxStreak": 8,
   "lastSyncDate": "2026-08-11",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
-    "easy": 37,
+    "easy": 38,
     "medium": 7,
     "hard": 2,
     "basic": 16
@@ -72,7 +72,8 @@
     "LeetCode_Sort_Colors": true,
     "GeeksForGeeks_High_Effort_vs_Low_Effort": true,
     "LeetCode_Stone_Game_IV": true,
-    "LeetCode_Find_Target_Indices_After_Sorting_Array": true
+    "LeetCode_Find_Target_Indices_After_Sorting_Array": true,
+    "LeetCode_Determine_Whether_Matrix_Can_Be_Obtained_By_Rotation": true
   },
   "activityHistory": {
     "2026-08-04": 34,
@@ -82,9 +83,10 @@
     "2026-08-08": 2,
     "2026-08-09": 2,
     "2026-08-10": 4,
-    "2026-08-11": 1
+    "2026-08-11": 2
   },
   "todayProblems": [
-    "Find Target Indices After Sorting Array"
+    "Find Target Indices After Sorting Array",
+    "Determine Whether Matrix Can Be Obtained By Rotation"
   ]
 }

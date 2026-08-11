@@ -62,3 +62,4 @@
 | 60 | [High Effort vs Low Effort](./GeeksForGeeks/Easy/High%20Effort%20vs%20Low%20Effort) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/high-effort-vs-low-effort0213/1) | Easy | 10 Aug 2026 | 06:58 pm |
 | 61 | [Stone Game IV](./LeetCode/Hard/Stone%20Game%20IV) | [LeetCode](https://leetcode.com/problems/stone-game-iv/) | Hard | 10 Aug 2026 | 06:59 pm |
 | 62 | [Find Target Indices After Sorting Array](./LeetCode/Easy/Find%20Target%20Indices%20After%20Sorting%20Array) | [LeetCode](https://leetcode.com/problems/find-target-indices-after-sorting-array/) | Easy | 11 Aug 2026 | 07:35 am |
+| 63 | [Determine Whether Matrix Can Be Obtained By Rotation](./LeetCode/Easy/Determine%20Whether%20Matrix%20Can%20Be%20Obtained%20By%20Rotation) | [LeetCode](https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/) | Easy | 11 Aug 2026 | 08:46 am |
