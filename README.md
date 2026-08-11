@@ -61,3 +61,4 @@
 | 59 | [Sort Colors](./LeetCode/Medium/Sort%20Colors) | [LeetCode](https://leetcode.com/problems/sort-colors/) | Medium | 10 Aug 2026 | 10:11 am |
 | 60 | [High Effort vs Low Effort](./GeeksForGeeks/Easy/High%20Effort%20vs%20Low%20Effort) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/high-effort-vs-low-effort0213/1) | Easy | 10 Aug 2026 | 06:58 pm |
 | 61 | [Stone Game IV](./LeetCode/Hard/Stone%20Game%20IV) | [LeetCode](https://leetcode.com/problems/stone-game-iv/) | Hard | 10 Aug 2026 | 06:59 pm |
+| 62 | [Find Target Indices After Sorting Array](./LeetCode/Easy/Find%20Target%20Indices%20After%20Sorting%20Array) | [LeetCode](https://leetcode.com/problems/find-target-indices-after-sorting-array/) | Easy | 11 Aug 2026 | 07:35 am |
