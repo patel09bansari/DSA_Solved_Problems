@@ -66,3 +66,4 @@
 | 64 | [Largest Odd Squares with Limited 1s](./GeeksForGeeks/Medium/Largest%20Odd%20Squares%20with%20Limited%201s) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/largest-square-in-a-binary-matrix-with-at-most-k-1s-for-multiple-queries/1) | Medium | 11 Aug 2026 | 05:19 pm |
 | 65 | [Smallest Missing Integer Greater Than Sequential Prefix Sum](./LeetCode/Easy/Smallest%20Missing%20Integer%20Greater%20Than%20Sequential%20Prefix%20Sum) | [LeetCode](https://leetcode.com/problems/smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy | 11 Aug 2026 | 05:20 pm |
 | 66 | [Toggle Case](./GeeksForGeeks/Easy/Toggle%20Case) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/toggle-case/1) | Easy | 12 Aug 2026 | 07:47 am |
+| 67 | [Duplicate Zeros](./LeetCode/Easy/Duplicate%20Zeros) | [LeetCode](https://leetcode.com/problems/duplicate-zeros/) | Easy | 12 Aug 2026 | 08:03 am |
