@@ -67,3 +67,4 @@
 | 65 | [Smallest Missing Integer Greater Than Sequential Prefix Sum](./LeetCode/Easy/Smallest%20Missing%20Integer%20Greater%20Than%20Sequential%20Prefix%20Sum) | [LeetCode](https://leetcode.com/problems/smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy | 11 Aug 2026 | 05:20 pm |
 | 66 | [Toggle Case](./GeeksForGeeks/Easy/Toggle%20Case) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/toggle-case/1) | Easy | 12 Aug 2026 | 07:47 am |
 | 67 | [Duplicate Zeros](./LeetCode/Easy/Duplicate%20Zeros) | [LeetCode](https://leetcode.com/problems/duplicate-zeros/) | Easy | 12 Aug 2026 | 08:03 am |
+| 68 | [Count Words in a String](./GeeksForGeeks/Easy/Count%20Words%20in%20a%20String) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/count-number-of-words1500/1?utm_source=gfg&utm_medium=article&utm_campaign=bottom_sticky_on_article) | Easy | 12 Aug 2026 | 09:50 am |
