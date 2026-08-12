@@ -1,11 +1,11 @@
 {
-  "totalSolved": 65,
-  "currentStreak": 8,
-  "maxStreak": 8,
-  "lastSyncDate": "2026-08-11",
-  "todayCount": 4,
+  "totalSolved": 66,
+  "currentStreak": 9,
+  "maxStreak": 9,
+  "lastSyncDate": "2026-08-12",
+  "todayCount": 1,
   "difficultyCounts": {
-    "easy": 39,
+    "easy": 40,
     "medium": 8,
     "hard": 2,
     "basic": 16
@@ -75,7 +75,8 @@
     "LeetCode_Find_Target_Indices_After_Sorting_Array": true,
     "LeetCode_Determine_Whether_Matrix_Can_Be_Obtained_By_Rotation": true,
     "GeeksForGeeks_Largest_Odd_Squares_with_Limited_1s": true,
-    "LeetCode_Smallest_Missing_Integer_Greater_Than_Sequential_Prefix_Sum": true
+    "LeetCode_Smallest_Missing_Integer_Greater_Than_Sequential_Prefix_Sum": true,
+    "GeeksForGeeks_Toggle_Case": true
   },
   "activityHistory": {
     "2026-08-04": 34,
@@ -85,12 +86,10 @@
     "2026-08-08": 2,
     "2026-08-09": 2,
     "2026-08-10": 4,
-    "2026-08-11": 4
+    "2026-08-11": 4,
+    "2026-08-12": 1
   },
   "todayProblems": [
-    "Find Target Indices After Sorting Array",
-    "Determine Whether Matrix Can Be Obtained By Rotation",
-    "Largest Odd Squares with Limited 1s",
-    "Smallest Missing Integer Greater Than Sequential Prefix Sum"
+    "Toggle Case"
   ]
 }
