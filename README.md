@@ -69,3 +69,4 @@
 | 67 | [Duplicate Zeros](./LeetCode/Easy/Duplicate%20Zeros) | [LeetCode](https://leetcode.com/problems/duplicate-zeros/) | Easy | 12 Aug 2026 | 08:03 am |
 | 68 | [Count Words in a String](./GeeksForGeeks/Easy/Count%20Words%20in%20a%20String) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/count-number-of-words1500/1?utm_source=gfg&utm_medium=article&utm_campaign=bottom_sticky_on_article) | Easy | 12 Aug 2026 | 09:50 am |
 | 69 | [Valid Palindrome](./LeetCode/Easy/Valid%20Palindrome) | [LeetCode](https://leetcode.com/problems/valid-palindrome/) | Easy | 12 Aug 2026 | 10:33 am |
+| 70 | [Adventure in a Maze](./GeeksForGeeks/Hard/Adventure%20in%20a%20Maze) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/adventure-in-a-maze2051/1) | Hard | 12 Aug 2026 | 06:44 pm |
