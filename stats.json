@@ -1,13 +1,13 @@
 {
-  "totalSolved": 75,
+  "totalSolved": 76,
   "currentStreak": 10,
   "maxStreak": 10,
   "lastSyncDate": "2026-08-13",
-  "todayCount": 4,
+  "todayCount": 5,
   "difficultyCounts": {
     "easy": 45,
     "medium": 10,
-    "hard": 4,
+    "hard": 5,
     "basic": 16
   },
   "syncedProblems": {
@@ -85,7 +85,8 @@
     "GeeksForGeeks_Convert_Sentence_to_Camel_Case": true,
     "GeeksForGeeks_Search_a_Character_in_a_String": true,
     "LeetCode_Capitalize_the_Title": true,
-    "LeetCode_Longest_Substring_of_One_Repeating_Character": true
+    "LeetCode_Longest_Substring_of_One_Repeating_Character": true,
+    "GeeksForGeeks_Longest_Path_in_a_Directed_Acyclic_Graph": true
   },
   "activityHistory": {
     "2026-08-04": 34,
@@ -97,12 +98,13 @@
     "2026-08-10": 4,
     "2026-08-11": 4,
     "2026-08-12": 6,
-    "2026-08-13": 4
+    "2026-08-13": 5
   },
   "todayProblems": [
     "Convert Sentence to Camel Case",
     "Search a Character in a String",
     "Capitalize the Title",
-    "Longest Substring of One Repeating Character"
+    "Longest Substring of One Repeating Character",
+    "Longest Path in a Directed Acyclic Graph"
   ]
 }
