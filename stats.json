@@ -1,13 +1,13 @@
 {
-  "totalSolved": 74,
+  "totalSolved": 75,
   "currentStreak": 10,
   "maxStreak": 10,
   "lastSyncDate": "2026-08-13",
-  "todayCount": 3,
+  "todayCount": 4,
   "difficultyCounts": {
     "easy": 45,
     "medium": 10,
-    "hard": 3,
+    "hard": 4,
     "basic": 16
   },
   "syncedProblems": {
@@ -84,7 +84,8 @@
     "LeetCode_Length_of_Longest_Subarray_With_at_Most_K_Frequency": true,
     "GeeksForGeeks_Convert_Sentence_to_Camel_Case": true,
     "GeeksForGeeks_Search_a_Character_in_a_String": true,
-    "LeetCode_Capitalize_the_Title": true
+    "LeetCode_Capitalize_the_Title": true,
+    "LeetCode_Longest_Substring_of_One_Repeating_Character": true
   },
   "activityHistory": {
     "2026-08-04": 34,
@@ -96,11 +97,12 @@
     "2026-08-10": 4,
     "2026-08-11": 4,
     "2026-08-12": 6,
-    "2026-08-13": 3
+    "2026-08-13": 4
   },
   "todayProblems": [
     "Convert Sentence to Camel Case",
     "Search a Character in a String",
-    "Capitalize the Title"
+    "Capitalize the Title",
+    "Longest Substring of One Repeating Character"
   ]
 }
