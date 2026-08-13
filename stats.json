@@ -1,11 +1,11 @@
 {
-  "totalSolved": 72,
+  "totalSolved": 73,
   "currentStreak": 10,
   "maxStreak": 10,
   "lastSyncDate": "2026-08-13",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
-    "easy": 43,
+    "easy": 44,
     "medium": 10,
     "hard": 3,
     "basic": 16
@@ -82,7 +82,8 @@
     "LeetCode_Valid_Palindrome": true,
     "GeeksForGeeks_Adventure_in_a_Maze": true,
     "LeetCode_Length_of_Longest_Subarray_With_at_Most_K_Frequency": true,
-    "GeeksForGeeks_Convert_Sentence_to_Camel_Case": true
+    "GeeksForGeeks_Convert_Sentence_to_Camel_Case": true,
+    "GeeksForGeeks_Search_a_Character_in_a_String": true
   },
   "activityHistory": {
     "2026-08-04": 34,
@@ -94,9 +95,10 @@
     "2026-08-10": 4,
     "2026-08-11": 4,
     "2026-08-12": 6,
-    "2026-08-13": 1
+    "2026-08-13": 2
   },
   "todayProblems": [
-    "Convert Sentence to Camel Case"
+    "Convert Sentence to Camel Case",
+    "Search a Character in a String"
   ]
 }

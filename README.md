@@ -72,3 +72,4 @@
 | 70 | [Adventure in a Maze](./GeeksForGeeks/Hard/Adventure%20in%20a%20Maze) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/adventure-in-a-maze2051/1) | Hard | 12 Aug 2026 | 06:44 pm |
 | 71 | [Length of Longest Subarray With at Most K Frequency](./LeetCode/Medium/Length%20of%20Longest%20Subarray%20With%20at%20Most%20K%20Frequency) | [LeetCode](https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency/) | Medium | 12 Aug 2026 | 06:46 pm |
 | 72 | [Convert Sentence to Camel Case](./GeeksForGeeks/Medium/Convert%20Sentence%20to%20Camel%20Case) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/convert-sentence-to-camel-case/1) | Medium | 13 Aug 2026 | 08:10 am |
+| 73 | [Search a Character in a String](./GeeksForGeeks/Easy/Search%20a%20Character%20in%20a%20String) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/search-a-character-in-a-string/1) | Easy | 13 Aug 2026 | 08:23 am |
