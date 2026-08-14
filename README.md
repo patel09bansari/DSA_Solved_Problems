@@ -76,3 +76,4 @@
 | 74 | [Capitalize the Title](./LeetCode/Easy/Capitalize%20the%20Title) | [LeetCode](https://leetcode.com/problems/capitalize-the-title/) | Easy | 13 Aug 2026 | 10:33 am |
 | 75 | [Longest Substring of One Repeating Character](./LeetCode/Hard/Longest%20Substring%20of%20One%20Repeating%20Character) | [LeetCode](https://leetcode.com/problems/longest-substring-of-one-repeating-character/) | Hard | 13 Aug 2026 | 10:32 pm |
 | 76 | [Longest Path in a Directed Acyclic Graph](./GeeksForGeeks/Hard/Longest%20Path%20in%20a%20Directed%20Acyclic%20Graph) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/longest-path-in-a-directed-acyclic-graph/1) | Hard | 13 Aug 2026 | 10:33 pm |
+| 77 | [Maximum Length Substring With Two Occurrences](./LeetCode/Easy/Maximum%20Length%20Substring%20With%20Two%20Occurrences) | [LeetCode](https://leetcode.com/problems/maximum-length-substring-with-two-occurrences/) | Easy | 14 Aug 2026 | 09:14 pm |
