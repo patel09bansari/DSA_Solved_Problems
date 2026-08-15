@@ -1,12 +1,12 @@
 {
-  "totalSolved": 77,
-  "currentStreak": 11,
-  "maxStreak": 11,
-  "lastSyncDate": "2026-08-14",
+  "totalSolved": 78,
+  "currentStreak": 12,
+  "maxStreak": 12,
+  "lastSyncDate": "2026-08-15",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 46,
-    "medium": 10,
+    "medium": 11,
     "hard": 5,
     "basic": 16
   },
@@ -87,7 +87,8 @@
     "LeetCode_Capitalize_the_Title": true,
     "LeetCode_Longest_Substring_of_One_Repeating_Character": true,
     "GeeksForGeeks_Longest_Path_in_a_Directed_Acyclic_Graph": true,
-    "LeetCode_Maximum_Length_Substring_With_Two_Occurrences": true
+    "LeetCode_Maximum_Length_Substring_With_Two_Occurrences": true,
+    "LeetCode_Longest_Subsequence_With_Non-Zero_Bitwise_XOR": true
   },
   "activityHistory": {
     "2026-08-04": 34,
@@ -100,9 +101,10 @@
     "2026-08-11": 4,
     "2026-08-12": 6,
     "2026-08-13": 5,
-    "2026-08-14": 1
+    "2026-08-14": 1,
+    "2026-08-15": 1
   },
   "todayProblems": [
-    "Maximum Length Substring With Two Occurrences"
+    "Longest Subsequence With Non-Zero Bitwise XOR"
   ]
 }
