@@ -1,13 +1,13 @@
 {
-  "totalSolved": 78,
+  "totalSolved": 79,
   "currentStreak": 12,
   "maxStreak": 12,
   "lastSyncDate": "2026-08-15",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 46,
     "medium": 11,
-    "hard": 5,
+    "hard": 6,
     "basic": 16
   },
   "syncedProblems": {
@@ -88,7 +88,8 @@
     "LeetCode_Longest_Substring_of_One_Repeating_Character": true,
     "GeeksForGeeks_Longest_Path_in_a_Directed_Acyclic_Graph": true,
     "LeetCode_Maximum_Length_Substring_With_Two_Occurrences": true,
-    "LeetCode_Longest_Subsequence_With_Non-Zero_Bitwise_XOR": true
+    "LeetCode_Longest_Subsequence_With_Non-Zero_Bitwise_XOR": true,
+    "GeeksForGeeks_Numbers_Without_d_as_Digit": true
   },
   "activityHistory": {
     "2026-08-04": 34,
@@ -102,9 +103,10 @@
     "2026-08-12": 6,
     "2026-08-13": 5,
     "2026-08-14": 1,
-    "2026-08-15": 1
+    "2026-08-15": 2
   },
   "todayProblems": [
-    "Longest Subsequence With Non-Zero Bitwise XOR"
+    "Longest Subsequence With Non-Zero Bitwise XOR",
+    "Numbers Without d as Digit"
   ]
 }

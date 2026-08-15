@@ -78,3 +78,4 @@
 | 76 | [Longest Path in a Directed Acyclic Graph](./GeeksForGeeks/Hard/Longest%20Path%20in%20a%20Directed%20Acyclic%20Graph) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/longest-path-in-a-directed-acyclic-graph/1) | Hard | 13 Aug 2026 | 10:33 pm |
 | 77 | [Maximum Length Substring With Two Occurrences](./LeetCode/Easy/Maximum%20Length%20Substring%20With%20Two%20Occurrences) | [LeetCode](https://leetcode.com/problems/maximum-length-substring-with-two-occurrences/) | Easy | 14 Aug 2026 | 09:14 pm |
 | 78 | [Longest Subsequence With Non-Zero Bitwise XOR](./LeetCode/Medium/Longest%20Subsequence%20With%20Non-Zero%20Bitwise%20XOR) | [LeetCode](https://leetcode.com/problems/longest-subsequence-with-non-zero-bitwise-xor/) | Medium | 15 Aug 2026 | 08:58 am |
+| 79 | [Numbers Without d as Digit](./GeeksForGeeks/Hard/Numbers%20Without%20d%20as%20Digit) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/count-numbers2004/1) | Hard | 15 Aug 2026 | 09:00 am |
