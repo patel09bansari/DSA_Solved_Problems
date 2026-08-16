@@ -1,12 +1,12 @@
 {
-  "totalSolved": 80,
+  "totalSolved": 81,
   "currentStreak": 13,
   "maxStreak": 13,
   "lastSyncDate": "2026-08-16",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 46,
-    "medium": 12,
+    "medium": 13,
     "hard": 6,
     "basic": 16
   },
@@ -90,7 +90,8 @@
     "LeetCode_Maximum_Length_Substring_With_Two_Occurrences": true,
     "LeetCode_Longest_Subsequence_With_Non-Zero_Bitwise_XOR": true,
     "GeeksForGeeks_Numbers_Without_d_as_Digit": true,
-    "GeeksForGeeks_Min_Product_Subset": true
+    "GeeksForGeeks_Min_Product_Subset": true,
+    "LeetCode_Stone_Game_IX": true
   },
   "activityHistory": {
     "2026-08-04": 34,
@@ -105,9 +106,10 @@
     "2026-08-13": 5,
     "2026-08-14": 1,
     "2026-08-15": 2,
-    "2026-08-16": 1
+    "2026-08-16": 2
   },
   "todayProblems": [
-    "Min Product Subset"
+    "Min Product Subset",
+    "Stone Game IX"
   ]
 }
