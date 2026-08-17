@@ -83,3 +83,4 @@
 | 81 | [Stone Game IX](./LeetCode/Medium/Stone%20Game%20IX) | [LeetCode](https://leetcode.com/problems/stone-game-ix/) | Medium | 16 Aug 2026 | 08:26 am |
 | 82 | [Subarray Sums Divisible by K](./LeetCode/Medium/Subarray%20Sums%20Divisible%20by%20K) | [LeetCode](https://leetcode.com/problems/subarray-sums-divisible-by-k/) | Medium | 16 Aug 2026 | 04:21 pm |
 | 83 | [Snake and Ladder Problem](./GeeksForGeeks/Medium/Snake%20and%20Ladder%20Problem) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/snake-and-ladder-problem4816/1) | Medium | 17 Aug 2026 | 10:32 am |
+| 84 | [Stone Game V](./LeetCode/Hard/Stone%20Game%20V) | [LeetCode](https://leetcode.com/problems/stone-game-v/) | Hard | 17 Aug 2026 | 10:33 am |

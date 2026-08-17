@@ -1,13 +1,13 @@
 {
-  "totalSolved": 83,
+  "totalSolved": 84,
   "currentStreak": 14,
   "maxStreak": 14,
   "lastSyncDate": "2026-08-17",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 46,
     "medium": 15,
-    "hard": 6,
+    "hard": 7,
     "basic": 16
   },
   "syncedProblems": {
@@ -93,7 +93,8 @@
     "GeeksForGeeks_Min_Product_Subset": true,
     "LeetCode_Stone_Game_IX": true,
     "LeetCode_Subarray_Sums_Divisible_by_K": true,
-    "GeeksForGeeks_Snake_and_Ladder_Problem": true
+    "GeeksForGeeks_Snake_and_Ladder_Problem": true,
+    "LeetCode_Stone_Game_V": true
   },
   "activityHistory": {
     "2026-08-04": 34,
@@ -109,9 +110,10 @@
     "2026-08-14": 1,
     "2026-08-15": 2,
     "2026-08-16": 3,
-    "2026-08-17": 1
+    "2026-08-17": 2
   },
   "todayProblems": [
-    "Snake and Ladder Problem"
+    "Snake and Ladder Problem",
+    "Stone Game V"
   ]
 }
