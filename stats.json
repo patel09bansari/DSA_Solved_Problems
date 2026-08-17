@@ -1,12 +1,12 @@
 {
-  "totalSolved": 82,
-  "currentStreak": 13,
-  "maxStreak": 13,
-  "lastSyncDate": "2026-08-16",
-  "todayCount": 3,
+  "totalSolved": 83,
+  "currentStreak": 14,
+  "maxStreak": 14,
+  "lastSyncDate": "2026-08-17",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 46,
-    "medium": 14,
+    "medium": 15,
     "hard": 6,
     "basic": 16
   },
@@ -92,7 +92,8 @@
     "GeeksForGeeks_Numbers_Without_d_as_Digit": true,
     "GeeksForGeeks_Min_Product_Subset": true,
     "LeetCode_Stone_Game_IX": true,
-    "LeetCode_Subarray_Sums_Divisible_by_K": true
+    "LeetCode_Subarray_Sums_Divisible_by_K": true,
+    "GeeksForGeeks_Snake_and_Ladder_Problem": true
   },
   "activityHistory": {
     "2026-08-04": 34,
@@ -107,11 +108,10 @@
     "2026-08-13": 5,
     "2026-08-14": 1,
     "2026-08-15": 2,
-    "2026-08-16": 3
+    "2026-08-16": 3,
+    "2026-08-17": 1
   },
   "todayProblems": [
-    "Min Product Subset",
-    "Stone Game IX",
-    "Subarray Sums Divisible by K"
+    "Snake and Ladder Problem"
   ]
 }
