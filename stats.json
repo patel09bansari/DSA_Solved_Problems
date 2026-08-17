@@ -1,11 +1,11 @@
 {
-  "totalSolved": 86,
+  "totalSolved": 87,
   "currentStreak": 14,
   "maxStreak": 14,
   "lastSyncDate": "2026-08-17",
-  "todayCount": 4,
+  "todayCount": 5,
   "difficultyCounts": {
-    "easy": 46,
+    "easy": 47,
     "medium": 15,
     "hard": 7,
     "basic": 18
@@ -96,7 +96,8 @@
     "GeeksForGeeks_Snake_and_Ladder_Problem": true,
     "LeetCode_Stone_Game_V": true,
     "GeeksForGeeks_First_n_Fibonacci_using_Recursion": true,
-    "GeeksForGeeks_Array_Subset": true
+    "GeeksForGeeks_Array_Subset": true,
+    "GeeksForGeeks_Palindrome_String": true
   },
   "activityHistory": {
     "2026-08-04": 34,
@@ -112,12 +113,13 @@
     "2026-08-14": 1,
     "2026-08-15": 2,
     "2026-08-16": 3,
-    "2026-08-17": 4
+    "2026-08-17": 5
   },
   "todayProblems": [
     "Snake and Ladder Problem",
     "Stone Game V",
     "First n Fibonacci using Recursion",
-    "Array Subset"
+    "Array Subset",
+    "Palindrome String"
   ]
 }
