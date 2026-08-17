@@ -1,14 +1,14 @@
 {
-  "totalSolved": 84,
+  "totalSolved": 85,
   "currentStreak": 14,
   "maxStreak": 14,
   "lastSyncDate": "2026-08-17",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
     "easy": 46,
     "medium": 15,
     "hard": 7,
-    "basic": 16
+    "basic": 17
   },
   "syncedProblems": {
     "LeetCode_Sum_of_Unique_Elements": true,
@@ -94,7 +94,8 @@
     "LeetCode_Stone_Game_IX": true,
     "LeetCode_Subarray_Sums_Divisible_by_K": true,
     "GeeksForGeeks_Snake_and_Ladder_Problem": true,
-    "LeetCode_Stone_Game_V": true
+    "LeetCode_Stone_Game_V": true,
+    "GeeksForGeeks_First_n_Fibonacci_using_Recursion": true
   },
   "activityHistory": {
     "2026-08-04": 34,
@@ -110,10 +111,11 @@
     "2026-08-14": 1,
     "2026-08-15": 2,
     "2026-08-16": 3,
-    "2026-08-17": 2
+    "2026-08-17": 3
   },
   "todayProblems": [
     "Snake and Ladder Problem",
-    "Stone Game V"
+    "Stone Game V",
+    "First n Fibonacci using Recursion"
   ]
 }
