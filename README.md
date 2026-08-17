@@ -85,3 +85,4 @@
 | 83 | [Snake and Ladder Problem](./GeeksForGeeks/Medium/Snake%20and%20Ladder%20Problem) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/snake-and-ladder-problem4816/1) | Medium | 17 Aug 2026 | 10:32 am |
 | 84 | [Stone Game V](./LeetCode/Hard/Stone%20Game%20V) | [LeetCode](https://leetcode.com/problems/stone-game-v/) | Hard | 17 Aug 2026 | 10:33 am |
 | 85 | [First n Fibonacci using Recursion](./GeeksForGeeks/Basic/First%20n%20Fibonacci%20using%20Recursion) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/print-first-n-fibonacci-numbers1002/1) | Basic | 17 Aug 2026 | 01:50 pm |
+| 86 | [Array Subset](./GeeksForGeeks/Basic/Array%20Subset) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/array-subset-of-another-array2317/1) | Basic | 17 Aug 2026 | 02:16 pm |
