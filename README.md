@@ -93,3 +93,4 @@
 | 91 | [Rotate String](./LeetCode/Easy/Rotate%20String) | [LeetCode](https://leetcode.com/problems/rotate-string/) | Easy | 18 Aug 2026 | 10:04 am |
 | 92 | [Length of Last Word](./LeetCode/Easy/Length%20of%20Last%20Word) | [LeetCode](https://leetcode.com/problems/length-of-last-word/) | Easy | 18 Aug 2026 | 10:07 am |
 | 93 | [First Unique Character in a String](./LeetCode/Easy/First%20Unique%20Character%20in%20a%20String) | [LeetCode](https://leetcode.com/problems/first-unique-character-in-a-string/) | Easy | 18 Aug 2026 | 10:07 am |
+| 94 | [Secret Cipher](./GeeksForGeeks/Hard/Secret%20Cipher) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/secret-cipher--141631/1) | Hard | 18 Aug 2026 | 05:48 pm |

@@ -1,13 +1,13 @@
 {
-  "totalSolved": 93,
+  "totalSolved": 94,
   "currentStreak": 15,
   "maxStreak": 15,
   "lastSyncDate": "2026-08-18",
-  "todayCount": 6,
+  "todayCount": 7,
   "difficultyCounts": {
     "easy": 52,
     "medium": 16,
-    "hard": 7,
+    "hard": 8,
     "basic": 18
   },
   "syncedProblems": {
@@ -103,7 +103,8 @@
     "LeetCode_Reverse_Words_in_a_String": true,
     "LeetCode_Rotate_String": true,
     "LeetCode_Length_of_Last_Word": true,
-    "LeetCode_First_Unique_Character_in_a_String": true
+    "LeetCode_First_Unique_Character_in_a_String": true,
+    "GeeksForGeeks_Secret_Cipher": true
   },
   "activityHistory": {
     "2026-08-04": 34,
@@ -120,7 +121,7 @@
     "2026-08-15": 2,
     "2026-08-16": 3,
     "2026-08-17": 5,
-    "2026-08-18": 6
+    "2026-08-18": 7
   },
   "todayProblems": [
     "Largest Odd Number in String",
@@ -128,6 +129,7 @@
     "Reverse Words in a String",
     "Rotate String",
     "Length of Last Word",
-    "First Unique Character in a String"
+    "First Unique Character in a String",
+    "Secret Cipher"
   ]
 }
