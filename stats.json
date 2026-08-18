@@ -1,11 +1,11 @@
 {
-  "totalSolved": 98,
+  "totalSolved": 99,
   "currentStreak": 15,
   "maxStreak": 15,
   "lastSyncDate": "2026-08-18",
-  "todayCount": 11,
+  "todayCount": 12,
   "difficultyCounts": {
-    "easy": 56,
+    "easy": 57,
     "medium": 16,
     "hard": 8,
     "basic": 18
@@ -108,7 +108,8 @@
     "LeetCode_Find_the_Largest_Almost_Missing_Integer": true,
     "LeetCode_Goat_Latin": true,
     "LeetCode_Isomorphic_Strings": true,
-    "LeetCode_Longest_Common_Prefix": true
+    "LeetCode_Longest_Common_Prefix": true,
+    "LeetCode_Remove_Outermost_Parentheses": true
   },
   "activityHistory": {
     "2026-08-04": 34,
@@ -125,7 +126,7 @@
     "2026-08-15": 2,
     "2026-08-16": 3,
     "2026-08-17": 5,
-    "2026-08-18": 11
+    "2026-08-18": 12
   },
   "todayProblems": [
     "Largest Odd Number in String",
@@ -138,6 +139,7 @@
     "Find the Largest Almost Missing Integer",
     "Goat Latin",
     "Isomorphic Strings",
-    "Longest Common Prefix"
+    "Longest Common Prefix",
+    "Remove Outermost Parentheses"
   ]
 }

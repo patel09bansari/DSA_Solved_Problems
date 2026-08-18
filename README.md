@@ -98,3 +98,4 @@
 | 96 | [Goat Latin](./LeetCode/Easy/Goat%20Latin) | [LeetCode](https://leetcode.com/problems/goat-latin/) | Easy | 18 Aug 2026 | 05:53 pm |
 | 97 | [Isomorphic Strings](./LeetCode/Easy/Isomorphic%20Strings) | [LeetCode](https://leetcode.com/problems/isomorphic-strings/) | Easy | 18 Aug 2026 | 08:53 pm |
 | 98 | [Longest Common Prefix](./LeetCode/Easy/Longest%20Common%20Prefix) | [LeetCode](https://leetcode.com/problems/longest-common-prefix/) | Easy | 18 Aug 2026 | 08:53 pm |
+| 99 | [Remove Outermost Parentheses](./LeetCode/Easy/Remove%20Outermost%20Parentheses) | [LeetCode](https://leetcode.com/problems/remove-outermost-parentheses/) | Easy | 18 Aug 2026 | 08:54 pm |
