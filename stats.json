@@ -1,11 +1,11 @@
 {
-  "totalSolved": 96,
+  "totalSolved": 97,
   "currentStreak": 15,
   "maxStreak": 15,
   "lastSyncDate": "2026-08-18",
-  "todayCount": 9,
+  "todayCount": 10,
   "difficultyCounts": {
-    "easy": 54,
+    "easy": 55,
     "medium": 16,
     "hard": 8,
     "basic": 18
@@ -106,7 +106,8 @@
     "LeetCode_First_Unique_Character_in_a_String": true,
     "GeeksForGeeks_Secret_Cipher": true,
     "LeetCode_Find_the_Largest_Almost_Missing_Integer": true,
-    "LeetCode_Goat_Latin": true
+    "LeetCode_Goat_Latin": true,
+    "LeetCode_Isomorphic_Strings": true
   },
   "activityHistory": {
     "2026-08-04": 34,
@@ -123,7 +124,7 @@
     "2026-08-15": 2,
     "2026-08-16": 3,
     "2026-08-17": 5,
-    "2026-08-18": 9
+    "2026-08-18": 10
   },
   "todayProblems": [
     "Largest Odd Number in String",
@@ -134,6 +135,7 @@
     "First Unique Character in a String",
     "Secret Cipher",
     "Find the Largest Almost Missing Integer",
-    "Goat Latin"
+    "Goat Latin",
+    "Isomorphic Strings"
   ]
 }

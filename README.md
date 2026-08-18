@@ -96,3 +96,4 @@
 | 94 | [Secret Cipher](./GeeksForGeeks/Hard/Secret%20Cipher) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/secret-cipher--141631/1) | Hard | 18 Aug 2026 | 05:48 pm |
 | 95 | [Find the Largest Almost Missing Integer](./LeetCode/Easy/Find%20the%20Largest%20Almost%20Missing%20Integer) | [LeetCode](https://leetcode.com/problems/find-the-largest-almost-missing-integer/) | Easy | 18 Aug 2026 | 05:49 pm |
 | 96 | [Goat Latin](./LeetCode/Easy/Goat%20Latin) | [LeetCode](https://leetcode.com/problems/goat-latin/) | Easy | 18 Aug 2026 | 05:53 pm |
+| 97 | [Isomorphic Strings](./LeetCode/Easy/Isomorphic%20Strings) | [LeetCode](https://leetcode.com/problems/isomorphic-strings/) | Easy | 18 Aug 2026 | 08:53 pm |
