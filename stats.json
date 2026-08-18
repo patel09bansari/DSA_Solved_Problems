@@ -1,11 +1,11 @@
 {
-  "totalSolved": 88,
+  "totalSolved": 89,
   "currentStreak": 15,
   "maxStreak": 15,
   "lastSyncDate": "2026-08-18",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
-    "easy": 48,
+    "easy": 49,
     "medium": 15,
     "hard": 7,
     "basic": 18
@@ -98,7 +98,8 @@
     "GeeksForGeeks_First_n_Fibonacci_using_Recursion": true,
     "GeeksForGeeks_Array_Subset": true,
     "GeeksForGeeks_Palindrome_String": true,
-    "LeetCode_Largest_Odd_Number_in_String": true
+    "LeetCode_Largest_Odd_Number_in_String": true,
+    "LeetCode_To_Lower_Case": true
   },
   "activityHistory": {
     "2026-08-04": 34,
@@ -115,9 +116,10 @@
     "2026-08-15": 2,
     "2026-08-16": 3,
     "2026-08-17": 5,
-    "2026-08-18": 1
+    "2026-08-18": 2
   },
   "todayProblems": [
-    "Largest Odd Number in String"
+    "Largest Odd Number in String",
+    "To Lower Case"
   ]
 }

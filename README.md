@@ -88,3 +88,4 @@
 | 86 | [Array Subset](./GeeksForGeeks/Basic/Array%20Subset) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/array-subset-of-another-array2317/1) | Basic | 17 Aug 2026 | 02:16 pm |
 | 87 | [Palindrome String](./GeeksForGeeks/Easy/Palindrome%20String) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/palindrome-string0817/1) | Easy | 17 Aug 2026 | 05:23 pm |
 | 88 | [Largest Odd Number in String](./LeetCode/Easy/Largest%20Odd%20Number%20in%20String) | [LeetCode](https://leetcode.com/problems/largest-odd-number-in-string/) | Easy | 18 Aug 2026 | 08:24 am |
+| 89 | [To Lower Case](./LeetCode/Easy/To%20Lower%20Case) | [LeetCode](https://leetcode.com/problems/to-lower-case/) | Easy | 18 Aug 2026 | 08:37 am |
