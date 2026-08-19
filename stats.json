@@ -1,12 +1,12 @@
 {
-  "totalSolved": 99,
-  "currentStreak": 15,
-  "maxStreak": 15,
-  "lastSyncDate": "2026-08-18",
-  "todayCount": 12,
+  "totalSolved": 100,
+  "currentStreak": 16,
+  "maxStreak": 16,
+  "lastSyncDate": "2026-08-19",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 57,
-    "medium": 16,
+    "medium": 17,
     "hard": 8,
     "basic": 18
   },
@@ -109,7 +109,8 @@
     "LeetCode_Goat_Latin": true,
     "LeetCode_Isomorphic_Strings": true,
     "LeetCode_Longest_Common_Prefix": true,
-    "LeetCode_Remove_Outermost_Parentheses": true
+    "LeetCode_Remove_Outermost_Parentheses": true,
+    "GeeksForGeeks_Triplets_with_Sum_in_Range": true
   },
   "activityHistory": {
     "2026-08-04": 34,
@@ -126,20 +127,10 @@
     "2026-08-15": 2,
     "2026-08-16": 3,
     "2026-08-17": 5,
-    "2026-08-18": 12
+    "2026-08-18": 12,
+    "2026-08-19": 1
   },
   "todayProblems": [
-    "Largest Odd Number in String",
-    "To Lower Case",
-    "Reverse Words in a String",
-    "Rotate String",
-    "Length of Last Word",
-    "First Unique Character in a String",
-    "Secret Cipher",
-    "Find the Largest Almost Missing Integer",
-    "Goat Latin",
-    "Isomorphic Strings",
-    "Longest Common Prefix",
-    "Remove Outermost Parentheses"
+    "Triplets with Sum in Range"
   ]
 }

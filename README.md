@@ -99,3 +99,4 @@
 | 97 | [Isomorphic Strings](./LeetCode/Easy/Isomorphic%20Strings) | [LeetCode](https://leetcode.com/problems/isomorphic-strings/) | Easy | 18 Aug 2026 | 08:53 pm |
 | 98 | [Longest Common Prefix](./LeetCode/Easy/Longest%20Common%20Prefix) | [LeetCode](https://leetcode.com/problems/longest-common-prefix/) | Easy | 18 Aug 2026 | 08:53 pm |
 | 99 | [Remove Outermost Parentheses](./LeetCode/Easy/Remove%20Outermost%20Parentheses) | [LeetCode](https://leetcode.com/problems/remove-outermost-parentheses/) | Easy | 18 Aug 2026 | 08:54 pm |
+| 100 | [Triplets with Sum in Range](./GeeksForGeeks/Medium/Triplets%20with%20Sum%20in%20Range) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/triplets-with-sum-with-given-range/1) | Medium | 19 Aug 2026 | 09:49 am |
