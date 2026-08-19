@@ -1,12 +1,12 @@
 {
-  "totalSolved": 100,
+  "totalSolved": 101,
   "currentStreak": 16,
   "maxStreak": 16,
   "lastSyncDate": "2026-08-19",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 57,
-    "medium": 17,
+    "medium": 18,
     "hard": 8,
     "basic": 18
   },
@@ -110,7 +110,8 @@
     "LeetCode_Isomorphic_Strings": true,
     "LeetCode_Longest_Common_Prefix": true,
     "LeetCode_Remove_Outermost_Parentheses": true,
-    "GeeksForGeeks_Triplets_with_Sum_in_Range": true
+    "GeeksForGeeks_Triplets_with_Sum_in_Range": true,
+    "LeetCode_Cinema_Seat_Allocation": true
   },
   "activityHistory": {
     "2026-08-04": 34,
@@ -128,9 +129,10 @@
     "2026-08-16": 3,
     "2026-08-17": 5,
     "2026-08-18": 12,
-    "2026-08-19": 1
+    "2026-08-19": 2
   },
   "todayProblems": [
-    "Triplets with Sum in Range"
+    "Triplets with Sum in Range",
+    "Cinema Seat Allocation"
   ]
 }
