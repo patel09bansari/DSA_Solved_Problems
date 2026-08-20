@@ -1,11 +1,11 @@
 {
-  "totalSolved": 102,
+  "totalSolved": 103,
   "currentStreak": 17,
   "maxStreak": 17,
   "lastSyncDate": "2026-08-20",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
-    "easy": 57,
+    "easy": 58,
     "medium": 19,
     "hard": 8,
     "basic": 18
@@ -112,7 +112,8 @@
     "LeetCode_Remove_Outermost_Parentheses": true,
     "GeeksForGeeks_Triplets_with_Sum_in_Range": true,
     "LeetCode_Cinema_Seat_Allocation": true,
-    "LeetCode_Integer_to_Roman": true
+    "LeetCode_Integer_to_Roman": true,
+    "LeetCode_Maximum_Odd_Binary_Number": true
   },
   "activityHistory": {
     "2026-08-04": 34,
@@ -131,9 +132,10 @@
     "2026-08-17": 5,
     "2026-08-18": 12,
     "2026-08-19": 2,
-    "2026-08-20": 1
+    "2026-08-20": 2
   },
   "todayProblems": [
-    "Integer to Roman"
+    "Integer to Roman",
+    "Maximum Odd Binary Number"
   ]
 }

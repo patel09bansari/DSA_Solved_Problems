@@ -102,3 +102,4 @@
 | 100 | [Triplets with Sum in Range](./GeeksForGeeks/Medium/Triplets%20with%20Sum%20in%20Range) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/triplets-with-sum-with-given-range/1) | Medium | 19 Aug 2026 | 09:49 am |
 | 101 | [Cinema Seat Allocation](./LeetCode/Medium/Cinema%20Seat%20Allocation) | [LeetCode](https://leetcode.com/problems/cinema-seat-allocation/) | Medium | 19 Aug 2026 | 09:50 am |
 | 102 | [Integer to Roman](./LeetCode/Medium/Integer%20to%20Roman) | [LeetCode](https://leetcode.com/problems/integer-to-roman/) | Medium | 20 Aug 2026 | 07:58 am |
+| 103 | [Maximum Odd Binary Number](./LeetCode/Easy/Maximum%20Odd%20Binary%20Number) | [LeetCode](https://leetcode.com/problems/maximum-odd-binary-number/) | Easy | 20 Aug 2026 | 09:05 am |
