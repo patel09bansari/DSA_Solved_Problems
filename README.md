@@ -105,3 +105,4 @@
 | 103 | [Maximum Odd Binary Number](./LeetCode/Easy/Maximum%20Odd%20Binary%20Number) | [LeetCode](https://leetcode.com/problems/maximum-odd-binary-number/) | Easy | 20 Aug 2026 | 09:05 am |
 | 104 | [Squares of a Sorted Array](./LeetCode/Easy/Squares%20of%20a%20Sorted%20Array) | [LeetCode](https://leetcode.com/problems/squares-of-a-sorted-array/) | Easy | 20 Aug 2026 | 09:14 am |
 | 105 | [Node and Ancestor Max Diff](./GeeksForGeeks/Medium/Node%20and%20Ancestor%20Max%20Diff) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/maximum-difference-between-node-and-its-ancestor/1) | Medium | 20 Aug 2026 | 05:06 pm |
+| 106 | [Distribute Elements Into Two Arrays I](./LeetCode/Easy/Distribute%20Elements%20Into%20Two%20Arrays%20I) | [LeetCode](https://leetcode.com/problems/distribute-elements-into-two-arrays-i/) | Easy | 20 Aug 2026 | 05:07 pm |
