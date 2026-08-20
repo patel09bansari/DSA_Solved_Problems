@@ -101,3 +101,4 @@
 | 99 | [Remove Outermost Parentheses](./LeetCode/Easy/Remove%20Outermost%20Parentheses) | [LeetCode](https://leetcode.com/problems/remove-outermost-parentheses/) | Easy | 18 Aug 2026 | 08:54 pm |
 | 100 | [Triplets with Sum in Range](./GeeksForGeeks/Medium/Triplets%20with%20Sum%20in%20Range) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/triplets-with-sum-with-given-range/1) | Medium | 19 Aug 2026 | 09:49 am |
 | 101 | [Cinema Seat Allocation](./LeetCode/Medium/Cinema%20Seat%20Allocation) | [LeetCode](https://leetcode.com/problems/cinema-seat-allocation/) | Medium | 19 Aug 2026 | 09:50 am |
+| 102 | [Integer to Roman](./LeetCode/Medium/Integer%20to%20Roman) | [LeetCode](https://leetcode.com/problems/integer-to-roman/) | Medium | 20 Aug 2026 | 07:58 am |
