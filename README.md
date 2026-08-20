@@ -103,3 +103,4 @@
 | 101 | [Cinema Seat Allocation](./LeetCode/Medium/Cinema%20Seat%20Allocation) | [LeetCode](https://leetcode.com/problems/cinema-seat-allocation/) | Medium | 19 Aug 2026 | 09:50 am |
 | 102 | [Integer to Roman](./LeetCode/Medium/Integer%20to%20Roman) | [LeetCode](https://leetcode.com/problems/integer-to-roman/) | Medium | 20 Aug 2026 | 07:58 am |
 | 103 | [Maximum Odd Binary Number](./LeetCode/Easy/Maximum%20Odd%20Binary%20Number) | [LeetCode](https://leetcode.com/problems/maximum-odd-binary-number/) | Easy | 20 Aug 2026 | 09:05 am |
+| 104 | [Squares of a Sorted Array](./LeetCode/Easy/Squares%20of%20a%20Sorted%20Array) | [LeetCode](https://leetcode.com/problems/squares-of-a-sorted-array/) | Easy | 20 Aug 2026 | 09:14 am |
