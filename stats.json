@@ -1,12 +1,12 @@
 {
-  "totalSolved": 104,
+  "totalSolved": 105,
   "currentStreak": 17,
   "maxStreak": 17,
   "lastSyncDate": "2026-08-20",
-  "todayCount": 3,
+  "todayCount": 4,
   "difficultyCounts": {
     "easy": 59,
-    "medium": 19,
+    "medium": 20,
     "hard": 8,
     "basic": 18
   },
@@ -114,7 +114,8 @@
     "LeetCode_Cinema_Seat_Allocation": true,
     "LeetCode_Integer_to_Roman": true,
     "LeetCode_Maximum_Odd_Binary_Number": true,
-    "LeetCode_Squares_of_a_Sorted_Array": true
+    "LeetCode_Squares_of_a_Sorted_Array": true,
+    "GeeksForGeeks_Node_and_Ancestor_Max_Diff": true
   },
   "activityHistory": {
     "2026-08-04": 34,
@@ -133,11 +134,12 @@
     "2026-08-17": 5,
     "2026-08-18": 12,
     "2026-08-19": 2,
-    "2026-08-20": 3
+    "2026-08-20": 4
   },
   "todayProblems": [
     "Integer to Roman",
     "Maximum Odd Binary Number",
-    "Squares of a Sorted Array"
+    "Squares of a Sorted Array",
+    "Node and Ancestor Max Diff"
   ]
 }

@@ -1,0 +1,18 @@
+# Node and Ancestor Max Diff
+
+## Difficulty: Medium
+
+## Platform: GeeksForGeeks
+
+## Problem Link
+[View Problem](https://www.geeksforgeeks.org/problems/maximum-difference-between-node-and-its-ancestor/1)
+
+## Solved On
+20 Aug 2026 at 05:06 pm
+
+<h2><a href="https://www.geeksforgeeks.org/problems/maximum-difference-between-node-and-its-ancestor/1">Node and Ancestor Max Diff</a></h2><h3>Difficulty Level: Medium</h3><hr><p><span style="font-size: 18px;">Given the root of a binary tree, find the maximum difference between an ancestor node A and its descendant node B, i.e., maximize A - B.</span></p>
+<p><span style="font-size: 18px;"><strong>Examples :</strong></span></p>
+<pre><span style="font-size: 18px;"><strong>Input: </strong>root[] = [5, 2, 1] <strong><br></strong><img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/700227/Web/Other/blobid0_1749728452.webp" width="228" height="164"><br><strong>Output: </strong>4<strong>
+Explanation: </strong>The maximum difference we can get is 4, which is between 5 and 1.</span></pre>
+<pre><span style="font-size: 18px;"><strong>Input: </strong>root[] = [1, 2, 3, N, N, N, 7] <strong><br></strong><img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/700227/Web/Other/blobid1_1749728553.webp" width="247" height="209"><br><strong>Output: </strong>-1<strong>
+Explanation: </strong>The maximum difference we can get is -1, which is between 1 and 2.</span></pre>
