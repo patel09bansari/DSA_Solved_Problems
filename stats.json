@@ -1,12 +1,12 @@
 {
-  "totalSolved": 108,
+  "totalSolved": 109,
   "currentStreak": 18,
   "maxStreak": 18,
   "lastSyncDate": "2026-08-21",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
     "easy": 60,
-    "medium": 21,
+    "medium": 22,
     "hard": 9,
     "basic": 18
   },
@@ -118,7 +118,8 @@
     "GeeksForGeeks_Node_and_Ancestor_Max_Diff": true,
     "LeetCode_Distribute_Elements_Into_Two_Arrays_I": true,
     "LeetCode_Kth_Smallest_Amount_With_Single_Denomination_Combination": true,
-    "GeeksForGeeks_Transform_String": true
+    "GeeksForGeeks_Transform_String": true,
+    "LeetCode_Minimum_Length_of_String_After_Deleting_Similar_Ends": true
   },
   "activityHistory": {
     "2026-08-04": 34,
@@ -138,10 +139,11 @@
     "2026-08-18": 12,
     "2026-08-19": 2,
     "2026-08-20": 5,
-    "2026-08-21": 2
+    "2026-08-21": 3
   },
   "todayProblems": [
     "Kth Smallest Amount With Single Denomination Combination",
-    "Transform String"
+    "Transform String",
+    "Minimum Length of String After Deleting Similar Ends"
   ]
 }
