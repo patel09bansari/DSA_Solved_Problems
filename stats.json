@@ -1,13 +1,13 @@
 {
-  "totalSolved": 106,
-  "currentStreak": 17,
-  "maxStreak": 17,
-  "lastSyncDate": "2026-08-20",
-  "todayCount": 5,
+  "totalSolved": 107,
+  "currentStreak": 18,
+  "maxStreak": 18,
+  "lastSyncDate": "2026-08-21",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 60,
     "medium": 20,
-    "hard": 8,
+    "hard": 9,
     "basic": 18
   },
   "syncedProblems": {
@@ -116,7 +116,8 @@
     "LeetCode_Maximum_Odd_Binary_Number": true,
     "LeetCode_Squares_of_a_Sorted_Array": true,
     "GeeksForGeeks_Node_and_Ancestor_Max_Diff": true,
-    "LeetCode_Distribute_Elements_Into_Two_Arrays_I": true
+    "LeetCode_Distribute_Elements_Into_Two_Arrays_I": true,
+    "LeetCode_Kth_Smallest_Amount_With_Single_Denomination_Combination": true
   },
   "activityHistory": {
     "2026-08-04": 34,
@@ -135,13 +136,10 @@
     "2026-08-17": 5,
     "2026-08-18": 12,
     "2026-08-19": 2,
-    "2026-08-20": 5
+    "2026-08-20": 5,
+    "2026-08-21": 1
   },
   "todayProblems": [
-    "Integer to Roman",
-    "Maximum Odd Binary Number",
-    "Squares of a Sorted Array",
-    "Node and Ancestor Max Diff",
-    "Distribute Elements Into Two Arrays I"
+    "Kth Smallest Amount With Single Denomination Combination"
   ]
 }
