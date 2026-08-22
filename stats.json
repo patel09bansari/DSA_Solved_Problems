@@ -1,11 +1,11 @@
 {
-  "totalSolved": 109,
-  "currentStreak": 18,
-  "maxStreak": 18,
-  "lastSyncDate": "2026-08-21",
-  "todayCount": 3,
+  "totalSolved": 110,
+  "currentStreak": 19,
+  "maxStreak": 19,
+  "lastSyncDate": "2026-08-22",
+  "todayCount": 1,
   "difficultyCounts": {
-    "easy": 60,
+    "easy": 61,
     "medium": 22,
     "hard": 9,
     "basic": 18
@@ -119,7 +119,8 @@
     "LeetCode_Distribute_Elements_Into_Two_Arrays_I": true,
     "LeetCode_Kth_Smallest_Amount_With_Single_Denomination_Combination": true,
     "GeeksForGeeks_Transform_String": true,
-    "LeetCode_Minimum_Length_of_String_After_Deleting_Similar_Ends": true
+    "LeetCode_Minimum_Length_of_String_After_Deleting_Similar_Ends": true,
+    "LeetCode_Check_Divisibility_by_Digit_Sum_and_Product": true
   },
   "activityHistory": {
     "2026-08-04": 34,
@@ -139,11 +140,10 @@
     "2026-08-18": 12,
     "2026-08-19": 2,
     "2026-08-20": 5,
-    "2026-08-21": 3
+    "2026-08-21": 3,
+    "2026-08-22": 1
   },
   "todayProblems": [
-    "Kth Smallest Amount With Single Denomination Combination",
-    "Transform String",
-    "Minimum Length of String After Deleting Similar Ends"
+    "Check Divisibility by Digit Sum and Product"
   ]
 }
