@@ -111,3 +111,4 @@
 | 109 | [Minimum Length of String After Deleting Similar Ends](./LeetCode/Medium/Minimum%20Length%20of%20String%20After%20Deleting%20Similar%20Ends) | [LeetCode](https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends/) | Medium | 21 Aug 2026 | 09:13 am |
 | 110 | [Check Divisibility by Digit Sum and Product](./LeetCode/Easy/Check%20Divisibility%20by%20Digit%20Sum%20and%20Product) | [LeetCode](https://leetcode.com/problems/check-divisibility-by-digit-sum-and-product/) | Easy | 22 Aug 2026 | 09:41 am |
 | 111 | [Number of Turns in Binary Tree](./GeeksForGeeks/Hard/Number%20of%20Turns%20in%20Binary%20Tree) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/number-of-turns-in-binary-tree/1) | Hard | 22 Aug 2026 | 09:42 am |
+| 112 | [Geek in a Maze](./GeeksForGeeks/Hard/Geek%20in%20a%20Maze) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/geek-in-a-maze--170637/1) | Hard | 23 Aug 2026 | 12:22 pm |

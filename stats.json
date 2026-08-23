@@ -1,13 +1,13 @@
 {
-  "totalSolved": 111,
-  "currentStreak": 19,
-  "maxStreak": 19,
-  "lastSyncDate": "2026-08-22",
-  "todayCount": 2,
+  "totalSolved": 112,
+  "currentStreak": 20,
+  "maxStreak": 20,
+  "lastSyncDate": "2026-08-23",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 61,
     "medium": 22,
-    "hard": 10,
+    "hard": 11,
     "basic": 18
   },
   "syncedProblems": {
@@ -121,7 +121,8 @@
     "GeeksForGeeks_Transform_String": true,
     "LeetCode_Minimum_Length_of_String_After_Deleting_Similar_Ends": true,
     "LeetCode_Check_Divisibility_by_Digit_Sum_and_Product": true,
-    "GeeksForGeeks_Number_of_Turns_in_Binary_Tree": true
+    "GeeksForGeeks_Number_of_Turns_in_Binary_Tree": true,
+    "GeeksForGeeks_Geek_in_a_Maze": true
   },
   "activityHistory": {
     "2026-08-04": 34,
@@ -142,10 +143,10 @@
     "2026-08-19": 2,
     "2026-08-20": 5,
     "2026-08-21": 3,
-    "2026-08-22": 2
+    "2026-08-22": 2,
+    "2026-08-23": 1
   },
   "todayProblems": [
-    "Check Divisibility by Digit Sum and Product",
-    "Number of Turns in Binary Tree"
+    "Geek in a Maze"
   ]
 }
