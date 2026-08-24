@@ -118,3 +118,4 @@
 | 116 | [Count Prefix-Balanced Binary Strings](./GeeksForGeeks/Easy/Count%20Prefix-Balanced%20Binary%20Strings) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/geek-and-his-binary-strings1951/1) | Easy | 24 Aug 2026 | 06:08 pm |
 | 117 | [Arithmetic Operators](./GeeksForGeeks/Basic/Arithmetic%20Operators) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/arithmetic-operators/1) | Basic | 24 Aug 2026 | 06:47 pm |
 | 118 | [Print Hollow Rectangle](./GeeksForGeeks/Basic/Print%20Hollow%20Rectangle) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/hollow-rectangle-or-square/1) | Basic | 24 Aug 2026 | 07:58 pm |
+| 119 | [Missing Number](./LeetCode/Easy/Missing%20Number) | [LeetCode](https://leetcode.com/problems/missing-number/) | Easy | 24 Aug 2026 | 08:26 pm |
