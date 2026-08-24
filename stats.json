@@ -1,11 +1,11 @@
 {
-  "totalSolved": 120,
+  "totalSolved": 121,
   "currentStreak": 21,
   "maxStreak": 21,
   "lastSyncDate": "2026-08-24",
-  "todayCount": 8,
+  "todayCount": 9,
   "difficultyCounts": {
-    "easy": 66,
+    "easy": 67,
     "medium": 22,
     "hard": 12,
     "basic": 20
@@ -130,7 +130,8 @@
     "GeeksForGeeks_Arithmetic_Operators": true,
     "GeeksForGeeks_Print_Hollow_Rectangle": true,
     "LeetCode_Missing_Number": true,
-    "LeetCode_Valid_Anagram": true
+    "LeetCode_Valid_Anagram": true,
+    "GeeksForGeeks_Summed_Matrix": true
   },
   "activityHistory": {
     "2026-08-04": 34,
@@ -153,7 +154,7 @@
     "2026-08-21": 3,
     "2026-08-22": 2,
     "2026-08-23": 1,
-    "2026-08-24": 8
+    "2026-08-24": 9
   },
   "todayProblems": [
     "Binary Search",
@@ -163,6 +164,7 @@
     "Arithmetic Operators",
     "Print Hollow Rectangle",
     "Missing Number",
-    "Valid Anagram"
+    "Valid Anagram",
+    "Summed Matrix"
   ]
 }

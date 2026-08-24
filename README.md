@@ -120,3 +120,4 @@
 | 118 | [Print Hollow Rectangle](./GeeksForGeeks/Basic/Print%20Hollow%20Rectangle) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/hollow-rectangle-or-square/1) | Basic | 24 Aug 2026 | 07:58 pm |
 | 119 | [Missing Number](./LeetCode/Easy/Missing%20Number) | [LeetCode](https://leetcode.com/problems/missing-number/) | Easy | 24 Aug 2026 | 08:26 pm |
 | 120 | [Valid Anagram](./LeetCode/Easy/Valid%20Anagram) | [LeetCode](https://leetcode.com/problems/valid-anagram/) | Easy | 24 Aug 2026 | 09:19 pm |
+| 121 | [Summed Matrix](./GeeksForGeeks/Easy/Summed%20Matrix) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/summed-matrix5834/1) | Easy | 24 Aug 2026 | 11:01 pm |
