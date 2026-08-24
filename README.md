@@ -119,3 +119,4 @@
 | 117 | [Arithmetic Operators](./GeeksForGeeks/Basic/Arithmetic%20Operators) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/arithmetic-operators/1) | Basic | 24 Aug 2026 | 06:47 pm |
 | 118 | [Print Hollow Rectangle](./GeeksForGeeks/Basic/Print%20Hollow%20Rectangle) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/hollow-rectangle-or-square/1) | Basic | 24 Aug 2026 | 07:58 pm |
 | 119 | [Missing Number](./LeetCode/Easy/Missing%20Number) | [LeetCode](https://leetcode.com/problems/missing-number/) | Easy | 24 Aug 2026 | 08:26 pm |
+| 120 | [Valid Anagram](./LeetCode/Easy/Valid%20Anagram) | [LeetCode](https://leetcode.com/problems/valid-anagram/) | Easy | 24 Aug 2026 | 09:19 pm |
