@@ -1,11 +1,11 @@
 {
-  "totalSolved": 113,
+  "totalSolved": 114,
   "currentStreak": 21,
   "maxStreak": 21,
   "lastSyncDate": "2026-08-24",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
-    "easy": 62,
+    "easy": 63,
     "medium": 22,
     "hard": 11,
     "basic": 18
@@ -123,7 +123,8 @@
     "LeetCode_Check_Divisibility_by_Digit_Sum_and_Product": true,
     "GeeksForGeeks_Number_of_Turns_in_Binary_Tree": true,
     "GeeksForGeeks_Geek_in_a_Maze": true,
-    "LeetCode_Binary_Search": true
+    "LeetCode_Binary_Search": true,
+    "LeetCode_Search_Insert_Position": true
   },
   "activityHistory": {
     "2026-08-04": 34,
@@ -146,9 +147,10 @@
     "2026-08-21": 3,
     "2026-08-22": 2,
     "2026-08-23": 1,
-    "2026-08-24": 1
+    "2026-08-24": 2
   },
   "todayProblems": [
-    "Binary Search"
+    "Binary Search",
+    "Search Insert Position"
   ]
 }

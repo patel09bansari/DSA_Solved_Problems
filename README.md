@@ -113,3 +113,4 @@
 | 111 | [Number of Turns in Binary Tree](./GeeksForGeeks/Hard/Number%20of%20Turns%20in%20Binary%20Tree) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/number-of-turns-in-binary-tree/1) | Hard | 22 Aug 2026 | 09:42 am |
 | 112 | [Geek in a Maze](./GeeksForGeeks/Hard/Geek%20in%20a%20Maze) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/geek-in-a-maze--170637/1) | Hard | 23 Aug 2026 | 12:22 pm |
 | 113 | [Binary Search](./LeetCode/Easy/Binary%20Search) | [LeetCode](https://leetcode.com/problems/binary-search/) | Easy | 24 Aug 2026 | 09:04 am |
+| 114 | [Search Insert Position](./LeetCode/Easy/Search%20Insert%20Position) | [LeetCode](https://leetcode.com/problems/search-insert-position/) | Easy | 24 Aug 2026 | 10:03 am |
