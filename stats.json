@@ -1,13 +1,13 @@
 {
-  "totalSolved": 114,
+  "totalSolved": 115,
   "currentStreak": 21,
   "maxStreak": 21,
   "lastSyncDate": "2026-08-24",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
     "easy": 63,
     "medium": 22,
-    "hard": 11,
+    "hard": 12,
     "basic": 18
   },
   "syncedProblems": {
@@ -124,7 +124,8 @@
     "GeeksForGeeks_Number_of_Turns_in_Binary_Tree": true,
     "GeeksForGeeks_Geek_in_a_Maze": true,
     "LeetCode_Binary_Search": true,
-    "LeetCode_Search_Insert_Position": true
+    "LeetCode_Search_Insert_Position": true,
+    "LeetCode_Stone_Game_VIII": true
   },
   "activityHistory": {
     "2026-08-04": 34,
@@ -147,10 +148,11 @@
     "2026-08-21": 3,
     "2026-08-22": 2,
     "2026-08-23": 1,
-    "2026-08-24": 2
+    "2026-08-24": 3
   },
   "todayProblems": [
     "Binary Search",
-    "Search Insert Position"
+    "Search Insert Position",
+    "Stone Game VIII"
   ]
 }
