@@ -116,3 +116,4 @@
 | 114 | [Search Insert Position](./LeetCode/Easy/Search%20Insert%20Position) | [LeetCode](https://leetcode.com/problems/search-insert-position/) | Easy | 24 Aug 2026 | 10:03 am |
 | 115 | [Stone Game VIII](./LeetCode/Hard/Stone%20Game%20VIII) | [LeetCode](https://leetcode.com/problems/stone-game-viii/) | Hard | 24 Aug 2026 | 06:07 pm |
 | 116 | [Count Prefix-Balanced Binary Strings](./GeeksForGeeks/Easy/Count%20Prefix-Balanced%20Binary%20Strings) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/geek-and-his-binary-strings1951/1) | Easy | 24 Aug 2026 | 06:08 pm |
+| 117 | [Arithmetic Operators](./GeeksForGeeks/Basic/Arithmetic%20Operators) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/arithmetic-operators/1) | Basic | 24 Aug 2026 | 06:47 pm |

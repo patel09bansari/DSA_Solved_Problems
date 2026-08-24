@@ -1,14 +1,14 @@
 {
-  "totalSolved": 116,
+  "totalSolved": 117,
   "currentStreak": 21,
   "maxStreak": 21,
   "lastSyncDate": "2026-08-24",
-  "todayCount": 4,
+  "todayCount": 5,
   "difficultyCounts": {
     "easy": 64,
     "medium": 22,
     "hard": 12,
-    "basic": 18
+    "basic": 19
   },
   "syncedProblems": {
     "LeetCode_Sum_of_Unique_Elements": true,
@@ -126,7 +126,8 @@
     "LeetCode_Binary_Search": true,
     "LeetCode_Search_Insert_Position": true,
     "LeetCode_Stone_Game_VIII": true,
-    "GeeksForGeeks_Count_Prefix-Balanced_Binary_Strings": true
+    "GeeksForGeeks_Count_Prefix-Balanced_Binary_Strings": true,
+    "GeeksForGeeks_Arithmetic_Operators": true
   },
   "activityHistory": {
     "2026-08-04": 34,
@@ -149,12 +150,13 @@
     "2026-08-21": 3,
     "2026-08-22": 2,
     "2026-08-23": 1,
-    "2026-08-24": 4
+    "2026-08-24": 5
   },
   "todayProblems": [
     "Binary Search",
     "Search Insert Position",
     "Stone Game VIII",
-    "Count Prefix-Balanced Binary Strings"
+    "Count Prefix-Balanced Binary Strings",
+    "Arithmetic Operators"
   ]
 }
