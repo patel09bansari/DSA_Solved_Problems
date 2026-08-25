@@ -123,3 +123,4 @@
 | 121 | [Summed Matrix](./GeeksForGeeks/Easy/Summed%20Matrix) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/summed-matrix5834/1) | Easy | 24 Aug 2026 | 11:01 pm |
 | 122 | [Minimum Moves to Sort Permutation](./GeeksForGeeks/Easy/Minimum%20Moves%20to%20Sort%20Permutation) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/morning-assembly3038/1) | Easy | 25 Aug 2026 | 06:05 pm |
 | 123 | [Smallest Missing Multiple of K](./LeetCode/Easy/Smallest%20Missing%20Multiple%20of%20K) | [LeetCode](https://leetcode.com/problems/smallest-missing-multiple-of-k/) | Easy | 25 Aug 2026 | 06:06 pm |
+| 124 | [Implement Upper Bound](./GeeksForGeeks/Easy/Implement%20Upper%20Bound) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/implement-upper-bound/1) | Easy | 25 Aug 2026 | 06:16 pm |
