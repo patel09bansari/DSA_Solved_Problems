@@ -1,11 +1,11 @@
 {
-  "totalSolved": 122,
+  "totalSolved": 123,
   "currentStreak": 22,
   "maxStreak": 22,
   "lastSyncDate": "2026-08-25",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
-    "easy": 68,
+    "easy": 69,
     "medium": 22,
     "hard": 12,
     "basic": 20
@@ -132,7 +132,8 @@
     "LeetCode_Missing_Number": true,
     "LeetCode_Valid_Anagram": true,
     "GeeksForGeeks_Summed_Matrix": true,
-    "GeeksForGeeks_Minimum_Moves_to_Sort_Permutation": true
+    "GeeksForGeeks_Minimum_Moves_to_Sort_Permutation": true,
+    "LeetCode_Smallest_Missing_Multiple_of_K": true
   },
   "activityHistory": {
     "2026-08-04": 34,
@@ -156,9 +157,10 @@
     "2026-08-22": 2,
     "2026-08-23": 1,
     "2026-08-24": 9,
-    "2026-08-25": 1
+    "2026-08-25": 2
   },
   "todayProblems": [
-    "Minimum Moves to Sort Permutation"
+    "Minimum Moves to Sort Permutation",
+    "Smallest Missing Multiple of K"
   ]
 }
