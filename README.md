@@ -121,3 +121,4 @@
 | 119 | [Missing Number](./LeetCode/Easy/Missing%20Number) | [LeetCode](https://leetcode.com/problems/missing-number/) | Easy | 24 Aug 2026 | 08:26 pm |
 | 120 | [Valid Anagram](./LeetCode/Easy/Valid%20Anagram) | [LeetCode](https://leetcode.com/problems/valid-anagram/) | Easy | 24 Aug 2026 | 09:19 pm |
 | 121 | [Summed Matrix](./GeeksForGeeks/Easy/Summed%20Matrix) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/summed-matrix5834/1) | Easy | 24 Aug 2026 | 11:01 pm |
+| 122 | [Minimum Moves to Sort Permutation](./GeeksForGeeks/Easy/Minimum%20Moves%20to%20Sort%20Permutation) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/morning-assembly3038/1) | Easy | 25 Aug 2026 | 06:05 pm |
