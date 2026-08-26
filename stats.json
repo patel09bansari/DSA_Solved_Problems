@@ -1,12 +1,12 @@
 {
-  "totalSolved": 126,
+  "totalSolved": 127,
   "currentStreak": 23,
   "maxStreak": 23,
   "lastSyncDate": "2026-08-26",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
     "easy": 71,
-    "medium": 23,
+    "medium": 24,
     "hard": 12,
     "basic": 20
   },
@@ -136,7 +136,8 @@
     "LeetCode_Smallest_Missing_Multiple_of_K": true,
     "GeeksForGeeks_Implement_Upper_Bound": true,
     "LeetCode_Sqrt(x)": true,
-    "GeeksForGeeks_Negative_Weight_Cycle": true
+    "GeeksForGeeks_Negative_Weight_Cycle": true,
+    "LeetCode_Shortest_and_Lexicographically_Smallest_Beautiful_String": true
   },
   "activityHistory": {
     "2026-08-04": 34,
@@ -161,10 +162,11 @@
     "2026-08-23": 1,
     "2026-08-24": 9,
     "2026-08-25": 3,
-    "2026-08-26": 2
+    "2026-08-26": 3
   },
   "todayProblems": [
     "Sqrt(x)",
-    "Negative Weight Cycle"
+    "Negative Weight Cycle",
+    "Shortest and Lexicographically Smallest Beautiful String"
   ]
 }
