@@ -125,3 +125,4 @@
 | 123 | [Smallest Missing Multiple of K](./LeetCode/Easy/Smallest%20Missing%20Multiple%20of%20K) | [LeetCode](https://leetcode.com/problems/smallest-missing-multiple-of-k/) | Easy | 25 Aug 2026 | 06:06 pm |
 | 124 | [Implement Upper Bound](./GeeksForGeeks/Easy/Implement%20Upper%20Bound) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/implement-upper-bound/1) | Easy | 25 Aug 2026 | 06:16 pm |
 | 125 | [Sqrt(x)](./LeetCode/Easy/Sqrt(x)) | [LeetCode](https://leetcode.com/problems/sqrtx/) | Easy | 26 Aug 2026 | 10:50 am |
+| 126 | [Negative Weight Cycle](./GeeksForGeeks/Medium/Negative%20Weight%20Cycle) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/negative-weight-cycle3504/1) | Medium | 26 Aug 2026 | 05:58 pm |

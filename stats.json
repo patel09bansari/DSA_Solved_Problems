@@ -1,12 +1,12 @@
 {
-  "totalSolved": 125,
+  "totalSolved": 126,
   "currentStreak": 23,
   "maxStreak": 23,
   "lastSyncDate": "2026-08-26",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 71,
-    "medium": 22,
+    "medium": 23,
     "hard": 12,
     "basic": 20
   },
@@ -135,7 +135,8 @@
     "GeeksForGeeks_Minimum_Moves_to_Sort_Permutation": true,
     "LeetCode_Smallest_Missing_Multiple_of_K": true,
     "GeeksForGeeks_Implement_Upper_Bound": true,
-    "LeetCode_Sqrt(x)": true
+    "LeetCode_Sqrt(x)": true,
+    "GeeksForGeeks_Negative_Weight_Cycle": true
   },
   "activityHistory": {
     "2026-08-04": 34,
@@ -160,9 +161,10 @@
     "2026-08-23": 1,
     "2026-08-24": 9,
     "2026-08-25": 3,
-    "2026-08-26": 1
+    "2026-08-26": 2
   },
   "todayProblems": [
-    "Sqrt(x)"
+    "Sqrt(x)",
+    "Negative Weight Cycle"
   ]
 }
