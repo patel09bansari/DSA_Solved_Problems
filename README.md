@@ -127,3 +127,4 @@
 | 125 | [Sqrt(x)](./LeetCode/Easy/Sqrt(x)) | [LeetCode](https://leetcode.com/problems/sqrtx/) | Easy | 26 Aug 2026 | 10:50 am |
 | 126 | [Negative Weight Cycle](./GeeksForGeeks/Medium/Negative%20Weight%20Cycle) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/negative-weight-cycle3504/1) | Medium | 26 Aug 2026 | 05:58 pm |
 | 127 | [Shortest and Lexicographically Smallest Beautiful String](./LeetCode/Medium/Shortest%20and%20Lexicographically%20Smallest%20Beautiful%20String) | [LeetCode](https://leetcode.com/problems/shortest-and-lexicographically-smallest-beautiful-string/) | Medium | 26 Aug 2026 | 05:59 pm |
+| 128 | [Largest Rectangle with Column Swaps](./GeeksForGeeks/Hard/Largest%20Rectangle%20with%20Column%20Swaps) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/find-the-largest-rectangle-of-1s-with-swapping-of-columns-allowed0243/1) | Hard | 27 Aug 2026 | 09:10 pm |

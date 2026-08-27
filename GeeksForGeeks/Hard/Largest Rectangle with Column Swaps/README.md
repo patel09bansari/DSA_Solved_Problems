@@ -1,0 +1,19 @@
+# Largest Rectangle with Column Swaps
+
+## Difficulty: Hard
+
+## Platform: GeeksForGeeks
+
+## Problem Link
+[View Problem](https://www.geeksforgeeks.org/problems/find-the-largest-rectangle-of-1s-with-swapping-of-columns-allowed0243/1)
+
+## Solved On
+27 Aug 2026 at 09:10 pm
+
+<h2><a href="https://www.geeksforgeeks.org/problems/find-the-largest-rectangle-of-1s-with-swapping-of-columns-allowed0243/1">Largest Rectangle with Column Swaps</a></h2><h3>Difficulty Level: Hard</h3><hr><p><span style="font-size: 18px;">Given a binary matrix <strong>mat[][]</strong> of size n × m containing only 0s and 1s, any pair of columns may be swapped any number of times. Return the maximum area of a rectangle consisting entirely of 1's that can be formed after performing the column swaps.</span></p>
+<p><span style="font-size: 18px;"><strong>Examples:</strong></span></p>
+<pre><span style="font-size: 18px;"><span style="font-size: 18px;"><strong style="font-size: 18px;">Input:</strong><span style="font-size: 18px;"> mat[][] = [[0, 1, 0, 1, 0], [0, 1, 0, 1, 1], [1, 1, 0, 1, 0]]
+</span><strong style="font-size: 18px;">Output: </strong><span style="font-size: 18px;">6
+</span><strong style="font-size: 18px;">Explanation: </strong><span style="font-size: 18px;">After swapping the 2nd and 3rd columns, the largest rectangle of 1s has an area of 6.<br><img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/930248/Web/Other/blobid0_1786000306.png" width="200" height="124"> </span></span></span></pre>
+<pre><span style="font-size: 18px;"><span style="font-size: 18px;"><strong style="font-size: 18px;">Input: </strong><span style="font-size: 18px;">mat[][] = [[0, 1, 1, 0, 0], [1, 1, 1, 0, 1], [1, 1, 1, 0, 1], [1, 1, 1, 1, 1]]</span><strong style="font-size: 18px;">
+Output: </strong><span style="font-size: 18px;"><span style="font-size: 18px;">12<br></span><strong style="font-size: 18px;">Explanation: </strong><span style="font-size: 18px;">After swapping the 4th and 5th columns, the largest rectangle of 1s has an area of 12.</span><span style="font-size: 18px;"><br><img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/930248/Web/Other/blobid1_1786000363.png" width="155" height="125"></span></span></span></span></pre>
