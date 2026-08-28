@@ -1,12 +1,12 @@
 {
-  "totalSolved": 129,
-  "currentStreak": 24,
-  "maxStreak": 24,
-  "lastSyncDate": "2026-08-27",
-  "todayCount": 2,
+  "totalSolved": 130,
+  "currentStreak": 25,
+  "maxStreak": 25,
+  "lastSyncDate": "2026-08-28",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 71,
-    "medium": 25,
+    "medium": 26,
     "hard": 13,
     "basic": 20
   },
@@ -139,7 +139,8 @@
     "GeeksForGeeks_Negative_Weight_Cycle": true,
     "LeetCode_Shortest_and_Lexicographically_Smallest_Beautiful_String": true,
     "GeeksForGeeks_Largest_Rectangle_with_Column_Swaps": true,
-    "LeetCode_Lexicographically_Smallest_Permutation_Greater_Than_Target": true
+    "LeetCode_Lexicographically_Smallest_Permutation_Greater_Than_Target": true,
+    "GeeksForGeeks_Minimum_Cost_Selection": true
   },
   "activityHistory": {
     "2026-08-04": 34,
@@ -165,10 +166,10 @@
     "2026-08-24": 9,
     "2026-08-25": 3,
     "2026-08-26": 3,
-    "2026-08-27": 2
+    "2026-08-27": 2,
+    "2026-08-28": 1
   },
   "todayProblems": [
-    "Largest Rectangle with Column Swaps",
-    "Lexicographically Smallest Permutation Greater Than Target"
+    "Minimum Cost Selection"
   ]
 }
