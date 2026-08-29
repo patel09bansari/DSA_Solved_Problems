@@ -1,12 +1,12 @@
 {
-  "totalSolved": 131,
-  "currentStreak": 25,
-  "maxStreak": 25,
-  "lastSyncDate": "2026-08-28",
-  "todayCount": 2,
+  "totalSolved": 132,
+  "currentStreak": 26,
+  "maxStreak": 26,
+  "lastSyncDate": "2026-08-29",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 71,
-    "medium": 26,
+    "medium": 27,
     "hard": 14,
     "basic": 20
   },
@@ -141,7 +141,8 @@
     "GeeksForGeeks_Largest_Rectangle_with_Column_Swaps": true,
     "LeetCode_Lexicographically_Smallest_Permutation_Greater_Than_Target": true,
     "GeeksForGeeks_Minimum_Cost_Selection": true,
-    "LeetCode_Lexicographically_Smallest_Palindromic_Permutation_Greater_Than_Target": true
+    "LeetCode_Lexicographically_Smallest_Palindromic_Permutation_Greater_Than_Target": true,
+    "GeeksForGeeks_Count_Subsequences_Divisible_by_n": true
   },
   "activityHistory": {
     "2026-08-04": 34,
@@ -168,10 +169,10 @@
     "2026-08-25": 3,
     "2026-08-26": 3,
     "2026-08-27": 2,
-    "2026-08-28": 2
+    "2026-08-28": 2,
+    "2026-08-29": 1
   },
   "todayProblems": [
-    "Minimum Cost Selection",
-    "Lexicographically Smallest Palindromic Permutation Greater Than Target"
+    "Count Subsequences Divisible by n"
   ]
 }
