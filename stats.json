@@ -1,12 +1,12 @@
 {
-  "totalSolved": 132,
+  "totalSolved": 133,
   "currentStreak": 26,
   "maxStreak": 26,
   "lastSyncDate": "2026-08-29",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 71,
-    "medium": 27,
+    "medium": 28,
     "hard": 14,
     "basic": 20
   },
@@ -142,7 +142,8 @@
     "LeetCode_Lexicographically_Smallest_Permutation_Greater_Than_Target": true,
     "GeeksForGeeks_Minimum_Cost_Selection": true,
     "LeetCode_Lexicographically_Smallest_Palindromic_Permutation_Greater_Than_Target": true,
-    "GeeksForGeeks_Count_Subsequences_Divisible_by_n": true
+    "GeeksForGeeks_Count_Subsequences_Divisible_by_n": true,
+    "LeetCode_Make_Lexicographically_Smallest_Array_by_Swapping_Elements": true
   },
   "activityHistory": {
     "2026-08-04": 34,
@@ -170,9 +171,10 @@
     "2026-08-26": 3,
     "2026-08-27": 2,
     "2026-08-28": 2,
-    "2026-08-29": 1
+    "2026-08-29": 2
   },
   "todayProblems": [
-    "Count Subsequences Divisible by n"
+    "Count Subsequences Divisible by n",
+    "Make Lexicographically Smallest Array by Swapping Elements"
   ]
 }
