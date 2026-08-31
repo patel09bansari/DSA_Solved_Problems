@@ -137,3 +137,4 @@
 | 135 | [Removing Minimum and Maximum From Array](./LeetCode/Medium/Removing%20Minimum%20and%20Maximum%20From%20Array) | [LeetCode](https://leetcode.com/problems/removing-minimum-and-maximum-from-array/) | Medium | 30 Aug 2026 | 10:17 am |
 | 136 | [Search in Rotated Sorted Array](./LeetCode/Medium/Search%20in%20Rotated%20Sorted%20Array) | [LeetCode](https://leetcode.com/problems/search-in-rotated-sorted-array/) | Medium | 31 Aug 2026 | 08:14 am |
 | 137 | [Search a 2D Matrix](./LeetCode/Medium/Search%20a%202D%20Matrix) | [LeetCode](https://leetcode.com/problems/search-a-2d-matrix/) | Medium | 31 Aug 2026 | 08:54 am |
+| 138 | [Search in a sorted Matrix](./GeeksForGeeks/Medium/Search%20in%20a%20sorted%20Matrix) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/search-in-a-matrix-1587115621/1) | Medium | 31 Aug 2026 | 09:24 am |

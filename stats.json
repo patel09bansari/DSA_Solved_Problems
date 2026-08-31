@@ -1,12 +1,12 @@
 {
-  "totalSolved": 137,
+  "totalSolved": 138,
   "currentStreak": 28,
   "maxStreak": 28,
   "lastSyncDate": "2026-08-31",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
     "easy": 71,
-    "medium": 32,
+    "medium": 33,
     "hard": 14,
     "basic": 20
   },
@@ -147,7 +147,8 @@
     "GeeksForGeeks_Marks_from_Ranks": true,
     "LeetCode_Removing_Minimum_and_Maximum_From_Array": true,
     "LeetCode_Search_in_Rotated_Sorted_Array": true,
-    "LeetCode_Search_a_2D_Matrix": true
+    "LeetCode_Search_a_2D_Matrix": true,
+    "GeeksForGeeks_Search_in_a_sorted_Matrix": true
   },
   "activityHistory": {
     "2026-08-04": 34,
@@ -177,10 +178,11 @@
     "2026-08-28": 2,
     "2026-08-29": 2,
     "2026-08-30": 2,
-    "2026-08-31": 2
+    "2026-08-31": 3
   },
   "todayProblems": [
     "Search in Rotated Sorted Array",
-    "Search a 2D Matrix"
+    "Search a 2D Matrix",
+    "Search in a sorted Matrix"
   ]
 }
