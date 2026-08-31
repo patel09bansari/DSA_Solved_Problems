@@ -139,3 +139,4 @@
 | 137 | [Search a 2D Matrix](./LeetCode/Medium/Search%20a%202D%20Matrix) | [LeetCode](https://leetcode.com/problems/search-a-2d-matrix/) | Medium | 31 Aug 2026 | 08:54 am |
 | 138 | [Search in a sorted Matrix](./GeeksForGeeks/Medium/Search%20in%20a%20sorted%20Matrix) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/search-in-a-matrix-1587115621/1) | Medium | 31 Aug 2026 | 09:24 am |
 | 139 | [Peak Index in a Mountain Array](./LeetCode/Medium/Peak%20Index%20in%20a%20Mountain%20Array) | [LeetCode](https://leetcode.com/problems/peak-index-in-a-mountain-array/) | Medium | 31 Aug 2026 | 09:59 am |
+| 140 | [Minimum Cost for n Characters](./GeeksForGeeks/Medium/Minimum%20Cost%20for%20n%20Characters) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/minimum-time1238/1) | Medium | 31 Aug 2026 | 06:55 pm |
