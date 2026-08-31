@@ -135,3 +135,4 @@
 | 133 | [Make Lexicographically Smallest Array by Swapping Elements](./LeetCode/Medium/Make%20Lexicographically%20Smallest%20Array%20by%20Swapping%20Elements) | [LeetCode](https://leetcode.com/problems/make-lexicographically-smallest-array-by-swapping-elements/) | Medium | 29 Aug 2026 | 05:31 pm |
 | 134 | [Marks from Ranks](./GeeksForGeeks/Medium/Marks%20from%20Ranks) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/find-marks-from-ranks/1) | Medium | 30 Aug 2026 | 10:16 am |
 | 135 | [Removing Minimum and Maximum From Array](./LeetCode/Medium/Removing%20Minimum%20and%20Maximum%20From%20Array) | [LeetCode](https://leetcode.com/problems/removing-minimum-and-maximum-from-array/) | Medium | 30 Aug 2026 | 10:17 am |
+| 136 | [Search in Rotated Sorted Array](./LeetCode/Medium/Search%20in%20Rotated%20Sorted%20Array) | [LeetCode](https://leetcode.com/problems/search-in-rotated-sorted-array/) | Medium | 31 Aug 2026 | 08:14 am |

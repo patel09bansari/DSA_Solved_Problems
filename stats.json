@@ -1,12 +1,12 @@
 {
-  "totalSolved": 135,
-  "currentStreak": 27,
-  "maxStreak": 27,
-  "lastSyncDate": "2026-08-30",
-  "todayCount": 2,
+  "totalSolved": 136,
+  "currentStreak": 28,
+  "maxStreak": 28,
+  "lastSyncDate": "2026-08-31",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 71,
-    "medium": 30,
+    "medium": 31,
     "hard": 14,
     "basic": 20
   },
@@ -145,7 +145,8 @@
     "GeeksForGeeks_Count_Subsequences_Divisible_by_n": true,
     "LeetCode_Make_Lexicographically_Smallest_Array_by_Swapping_Elements": true,
     "GeeksForGeeks_Marks_from_Ranks": true,
-    "LeetCode_Removing_Minimum_and_Maximum_From_Array": true
+    "LeetCode_Removing_Minimum_and_Maximum_From_Array": true,
+    "LeetCode_Search_in_Rotated_Sorted_Array": true
   },
   "activityHistory": {
     "2026-08-04": 34,
@@ -174,10 +175,10 @@
     "2026-08-27": 2,
     "2026-08-28": 2,
     "2026-08-29": 2,
-    "2026-08-30": 2
+    "2026-08-30": 2,
+    "2026-08-31": 1
   },
   "todayProblems": [
-    "Marks from Ranks",
-    "Removing Minimum and Maximum From Array"
+    "Search in Rotated Sorted Array"
   ]
 }
