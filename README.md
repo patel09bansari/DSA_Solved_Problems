@@ -145,3 +145,4 @@
 | 143 | [3Sum](./LeetCode/Medium/3Sum) | [LeetCode](https://leetcode.com/problems/3sum/) | Medium | 01 Sept 2026 | 08:55 am |
 | 144 | [Move All Zeroes to End](./GeeksForGeeks/Easy/Move%20All%20Zeroes%20to%20End) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/move-all-zeroes-to-end-of-array0751/1) | Easy | 01 Sept 2026 | 09:21 am |
 | 145 | [Remove Duplicates Sorted Array](./GeeksForGeeks/Easy/Remove%20Duplicates%20Sorted%20Array) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/remove-duplicate-elements-from-sorted-array/1?utm_source=chatgpt.com) | Easy | 01 Sept 2026 | 09:57 am |
+| 146 | [Count Palindromic Strings with Constraints](./GeeksForGeeks/Medium/Count%20Palindromic%20Strings%20with%20Constraints) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/number-of-palindromic-strings2706/1) | Medium | 01 Sept 2026 | 04:44 pm |
