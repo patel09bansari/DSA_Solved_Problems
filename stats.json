@@ -1,12 +1,12 @@
 {
-  "totalSolved": 141,
-  "currentStreak": 28,
-  "maxStreak": 28,
-  "lastSyncDate": "2026-08-31",
-  "todayCount": 6,
+  "totalSolved": 142,
+  "currentStreak": 29,
+  "maxStreak": 29,
+  "lastSyncDate": "2026-09-01",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 71,
-    "medium": 36,
+    "medium": 37,
     "hard": 14,
     "basic": 20
   },
@@ -151,7 +151,8 @@
     "GeeksForGeeks_Search_in_a_sorted_Matrix": true,
     "LeetCode_Peak_Index_in_a_Mountain_Array": true,
     "GeeksForGeeks_Minimum_Cost_for_n_Characters": true,
-    "LeetCode_Find_the_Minimum_and_Maximum_Number_of_Nodes_Between_Critical_Points": true
+    "LeetCode_Find_the_Minimum_and_Maximum_Number_of_Nodes_Between_Critical_Points": true,
+    "LeetCode_4Sum": true
   },
   "activityHistory": {
     "2026-08-04": 34,
@@ -181,14 +182,10 @@
     "2026-08-28": 2,
     "2026-08-29": 2,
     "2026-08-30": 2,
-    "2026-08-31": 6
+    "2026-08-31": 6,
+    "2026-09-01": 1
   },
   "todayProblems": [
-    "Search in Rotated Sorted Array",
-    "Search a 2D Matrix",
-    "Search in a sorted Matrix",
-    "Peak Index in a Mountain Array",
-    "Minimum Cost for n Characters",
-    "Find the Minimum and Maximum Number of Nodes Between Critical Points"
+    "4Sum"
   ]
 }

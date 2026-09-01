@@ -141,3 +141,4 @@
 | 139 | [Peak Index in a Mountain Array](./LeetCode/Medium/Peak%20Index%20in%20a%20Mountain%20Array) | [LeetCode](https://leetcode.com/problems/peak-index-in-a-mountain-array/) | Medium | 31 Aug 2026 | 09:59 am |
 | 140 | [Minimum Cost for n Characters](./GeeksForGeeks/Medium/Minimum%20Cost%20for%20n%20Characters) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/minimum-time1238/1) | Medium | 31 Aug 2026 | 06:55 pm |
 | 141 | [Find the Minimum and Maximum Number of Nodes Between Critical Points](./LeetCode/Medium/Find%20the%20Minimum%20and%20Maximum%20Number%20of%20Nodes%20Between%20Critical%20Points) | [LeetCode](https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium | 31 Aug 2026 | 06:57 pm |
+| 142 | [4Sum](./LeetCode/Medium/4Sum) | [LeetCode](https://leetcode.com/problems/4sum/) | Medium | 01 Sept 2026 | 08:45 am |
