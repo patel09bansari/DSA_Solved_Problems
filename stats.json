@@ -1,11 +1,11 @@
 {
-  "totalSolved": 144,
+  "totalSolved": 145,
   "currentStreak": 29,
   "maxStreak": 29,
   "lastSyncDate": "2026-09-01",
-  "todayCount": 3,
+  "todayCount": 4,
   "difficultyCounts": {
-    "easy": 72,
+    "easy": 73,
     "medium": 38,
     "hard": 14,
     "basic": 20
@@ -154,7 +154,8 @@
     "LeetCode_Find_the_Minimum_and_Maximum_Number_of_Nodes_Between_Critical_Points": true,
     "LeetCode_4Sum": true,
     "LeetCode_3Sum": true,
-    "GeeksForGeeks_Move_All_Zeroes_to_End": true
+    "GeeksForGeeks_Move_All_Zeroes_to_End": true,
+    "GeeksForGeeks_Remove_Duplicates_Sorted_Array": true
   },
   "activityHistory": {
     "2026-08-04": 34,
@@ -185,11 +186,12 @@
     "2026-08-29": 2,
     "2026-08-30": 2,
     "2026-08-31": 6,
-    "2026-09-01": 3
+    "2026-09-01": 4
   },
   "todayProblems": [
     "4Sum",
     "3Sum",
-    "Move All Zeroes to End"
+    "Move All Zeroes to End",
+    "Remove Duplicates Sorted Array"
   ]
 }

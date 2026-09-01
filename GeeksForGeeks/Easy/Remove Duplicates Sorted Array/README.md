@@ -1,0 +1,20 @@
+# Remove Duplicates Sorted Array
+
+## Difficulty: Easy
+
+## Platform: GeeksForGeeks
+
+## Problem Link
+[View Problem](https://www.geeksforgeeks.org/problems/remove-duplicate-elements-from-sorted-array/1?utm_source=chatgpt.com)
+
+## Solved On
+01 Sept 2026 at 09:57 am
+
+<h2><a href="https://www.geeksforgeeks.org/problems/remove-duplicate-elements-from-sorted-array/1?utm_source=chatgpt.com">Remove Duplicates Sorted Array</a></h2><h3>Difficulty Level: Easy</h3><hr><p><span style="font-size: 18px;">You are given a <strong>sorted array arr[]</strong> containing positive integers. Your task is to <strong>remove all duplicate elements</strong> from this array such that each element appears only once. Return an array containing these distinct elements in the same order as they appeared.<br></span><strong style="font-size: 18px;">Examples :</strong></p>
+<pre><span style="font-size: 18px;"><strong>Input: </strong>arr[] = [2, 2, 2, 2, 2]
+<strong>Output:</strong> [2]
+<strong>Explanation:</strong> After removing all the duplicates only one instance of 2 will remain i.e. [2] so modified array will contains 2 at first position and you should return array containing [2] after modifying the array.</span>
+</pre>
+<pre><span style="font-size: 18px;"><strong>Input: </strong>arr[] = [1, 2, 4]
+<strong>Output:</strong> [1, 2, 4]<br><strong>Explation:  </strong>As the array does not contain any duplicates so you should return [1, 2, 4].</span></pre>
+<p><span style="font-size: 18px;"><strong>Constraints:</strong><br>1 ≤ arr.size() ≤ 10<sup>5</sup><br>1 ≤ arr[i] ≤ 10<sup>6</sup></span></p>
