@@ -1,12 +1,12 @@
 {
-  "totalSolved": 148,
+  "totalSolved": 149,
   "currentStreak": 30,
   "maxStreak": 30,
   "lastSyncDate": "2026-09-02",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 73,
-    "medium": 41,
+    "medium": 42,
     "hard": 14,
     "basic": 20
   },
@@ -158,7 +158,8 @@
     "GeeksForGeeks_Remove_Duplicates_Sorted_Array": true,
     "GeeksForGeeks_Count_Palindromic_Strings_with_Constraints": true,
     "LeetCode_Minimum_Moves_to_Clean_the_Classroom": true,
-    "LeetCode_Minimum_Time_to_Complete_Trips": true
+    "LeetCode_Minimum_Time_to_Complete_Trips": true,
+    "LeetCode_Koko_Eating_Bananas": true
   },
   "activityHistory": {
     "2026-08-04": 34,
@@ -190,9 +191,10 @@
     "2026-08-30": 2,
     "2026-08-31": 6,
     "2026-09-01": 6,
-    "2026-09-02": 1
+    "2026-09-02": 2
   },
   "todayProblems": [
-    "Minimum Time to Complete Trips"
+    "Minimum Time to Complete Trips",
+    "Koko Eating Bananas"
   ]
 }

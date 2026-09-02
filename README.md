@@ -148,3 +148,4 @@
 | 146 | [Count Palindromic Strings with Constraints](./GeeksForGeeks/Medium/Count%20Palindromic%20Strings%20with%20Constraints) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/number-of-palindromic-strings2706/1) | Medium | 01 Sept 2026 | 04:44 pm |
 | 147 | [Minimum Moves to Clean the Classroom](./LeetCode/Medium/Minimum%20Moves%20to%20Clean%20the%20Classroom) | [LeetCode](https://leetcode.com/problems/minimum-moves-to-clean-the-classroom/) | Medium | 01 Sept 2026 | 04:46 pm |
 | 148 | [Minimum Time to Complete Trips](./LeetCode/Medium/Minimum%20Time%20to%20Complete%20Trips) | [LeetCode](https://leetcode.com/problems/minimum-time-to-complete-trips/) | Medium | 02 Sept 2026 | 08:59 am |
+| 149 | [Koko Eating Bananas](./LeetCode/Medium/Koko%20Eating%20Bananas) | [LeetCode](https://leetcode.com/problems/koko-eating-bananas/) | Medium | 02 Sept 2026 | 09:58 am |
