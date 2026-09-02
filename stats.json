@@ -1,11 +1,11 @@
 {
-  "totalSolved": 149,
+  "totalSolved": 150,
   "currentStreak": 30,
   "maxStreak": 30,
   "lastSyncDate": "2026-09-02",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
-    "easy": 73,
+    "easy": 74,
     "medium": 42,
     "hard": 14,
     "basic": 20
@@ -159,7 +159,8 @@
     "GeeksForGeeks_Count_Palindromic_Strings_with_Constraints": true,
     "LeetCode_Minimum_Moves_to_Clean_the_Classroom": true,
     "LeetCode_Minimum_Time_to_Complete_Trips": true,
-    "LeetCode_Koko_Eating_Bananas": true
+    "LeetCode_Koko_Eating_Bananas": true,
+    "LeetCode_Find_Smallest_Letter_Greater_Than_Target": true
   },
   "activityHistory": {
     "2026-08-04": 34,
@@ -191,10 +192,11 @@
     "2026-08-30": 2,
     "2026-08-31": 6,
     "2026-09-01": 6,
-    "2026-09-02": 2
+    "2026-09-02": 3
   },
   "todayProblems": [
     "Minimum Time to Complete Trips",
-    "Koko Eating Bananas"
+    "Koko Eating Bananas",
+    "Find Smallest Letter Greater Than Target"
   ]
 }

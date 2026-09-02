@@ -149,3 +149,4 @@
 | 147 | [Minimum Moves to Clean the Classroom](./LeetCode/Medium/Minimum%20Moves%20to%20Clean%20the%20Classroom) | [LeetCode](https://leetcode.com/problems/minimum-moves-to-clean-the-classroom/) | Medium | 01 Sept 2026 | 04:46 pm |
 | 148 | [Minimum Time to Complete Trips](./LeetCode/Medium/Minimum%20Time%20to%20Complete%20Trips) | [LeetCode](https://leetcode.com/problems/minimum-time-to-complete-trips/) | Medium | 02 Sept 2026 | 08:59 am |
 | 149 | [Koko Eating Bananas](./LeetCode/Medium/Koko%20Eating%20Bananas) | [LeetCode](https://leetcode.com/problems/koko-eating-bananas/) | Medium | 02 Sept 2026 | 09:58 am |
+| 150 | [Find Smallest Letter Greater Than Target](./LeetCode/Easy/Find%20Smallest%20Letter%20Greater%20Than%20Target) | [LeetCode](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) | Easy | 02 Sept 2026 | 10:45 am |
