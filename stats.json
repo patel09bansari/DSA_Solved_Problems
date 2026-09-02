@@ -1,11 +1,11 @@
 {
-  "totalSolved": 150,
+  "totalSolved": 151,
   "currentStreak": 30,
   "maxStreak": 30,
   "lastSyncDate": "2026-09-02",
-  "todayCount": 3,
+  "todayCount": 4,
   "difficultyCounts": {
-    "easy": 74,
+    "easy": 75,
     "medium": 42,
     "hard": 14,
     "basic": 20
@@ -160,7 +160,8 @@
     "LeetCode_Minimum_Moves_to_Clean_the_Classroom": true,
     "LeetCode_Minimum_Time_to_Complete_Trips": true,
     "LeetCode_Koko_Eating_Bananas": true,
-    "LeetCode_Find_Smallest_Letter_Greater_Than_Target": true
+    "LeetCode_Find_Smallest_Letter_Greater_Than_Target": true,
+    "GeeksForGeeks_Unoccupied_Computers": true
   },
   "activityHistory": {
     "2026-08-04": 34,
@@ -192,11 +193,12 @@
     "2026-08-30": 2,
     "2026-08-31": 6,
     "2026-09-01": 6,
-    "2026-09-02": 3
+    "2026-09-02": 4
   },
   "todayProblems": [
     "Minimum Time to Complete Trips",
     "Koko Eating Bananas",
-    "Find Smallest Letter Greater Than Target"
+    "Find Smallest Letter Greater Than Target",
+    "Unoccupied Computers"
   ]
 }

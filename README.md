@@ -150,3 +150,4 @@
 | 148 | [Minimum Time to Complete Trips](./LeetCode/Medium/Minimum%20Time%20to%20Complete%20Trips) | [LeetCode](https://leetcode.com/problems/minimum-time-to-complete-trips/) | Medium | 02 Sept 2026 | 08:59 am |
 | 149 | [Koko Eating Bananas](./LeetCode/Medium/Koko%20Eating%20Bananas) | [LeetCode](https://leetcode.com/problems/koko-eating-bananas/) | Medium | 02 Sept 2026 | 09:58 am |
 | 150 | [Find Smallest Letter Greater Than Target](./LeetCode/Easy/Find%20Smallest%20Letter%20Greater%20Than%20Target) | [LeetCode](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) | Easy | 02 Sept 2026 | 10:45 am |
+| 151 | [Unoccupied Computers](./GeeksForGeeks/Easy/Unoccupied%20Computers) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/unoccupied-computers-1646661078/1) | Easy | 02 Sept 2026 | 07:41 pm |
