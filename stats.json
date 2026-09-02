@@ -1,12 +1,12 @@
 {
-  "totalSolved": 147,
-  "currentStreak": 29,
-  "maxStreak": 29,
-  "lastSyncDate": "2026-09-01",
-  "todayCount": 6,
+  "totalSolved": 148,
+  "currentStreak": 30,
+  "maxStreak": 30,
+  "lastSyncDate": "2026-09-02",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 73,
-    "medium": 40,
+    "medium": 41,
     "hard": 14,
     "basic": 20
   },
@@ -157,7 +157,8 @@
     "GeeksForGeeks_Move_All_Zeroes_to_End": true,
     "GeeksForGeeks_Remove_Duplicates_Sorted_Array": true,
     "GeeksForGeeks_Count_Palindromic_Strings_with_Constraints": true,
-    "LeetCode_Minimum_Moves_to_Clean_the_Classroom": true
+    "LeetCode_Minimum_Moves_to_Clean_the_Classroom": true,
+    "LeetCode_Minimum_Time_to_Complete_Trips": true
   },
   "activityHistory": {
     "2026-08-04": 34,
@@ -188,14 +189,10 @@
     "2026-08-29": 2,
     "2026-08-30": 2,
     "2026-08-31": 6,
-    "2026-09-01": 6
+    "2026-09-01": 6,
+    "2026-09-02": 1
   },
   "todayProblems": [
-    "4Sum",
-    "3Sum",
-    "Move All Zeroes to End",
-    "Remove Duplicates Sorted Array",
-    "Count Palindromic Strings with Constraints",
-    "Minimum Moves to Clean the Classroom"
+    "Minimum Time to Complete Trips"
   ]
 }
