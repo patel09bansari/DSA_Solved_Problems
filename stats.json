@@ -1,12 +1,12 @@
 {
-  "totalSolved": 153,
+  "totalSolved": 154,
   "currentStreak": 31,
   "maxStreak": 31,
   "lastSyncDate": "2026-09-03",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 76,
-    "medium": 43,
+    "medium": 44,
     "hard": 14,
     "basic": 20
   },
@@ -163,7 +163,8 @@
     "LeetCode_Find_Smallest_Letter_Greater_Than_Target": true,
     "GeeksForGeeks_Unoccupied_Computers": true,
     "LeetCode_Construct_Uniform_Parity_Array_I": true,
-    "GeeksForGeeks_Max_Adjacent_Diffs_Sum_with_1_Replacements": true
+    "GeeksForGeeks_Max_Adjacent_Diffs_Sum_with_1_Replacements": true,
+    "LeetCode_Construct_Uniform_Parity_Array_II": true
   },
   "activityHistory": {
     "2026-08-04": 34,
@@ -196,9 +197,10 @@
     "2026-08-31": 6,
     "2026-09-01": 6,
     "2026-09-02": 5,
-    "2026-09-03": 1
+    "2026-09-03": 2
   },
   "todayProblems": [
-    "Max Adjacent Diffs Sum with 1 Replacements"
+    "Max Adjacent Diffs Sum with 1 Replacements",
+    "Construct Uniform Parity Array II"
   ]
 }
