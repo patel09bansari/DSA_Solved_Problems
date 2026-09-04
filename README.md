@@ -154,3 +154,4 @@
 | 152 | [Construct Uniform Parity Array I](./LeetCode/Easy/Construct%20Uniform%20Parity%20Array%20I) | [LeetCode](https://leetcode.com/problems/construct-uniform-parity-array-i/) | Easy | 02 Sept 2026 | 07:44 pm |
 | 153 | [Max Adjacent Diffs Sum with 1 Replacements](./GeeksForGeeks/Medium/Max%20Adjacent%20Diffs%20Sum%20with%201%20Replacements) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/modify-array-to-maximize-sum-of-adjacent-differences1729/1) | Medium | 03 Sept 2026 | 05:25 pm |
 | 154 | [Construct Uniform Parity Array II](./LeetCode/Medium/Construct%20Uniform%20Parity%20Array%20II) | [LeetCode](https://leetcode.com/problems/construct-uniform-parity-array-ii/) | Medium | 03 Sept 2026 | 05:25 pm |
+| 155 | [Bird and Max Fruit Gathering](./GeeksForGeeks/Easy/Bird%20and%20Max%20Fruit%20Gathering) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/bird-and-maximum-fruit-gathering--170645/1) | Easy | 04 Sept 2026 | 11:18 am |
