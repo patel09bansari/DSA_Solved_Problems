@@ -156,3 +156,4 @@
 | 154 | [Construct Uniform Parity Array II](./LeetCode/Medium/Construct%20Uniform%20Parity%20Array%20II) | [LeetCode](https://leetcode.com/problems/construct-uniform-parity-array-ii/) | Medium | 03 Sept 2026 | 05:25 pm |
 | 155 | [Bird and Max Fruit Gathering](./GeeksForGeeks/Easy/Bird%20and%20Max%20Fruit%20Gathering) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/bird-and-maximum-fruit-gathering--170645/1) | Easy | 04 Sept 2026 | 11:18 am |
 | 156 | [Smallest Stable Index I](./LeetCode/Easy/Smallest%20Stable%20Index%20I) | [LeetCode](https://leetcode.com/problems/smallest-stable-index-i/) | Easy | 04 Sept 2026 | 11:18 am |
+| 157 | [Longest Subsequence with Adjacent Diff as 1](./GeeksForGeeks/Medium/Longest%20Subsequence%20with%20Adjacent%20Diff%20as%201) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/longest-sub-sequence-such-that-difference-between-adjacents-is-one2558/1) | Medium | 05 Sept 2026 | 09:45 am |

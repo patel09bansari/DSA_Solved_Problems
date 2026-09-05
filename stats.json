@@ -1,12 +1,12 @@
 {
-  "totalSolved": 156,
-  "currentStreak": 32,
-  "maxStreak": 32,
-  "lastSyncDate": "2026-09-04",
-  "todayCount": 2,
+  "totalSolved": 157,
+  "currentStreak": 33,
+  "maxStreak": 33,
+  "lastSyncDate": "2026-09-05",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 78,
-    "medium": 44,
+    "medium": 45,
     "hard": 14,
     "basic": 20
   },
@@ -166,7 +166,8 @@
     "GeeksForGeeks_Max_Adjacent_Diffs_Sum_with_1_Replacements": true,
     "LeetCode_Construct_Uniform_Parity_Array_II": true,
     "GeeksForGeeks_Bird_and_Max_Fruit_Gathering": true,
-    "LeetCode_Smallest_Stable_Index_I": true
+    "LeetCode_Smallest_Stable_Index_I": true,
+    "GeeksForGeeks_Longest_Subsequence_with_Adjacent_Diff_as_1": true
   },
   "activityHistory": {
     "2026-08-04": 34,
@@ -200,10 +201,10 @@
     "2026-09-01": 6,
     "2026-09-02": 5,
     "2026-09-03": 2,
-    "2026-09-04": 2
+    "2026-09-04": 2,
+    "2026-09-05": 1
   },
   "todayProblems": [
-    "Bird and Max Fruit Gathering",
-    "Smallest Stable Index I"
+    "Longest Subsequence with Adjacent Diff as 1"
   ]
 }
