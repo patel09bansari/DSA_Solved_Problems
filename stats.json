@@ -1,12 +1,12 @@
 {
-  "totalSolved": 157,
+  "totalSolved": 158,
   "currentStreak": 33,
   "maxStreak": 33,
   "lastSyncDate": "2026-09-05",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 78,
-    "medium": 45,
+    "medium": 46,
     "hard": 14,
     "basic": 20
   },
@@ -167,7 +167,8 @@
     "LeetCode_Construct_Uniform_Parity_Array_II": true,
     "GeeksForGeeks_Bird_and_Max_Fruit_Gathering": true,
     "LeetCode_Smallest_Stable_Index_I": true,
-    "GeeksForGeeks_Longest_Subsequence_with_Adjacent_Diff_as_1": true
+    "GeeksForGeeks_Longest_Subsequence_with_Adjacent_Diff_as_1": true,
+    "LeetCode_Smallest_Stable_Index_II": true
   },
   "activityHistory": {
     "2026-08-04": 34,
@@ -202,9 +203,10 @@
     "2026-09-02": 5,
     "2026-09-03": 2,
     "2026-09-04": 2,
-    "2026-09-05": 1
+    "2026-09-05": 2
   },
   "todayProblems": [
-    "Longest Subsequence with Adjacent Diff as 1"
+    "Longest Subsequence with Adjacent Diff as 1",
+    "Smallest Stable Index II"
   ]
 }
