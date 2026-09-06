@@ -1,13 +1,13 @@
 {
-  "totalSolved": 159,
+  "totalSolved": 160,
   "currentStreak": 34,
   "maxStreak": 34,
   "lastSyncDate": "2026-09-06",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 78,
     "medium": 47,
-    "hard": 14,
+    "hard": 15,
     "basic": 20
   },
   "syncedProblems": {
@@ -169,7 +169,8 @@
     "LeetCode_Smallest_Stable_Index_I": true,
     "GeeksForGeeks_Longest_Subsequence_with_Adjacent_Diff_as_1": true,
     "LeetCode_Smallest_Stable_Index_II": true,
-    "GeeksForGeeks_Sum_of_Pairwise_ANDs": true
+    "GeeksForGeeks_Sum_of_Pairwise_ANDs": true,
+    "LeetCode_Distinct_Subsequences": true
   },
   "activityHistory": {
     "2026-08-04": 34,
@@ -205,9 +206,10 @@
     "2026-09-03": 2,
     "2026-09-04": 2,
     "2026-09-05": 2,
-    "2026-09-06": 1
+    "2026-09-06": 2
   },
   "todayProblems": [
-    "Sum of Pairwise ANDs"
+    "Sum of Pairwise ANDs",
+    "Distinct Subsequences"
   ]
 }

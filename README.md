@@ -159,3 +159,4 @@
 | 157 | [Longest Subsequence with Adjacent Diff as 1](./GeeksForGeeks/Medium/Longest%20Subsequence%20with%20Adjacent%20Diff%20as%201) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/longest-sub-sequence-such-that-difference-between-adjacents-is-one2558/1) | Medium | 05 Sept 2026 | 09:45 am |
 | 158 | [Smallest Stable Index II](./LeetCode/Medium/Smallest%20Stable%20Index%20II) | [LeetCode](https://leetcode.com/problems/smallest-stable-index-ii/) | Medium | 05 Sept 2026 | 09:45 am |
 | 159 | [Sum of Pairwise ANDs](./GeeksForGeeks/Medium/Sum%20of%20Pairwise%20ANDs) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/sum-of-products5049/1) | Medium | 06 Sept 2026 | 09:31 am |
+| 160 | [Distinct Subsequences](./LeetCode/Hard/Distinct%20Subsequences) | [LeetCode](https://leetcode.com/problems/distinct-subsequences/) | Hard | 06 Sept 2026 | 09:32 am |
