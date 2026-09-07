@@ -160,3 +160,4 @@
 | 158 | [Smallest Stable Index II](./LeetCode/Medium/Smallest%20Stable%20Index%20II) | [LeetCode](https://leetcode.com/problems/smallest-stable-index-ii/) | Medium | 05 Sept 2026 | 09:45 am |
 | 159 | [Sum of Pairwise ANDs](./GeeksForGeeks/Medium/Sum%20of%20Pairwise%20ANDs) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/sum-of-products5049/1) | Medium | 06 Sept 2026 | 09:31 am |
 | 160 | [Distinct Subsequences](./LeetCode/Hard/Distinct%20Subsequences) | [LeetCode](https://leetcode.com/problems/distinct-subsequences/) | Hard | 06 Sept 2026 | 09:32 am |
+| 161 | [Minimum Elements Outside Subsequences](./GeeksForGeeks/Hard/Minimum%20Elements%20Outside%20Subsequences) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/minimum-number-of-elements-which-are-not-part-of-increasing-or-decreasing-subsequence2617/1) | Hard | 07 Sept 2026 | 06:04 pm |
