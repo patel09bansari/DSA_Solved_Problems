@@ -1,12 +1,12 @@
 {
-  "totalSolved": 165,
+  "totalSolved": 166,
   "currentStreak": 37,
   "maxStreak": 37,
   "lastSyncDate": "2026-09-09",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 80,
-    "medium": 48,
+    "medium": 49,
     "hard": 17,
     "basic": 20
   },
@@ -175,7 +175,8 @@
     "LeetCode_Distinct_Subsequences_II": true,
     "GeeksForGeeks_Word_in_Grid_-_All_Occurrences": true,
     "LeetCode_Count_Commas_in_Range": true,
-    "GeeksForGeeks_Max_Digit_Sum_Number_in_1_to_n": true
+    "GeeksForGeeks_Max_Digit_Sum_Number_in_1_to_n": true,
+    "LeetCode_Count_Commas_in_Range_II": true
   },
   "activityHistory": {
     "2026-08-04": 34,
@@ -214,9 +215,10 @@
     "2026-09-06": 2,
     "2026-09-07": 2,
     "2026-09-08": 2,
-    "2026-09-09": 1
+    "2026-09-09": 2
   },
   "todayProblems": [
-    "Max Digit Sum Number in 1 to n"
+    "Max Digit Sum Number in 1 to n",
+    "Count Commas in Range II"
   ]
 }
