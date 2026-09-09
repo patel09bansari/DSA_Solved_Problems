@@ -164,3 +164,4 @@
 | 162 | [Distinct Subsequences II](./LeetCode/Hard/Distinct%20Subsequences%20II) | [LeetCode](https://leetcode.com/problems/distinct-subsequences-ii/) | Hard | 07 Sept 2026 | 06:05 pm |
 | 163 | [Word in Grid - All Occurrences](./GeeksForGeeks/Medium/Word%20in%20Grid%20-%20All%20Occurrences) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/find-the-string-in-grid0111/1) | Medium | 08 Sept 2026 | 09:40 am |
 | 164 | [Count Commas in Range](./LeetCode/Easy/Count%20Commas%20in%20Range) | [LeetCode](https://leetcode.com/problems/count-commas-in-range/) | Easy | 08 Sept 2026 | 09:42 am |
+| 165 | [Max Digit Sum Number in 1 to n](./GeeksForGeeks/Easy/Max%20Digit%20Sum%20Number%20in%201%20to%20n) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/biggest-integer-having-maximum-digit-sum1704/1) | Easy | 09 Sept 2026 | 01:07 pm |
