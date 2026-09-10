@@ -166,3 +166,4 @@
 | 164 | [Count Commas in Range](./LeetCode/Easy/Count%20Commas%20in%20Range) | [LeetCode](https://leetcode.com/problems/count-commas-in-range/) | Easy | 08 Sept 2026 | 09:42 am |
 | 165 | [Max Digit Sum Number in 1 to n](./GeeksForGeeks/Easy/Max%20Digit%20Sum%20Number%20in%201%20to%20n) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/biggest-integer-having-maximum-digit-sum1704/1) | Easy | 09 Sept 2026 | 01:07 pm |
 | 166 | [Count Commas in Range II](./LeetCode/Medium/Count%20Commas%20in%20Range%20II) | [LeetCode](https://leetcode.com/problems/count-commas-in-range-ii/) | Medium | 09 Sept 2026 | 01:08 pm |
+| 167 | [Pairs with Given GCD and LCM](./GeeksForGeeks/Easy/Pairs%20with%20Given%20GCD%20and%20LCM) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/possible-pairs1550/1) | Easy | 10 Sept 2026 | 01:42 pm |
