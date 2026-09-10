@@ -1,12 +1,12 @@
 {
-  "totalSolved": 167,
+  "totalSolved": 168,
   "currentStreak": 38,
   "maxStreak": 38,
   "lastSyncDate": "2026-09-10",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 81,
-    "medium": 49,
+    "medium": 50,
     "hard": 17,
     "basic": 20
   },
@@ -177,7 +177,8 @@
     "LeetCode_Count_Commas_in_Range": true,
     "GeeksForGeeks_Max_Digit_Sum_Number_in_1_to_n": true,
     "LeetCode_Count_Commas_in_Range_II": true,
-    "GeeksForGeeks_Pairs_with_Given_GCD_and_LCM": true
+    "GeeksForGeeks_Pairs_with_Given_GCD_and_LCM": true,
+    "LeetCode_Count_Nodes_Equal_to_Average_of_Subtree": true
   },
   "activityHistory": {
     "2026-08-04": 34,
@@ -217,9 +218,10 @@
     "2026-09-07": 2,
     "2026-09-08": 2,
     "2026-09-09": 2,
-    "2026-09-10": 1
+    "2026-09-10": 2
   },
   "todayProblems": [
-    "Pairs with Given GCD and LCM"
+    "Pairs with Given GCD and LCM",
+    "Count Nodes Equal to Average of Subtree"
   ]
 }
