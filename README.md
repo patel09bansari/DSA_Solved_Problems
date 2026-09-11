@@ -168,3 +168,4 @@
 | 166 | [Count Commas in Range II](./LeetCode/Medium/Count%20Commas%20in%20Range%20II) | [LeetCode](https://leetcode.com/problems/count-commas-in-range-ii/) | Medium | 09 Sept 2026 | 01:08 pm |
 | 167 | [Pairs with Given GCD and LCM](./GeeksForGeeks/Easy/Pairs%20with%20Given%20GCD%20and%20LCM) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/possible-pairs1550/1) | Easy | 10 Sept 2026 | 01:42 pm |
 | 168 | [Count Nodes Equal to Average of Subtree](./LeetCode/Medium/Count%20Nodes%20Equal%20to%20Average%20of%20Subtree) | [LeetCode](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/) | Medium | 10 Sept 2026 | 01:43 pm |
+| 169 | [Values with Equal Array Remainders](./GeeksForGeeks/Easy/Values%20with%20Equal%20Array%20Remainders) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/k-modulus-array-element0255/1) | Easy | 11 Sept 2026 | 07:04 pm |
