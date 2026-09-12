@@ -170,3 +170,4 @@
 | 168 | [Count Nodes Equal to Average of Subtree](./LeetCode/Medium/Count%20Nodes%20Equal%20to%20Average%20of%20Subtree) | [LeetCode](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/) | Medium | 10 Sept 2026 | 01:43 pm |
 | 169 | [Values with Equal Array Remainders](./GeeksForGeeks/Easy/Values%20with%20Equal%20Array%20Remainders) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/k-modulus-array-element0255/1) | Easy | 11 Sept 2026 | 07:04 pm |
 | 170 | [Unique 3-Digit Even Numbers](./LeetCode/Easy/Unique%203-Digit%20Even%20Numbers) | [LeetCode](https://leetcode.com/problems/unique-3-digit-even-numbers/) | Easy | 11 Sept 2026 | 07:05 pm |
+| 171 | [Max Product Subsequence of Size K](./GeeksForGeeks/Medium/Max%20Product%20Subsequence%20of%20Size%20K) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/maximum-product4633/1) | Medium | 12 Sept 2026 | 07:12 pm |
