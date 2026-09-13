@@ -173,3 +173,4 @@
 | 171 | [Max Product Subsequence of Size K](./GeeksForGeeks/Medium/Max%20Product%20Subsequence%20of%20Size%20K) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/maximum-product4633/1) | Medium | 12 Sept 2026 | 07:12 pm |
 | 172 | [Maximum Score of Non-overlapping Intervals](./LeetCode/Hard/Maximum%20Score%20of%20Non-overlapping%20Intervals) | [LeetCode](https://leetcode.com/problems/maximum-score-of-non-overlapping-intervals/) | Hard | 12 Sept 2026 | 07:14 pm |
 | 173 | [Image Overlap](./LeetCode/Medium/Image%20Overlap) | [LeetCode](https://leetcode.com/problems/image-overlap/) | Medium | 13 Sept 2026 | 07:04 pm |
+| 174 | [Party in Town](./GeeksForGeeks/Medium/Party%20in%20Town) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/party-in-town3951/1) | Medium | 13 Sept 2026 | 07:08 pm |

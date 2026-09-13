@@ -1,12 +1,12 @@
 {
-  "totalSolved": 173,
+  "totalSolved": 174,
   "currentStreak": 41,
   "maxStreak": 41,
   "lastSyncDate": "2026-09-13",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 83,
-    "medium": 52,
+    "medium": 53,
     "hard": 18,
     "basic": 20
   },
@@ -183,7 +183,8 @@
     "LeetCode_Unique_3-Digit_Even_Numbers": true,
     "GeeksForGeeks_Max_Product_Subsequence_of_Size_K": true,
     "LeetCode_Maximum_Score_of_Non-overlapping_Intervals": true,
-    "LeetCode_Image_Overlap": true
+    "LeetCode_Image_Overlap": true,
+    "GeeksForGeeks_Party_in_Town": true
   },
   "activityHistory": {
     "2026-08-04": 34,
@@ -226,9 +227,10 @@
     "2026-09-10": 2,
     "2026-09-11": 2,
     "2026-09-12": 2,
-    "2026-09-13": 1
+    "2026-09-13": 2
   },
   "todayProblems": [
-    "Image Overlap"
+    "Image Overlap",
+    "Party in Town"
   ]
 }
