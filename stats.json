@@ -1,11 +1,11 @@
 {
-  "totalSolved": 175,
+  "totalSolved": 176,
   "currentStreak": 42,
   "maxStreak": 42,
   "lastSyncDate": "2026-09-14",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
-    "easy": 83,
+    "easy": 84,
     "medium": 54,
     "hard": 18,
     "basic": 20
@@ -185,7 +185,8 @@
     "LeetCode_Maximum_Score_of_Non-overlapping_Intervals": true,
     "LeetCode_Image_Overlap": true,
     "GeeksForGeeks_Party_in_Town": true,
-    "GeeksForGeeks_Shortest_Safe_Route_in_Grid": true
+    "GeeksForGeeks_Shortest_Safe_Route_in_Grid": true,
+    "LeetCode_Rectangle_Overlap": true
   },
   "activityHistory": {
     "2026-08-04": 34,
@@ -229,9 +230,10 @@
     "2026-09-11": 2,
     "2026-09-12": 2,
     "2026-09-13": 2,
-    "2026-09-14": 1
+    "2026-09-14": 2
   },
   "todayProblems": [
-    "Shortest Safe Route in Grid"
+    "Shortest Safe Route in Grid",
+    "Rectangle Overlap"
   ]
 }
