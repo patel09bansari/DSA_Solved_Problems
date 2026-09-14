@@ -174,3 +174,4 @@
 | 172 | [Maximum Score of Non-overlapping Intervals](./LeetCode/Hard/Maximum%20Score%20of%20Non-overlapping%20Intervals) | [LeetCode](https://leetcode.com/problems/maximum-score-of-non-overlapping-intervals/) | Hard | 12 Sept 2026 | 07:14 pm |
 | 173 | [Image Overlap](./LeetCode/Medium/Image%20Overlap) | [LeetCode](https://leetcode.com/problems/image-overlap/) | Medium | 13 Sept 2026 | 07:04 pm |
 | 174 | [Party in Town](./GeeksForGeeks/Medium/Party%20in%20Town) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/party-in-town3951/1) | Medium | 13 Sept 2026 | 07:08 pm |
+| 175 | [Shortest Safe Route in Grid](./GeeksForGeeks/Medium/Shortest%20Safe%20Route%20in%20Grid) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/find-shortest-safe-route-in-a-matrix/1) | Medium | 14 Sept 2026 | 07:18 pm |
