@@ -1,11 +1,11 @@
 {
-  "totalSolved": 177,
+  "totalSolved": 178,
   "currentStreak": 43,
   "maxStreak": 43,
   "lastSyncDate": "2026-09-15",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
-    "easy": 84,
+    "easy": 85,
     "medium": 54,
     "hard": 19,
     "basic": 20
@@ -187,7 +187,8 @@
     "GeeksForGeeks_Party_in_Town": true,
     "GeeksForGeeks_Shortest_Safe_Route_in_Grid": true,
     "LeetCode_Rectangle_Overlap": true,
-    "LeetCode_Maximum_Number_of_Non-overlapping_Palindrome_Substrings": true
+    "LeetCode_Maximum_Number_of_Non-overlapping_Palindrome_Substrings": true,
+    "GeeksForGeeks_Visit_Leaves_with_Budget": true
   },
   "activityHistory": {
     "2026-08-04": 34,
@@ -232,9 +233,10 @@
     "2026-09-12": 2,
     "2026-09-13": 2,
     "2026-09-14": 2,
-    "2026-09-15": 1
+    "2026-09-15": 2
   },
   "todayProblems": [
-    "Maximum Number of Non-overlapping Palindrome Substrings"
+    "Maximum Number of Non-overlapping Palindrome Substrings",
+    "Visit Leaves with Budget"
   ]
 }
