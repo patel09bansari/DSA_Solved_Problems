@@ -176,3 +176,4 @@
 | 174 | [Party in Town](./GeeksForGeeks/Medium/Party%20in%20Town) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/party-in-town3951/1) | Medium | 13 Sept 2026 | 07:08 pm |
 | 175 | [Shortest Safe Route in Grid](./GeeksForGeeks/Medium/Shortest%20Safe%20Route%20in%20Grid) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/find-shortest-safe-route-in-a-matrix/1) | Medium | 14 Sept 2026 | 07:18 pm |
 | 176 | [Rectangle Overlap](./LeetCode/Easy/Rectangle%20Overlap) | [LeetCode](https://leetcode.com/problems/rectangle-overlap/) | Easy | 14 Sept 2026 | 07:19 pm |
+| 177 | [Maximum Number of Non-overlapping Palindrome Substrings](./LeetCode/Hard/Maximum%20Number%20of%20Non-overlapping%20Palindrome%20Substrings) | [LeetCode](https://leetcode.com/problems/maximum-number-of-non-overlapping-palindrome-substrings/) | Hard | 15 Sept 2026 | 06:29 pm |
