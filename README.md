@@ -179,3 +179,4 @@
 | 177 | [Maximum Number of Non-overlapping Palindrome Substrings](./LeetCode/Hard/Maximum%20Number%20of%20Non-overlapping%20Palindrome%20Substrings) | [LeetCode](https://leetcode.com/problems/maximum-number-of-non-overlapping-palindrome-substrings/) | Hard | 15 Sept 2026 | 06:29 pm |
 | 178 | [Visit Leaves with Budget](./GeeksForGeeks/Easy/Visit%20Leaves%20with%20Budget) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/leaf-under-budget/1) | Easy | 15 Sept 2026 | 11:08 pm |
 | 179 | [Number of Sets of K Non-Overlapping Line Segments](./LeetCode/Medium/Number%20of%20Sets%20of%20K%20Non-Overlapping%20Line%20Segments) | [LeetCode](https://leetcode.com/problems/number-of-sets-of-k-non-overlapping-line-segments/) | Medium | 16 Sept 2026 | 11:47 am |
+| 180 | [Dominant Pairs](./GeeksForGeeks/Easy/Dominant%20Pairs) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/dominant-pairs/1) | Easy | 16 Sept 2026 | 11:47 am |
