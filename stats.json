@@ -1,12 +1,12 @@
 {
-  "totalSolved": 180,
-  "currentStreak": 44,
-  "maxStreak": 44,
-  "lastSyncDate": "2026-09-16",
-  "todayCount": 2,
+  "totalSolved": 181,
+  "currentStreak": 45,
+  "maxStreak": 45,
+  "lastSyncDate": "2026-09-17",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 86,
-    "medium": 55,
+    "medium": 56,
     "hard": 19,
     "basic": 20
   },
@@ -190,7 +190,8 @@
     "LeetCode_Maximum_Number_of_Non-overlapping_Palindrome_Substrings": true,
     "GeeksForGeeks_Visit_Leaves_with_Budget": true,
     "LeetCode_Number_of_Sets_of_K_Non-Overlapping_Line_Segments": true,
-    "GeeksForGeeks_Dominant_Pairs": true
+    "GeeksForGeeks_Dominant_Pairs": true,
+    "LeetCode_Find_Two_Non-overlapping_Sub-arrays_Each_With_Target_Sum": true
   },
   "activityHistory": {
     "2026-08-04": 34,
@@ -236,10 +237,10 @@
     "2026-09-13": 2,
     "2026-09-14": 2,
     "2026-09-15": 2,
-    "2026-09-16": 2
+    "2026-09-16": 2,
+    "2026-09-17": 1
   },
   "todayProblems": [
-    "Number of Sets of K Non-Overlapping Line Segments",
-    "Dominant Pairs"
+    "Find Two Non-overlapping Sub-arrays Each With Target Sum"
   ]
 }
