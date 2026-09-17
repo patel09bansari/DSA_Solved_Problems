@@ -181,3 +181,4 @@
 | 179 | [Number of Sets of K Non-Overlapping Line Segments](./LeetCode/Medium/Number%20of%20Sets%20of%20K%20Non-Overlapping%20Line%20Segments) | [LeetCode](https://leetcode.com/problems/number-of-sets-of-k-non-overlapping-line-segments/) | Medium | 16 Sept 2026 | 11:47 am |
 | 180 | [Dominant Pairs](./GeeksForGeeks/Easy/Dominant%20Pairs) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/dominant-pairs/1) | Easy | 16 Sept 2026 | 11:47 am |
 | 181 | [Find Two Non-overlapping Sub-arrays Each With Target Sum](./LeetCode/Medium/Find%20Two%20Non-overlapping%20Sub-arrays%20Each%20With%20Target%20Sum) | [LeetCode](https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium | 17 Sept 2026 | 09:21 pm |
+| 182 | [Min Edge Reversals for Path](./GeeksForGeeks/Medium/Min%20Edge%20Reversals%20for%20Path) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/minimum-edges/1) | Medium | 17 Sept 2026 | 09:25 pm |
