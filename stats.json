@@ -1,12 +1,12 @@
 {
-  "totalSolved": 182,
-  "currentStreak": 45,
-  "maxStreak": 45,
-  "lastSyncDate": "2026-09-17",
-  "todayCount": 2,
+  "totalSolved": 183,
+  "currentStreak": 46,
+  "maxStreak": 46,
+  "lastSyncDate": "2026-09-18",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 86,
-    "medium": 57,
+    "medium": 58,
     "hard": 19,
     "basic": 20
   },
@@ -192,7 +192,8 @@
     "LeetCode_Number_of_Sets_of_K_Non-Overlapping_Line_Segments": true,
     "GeeksForGeeks_Dominant_Pairs": true,
     "LeetCode_Find_Two_Non-overlapping_Sub-arrays_Each_With_Target_Sum": true,
-    "GeeksForGeeks_Min_Edge_Reversals_for_Path": true
+    "GeeksForGeeks_Min_Edge_Reversals_for_Path": true,
+    "GeeksForGeeks_Minimum_Absolute_Difference_In_BST": true
   },
   "activityHistory": {
     "2026-08-04": 34,
@@ -239,10 +240,10 @@
     "2026-09-14": 2,
     "2026-09-15": 2,
     "2026-09-16": 2,
-    "2026-09-17": 2
+    "2026-09-17": 2,
+    "2026-09-18": 1
   },
   "todayProblems": [
-    "Find Two Non-overlapping Sub-arrays Each With Target Sum",
-    "Min Edge Reversals for Path"
+    "Minimum Absolute Difference In BST"
   ]
 }
