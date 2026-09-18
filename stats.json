@@ -1,13 +1,13 @@
 {
-  "totalSolved": 183,
+  "totalSolved": 184,
   "currentStreak": 46,
   "maxStreak": 46,
   "lastSyncDate": "2026-09-18",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 86,
     "medium": 58,
-    "hard": 19,
+    "hard": 20,
     "basic": 20
   },
   "syncedProblems": {
@@ -193,7 +193,8 @@
     "GeeksForGeeks_Dominant_Pairs": true,
     "LeetCode_Find_Two_Non-overlapping_Sub-arrays_Each_With_Target_Sum": true,
     "GeeksForGeeks_Min_Edge_Reversals_for_Path": true,
-    "GeeksForGeeks_Minimum_Absolute_Difference_In_BST": true
+    "GeeksForGeeks_Minimum_Absolute_Difference_In_BST": true,
+    "LeetCode_Maximum_Number_of_Non-Overlapping_Substrings": true
   },
   "activityHistory": {
     "2026-08-04": 34,
@@ -241,9 +242,10 @@
     "2026-09-15": 2,
     "2026-09-16": 2,
     "2026-09-17": 2,
-    "2026-09-18": 1
+    "2026-09-18": 2
   },
   "todayProblems": [
-    "Minimum Absolute Difference In BST"
+    "Minimum Absolute Difference In BST",
+    "Maximum Number of Non-Overlapping Substrings"
   ]
 }
