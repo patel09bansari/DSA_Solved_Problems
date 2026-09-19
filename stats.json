@@ -1,12 +1,12 @@
 {
-  "totalSolved": 185,
+  "totalSolved": 186,
   "currentStreak": 47,
   "maxStreak": 47,
   "lastSyncDate": "2026-09-19",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 86,
-    "medium": 59,
+    "medium": 60,
     "hard": 20,
     "basic": 20
   },
@@ -195,7 +195,8 @@
     "GeeksForGeeks_Min_Edge_Reversals_for_Path": true,
     "GeeksForGeeks_Minimum_Absolute_Difference_In_BST": true,
     "LeetCode_Maximum_Number_of_Non-Overlapping_Substrings": true,
-    "GeeksForGeeks_Min_Cost_To_Make_Two_Strings_Identical": true
+    "GeeksForGeeks_Min_Cost_To_Make_Two_Strings_Identical": true,
+    "LeetCode_Circle_and_Rectangle_Overlapping": true
   },
   "activityHistory": {
     "2026-08-04": 34,
@@ -244,9 +245,10 @@
     "2026-09-16": 2,
     "2026-09-17": 2,
     "2026-09-18": 2,
-    "2026-09-19": 1
+    "2026-09-19": 2
   },
   "todayProblems": [
-    "Min Cost To Make Two Strings Identical"
+    "Min Cost To Make Two Strings Identical",
+    "Circle and Rectangle Overlapping"
   ]
 }
