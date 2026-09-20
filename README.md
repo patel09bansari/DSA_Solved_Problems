@@ -187,3 +187,4 @@
 | 185 | [Min Cost To Make Two Strings Identical](./GeeksForGeeks/Medium/Min%20Cost%20To%20Make%20Two%20Strings%20Identical) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/minimum-cost-to-make-two-strings-identical1107/1) | Medium | 19 Sept 2026 | 05:55 pm |
 | 186 | [Circle and Rectangle Overlapping](./LeetCode/Medium/Circle%20and%20Rectangle%20Overlapping) | [LeetCode](https://leetcode.com/problems/circle-and-rectangle-overlapping/) | Medium | 19 Sept 2026 | 05:56 pm |
 | 187 | [Largest Subsquare Surrounded by X](./GeeksForGeeks/Medium/Largest%20Subsquare%20Surrounded%20by%20X) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/largest-subsquare-surrounded-by-x0558/1) | Medium | 20 Sept 2026 | 06:00 pm |
+| 188 | [Reverse Degree of a String](./LeetCode/Easy/Reverse%20Degree%20of%20a%20String) | [LeetCode](https://leetcode.com/problems/reverse-degree-of-a-string/) | Easy | 20 Sept 2026 | 06:00 pm |

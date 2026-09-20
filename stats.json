@@ -1,11 +1,11 @@
 {
-  "totalSolved": 187,
+  "totalSolved": 188,
   "currentStreak": 48,
   "maxStreak": 48,
   "lastSyncDate": "2026-09-20",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
-    "easy": 86,
+    "easy": 87,
     "medium": 61,
     "hard": 20,
     "basic": 20
@@ -197,7 +197,8 @@
     "LeetCode_Maximum_Number_of_Non-Overlapping_Substrings": true,
     "GeeksForGeeks_Min_Cost_To_Make_Two_Strings_Identical": true,
     "LeetCode_Circle_and_Rectangle_Overlapping": true,
-    "GeeksForGeeks_Largest_Subsquare_Surrounded_by_X": true
+    "GeeksForGeeks_Largest_Subsquare_Surrounded_by_X": true,
+    "LeetCode_Reverse_Degree_of_a_String": true
   },
   "activityHistory": {
     "2026-08-04": 34,
@@ -247,9 +248,10 @@
     "2026-09-17": 2,
     "2026-09-18": 2,
     "2026-09-19": 2,
-    "2026-09-20": 1
+    "2026-09-20": 2
   },
   "todayProblems": [
-    "Largest Subsquare Surrounded by X"
+    "Largest Subsquare Surrounded by X",
+    "Reverse Degree of a String"
   ]
 }
