@@ -188,3 +188,4 @@
 | 186 | [Circle and Rectangle Overlapping](./LeetCode/Medium/Circle%20and%20Rectangle%20Overlapping) | [LeetCode](https://leetcode.com/problems/circle-and-rectangle-overlapping/) | Medium | 19 Sept 2026 | 05:56 pm |
 | 187 | [Largest Subsquare Surrounded by X](./GeeksForGeeks/Medium/Largest%20Subsquare%20Surrounded%20by%20X) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/largest-subsquare-surrounded-by-x0558/1) | Medium | 20 Sept 2026 | 06:00 pm |
 | 188 | [Reverse Degree of a String](./LeetCode/Easy/Reverse%20Degree%20of%20a%20String) | [LeetCode](https://leetcode.com/problems/reverse-degree-of-a-string/) | Easy | 20 Sept 2026 | 06:00 pm |
+| 189 | [Find X Value of Array I](./LeetCode/Medium/Find%20X%20Value%20of%20Array%20I) | [LeetCode](https://leetcode.com/problems/find-x-value-of-array-i/) | Medium | 21 Sept 2026 | 06:47 pm |
