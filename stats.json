@@ -1,12 +1,12 @@
 {
-  "totalSolved": 189,
+  "totalSolved": 190,
   "currentStreak": 49,
   "maxStreak": 49,
   "lastSyncDate": "2026-09-21",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 87,
-    "medium": 62,
+    "medium": 63,
     "hard": 20,
     "basic": 20
   },
@@ -199,7 +199,8 @@
     "LeetCode_Circle_and_Rectangle_Overlapping": true,
     "GeeksForGeeks_Largest_Subsquare_Surrounded_by_X": true,
     "LeetCode_Reverse_Degree_of_a_String": true,
-    "LeetCode_Find_X_Value_of_Array_I": true
+    "LeetCode_Find_X_Value_of_Array_I": true,
+    "GeeksForGeeks_Check_Level_Anagrams_in_Binary_Trees": true
   },
   "activityHistory": {
     "2026-08-04": 34,
@@ -250,9 +251,10 @@
     "2026-09-18": 2,
     "2026-09-19": 2,
     "2026-09-20": 2,
-    "2026-09-21": 1
+    "2026-09-21": 2
   },
   "todayProblems": [
-    "Find X Value of Array I"
+    "Find X Value of Array I",
+    "Check Level Anagrams in Binary Trees"
   ]
 }
