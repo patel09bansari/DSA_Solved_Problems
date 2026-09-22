@@ -190,3 +190,4 @@
 | 188 | [Reverse Degree of a String](./LeetCode/Easy/Reverse%20Degree%20of%20a%20String) | [LeetCode](https://leetcode.com/problems/reverse-degree-of-a-string/) | Easy | 20 Sept 2026 | 06:00 pm |
 | 189 | [Find X Value of Array I](./LeetCode/Medium/Find%20X%20Value%20of%20Array%20I) | [LeetCode](https://leetcode.com/problems/find-x-value-of-array-i/) | Medium | 21 Sept 2026 | 06:47 pm |
 | 190 | [Check Level Anagrams in Binary Trees](./GeeksForGeeks/Medium/Check%20Level%20Anagrams%20in%20Binary%20Trees) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/check-if-all-levels-of-two-trees-are-anagrams-or-not/1) | Medium | 21 Sept 2026 | 06:48 pm |
+| 191 | [Find X Value of Array II](./LeetCode/Hard/Find%20X%20Value%20of%20Array%20II) | [LeetCode](https://leetcode.com/problems/find-x-value-of-array-ii/) | Hard | 22 Sept 2026 | 07:13 pm |
