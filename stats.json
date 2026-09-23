@@ -1,12 +1,12 @@
 {
-  "totalSolved": 193,
+  "totalSolved": 194,
   "currentStreak": 51,
   "maxStreak": 51,
   "lastSyncDate": "2026-09-23",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 87,
-    "medium": 65,
+    "medium": 66,
     "hard": 21,
     "basic": 20
   },
@@ -203,7 +203,8 @@
     "GeeksForGeeks_Check_Level_Anagrams_in_Binary_Trees": true,
     "LeetCode_Find_X_Value_of_Array_II": true,
     "GeeksForGeeks_Longest_Matching_in_Dictionary_with_Removals": true,
-    "GeeksForGeeks_Pyramid_Array_with_Reduce_Operations": true
+    "GeeksForGeeks_Pyramid_Array_with_Reduce_Operations": true,
+    "LeetCode_Minimum_Operations_to_Reduce_X_to_Zero": true
   },
   "activityHistory": {
     "2026-08-04": 34,
@@ -256,9 +257,10 @@
     "2026-09-20": 2,
     "2026-09-21": 2,
     "2026-09-22": 2,
-    "2026-09-23": 1
+    "2026-09-23": 2
   },
   "todayProblems": [
-    "Pyramid Array with Reduce Operations"
+    "Pyramid Array with Reduce Operations",
+    "Minimum Operations to Reduce X to Zero"
   ]
 }
