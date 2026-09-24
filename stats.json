@@ -1,11 +1,11 @@
 {
-  "totalSolved": 195,
+  "totalSolved": 196,
   "currentStreak": 52,
   "maxStreak": 52,
   "lastSyncDate": "2026-09-24",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
-    "easy": 87,
+    "easy": 88,
     "medium": 66,
     "hard": 22,
     "basic": 20
@@ -205,7 +205,8 @@
     "GeeksForGeeks_Longest_Matching_in_Dictionary_with_Removals": true,
     "GeeksForGeeks_Pyramid_Array_with_Reduce_Operations": true,
     "LeetCode_Minimum_Operations_to_Reduce_X_to_Zero": true,
-    "GeeksForGeeks_Maximum_Height_Disc_Stack": true
+    "GeeksForGeeks_Maximum_Height_Disc_Stack": true,
+    "LeetCode_Smallest_Index_With_Digit_Sum_Equal_to_Index": true
   },
   "activityHistory": {
     "2026-08-04": 34,
@@ -259,9 +260,10 @@
     "2026-09-21": 2,
     "2026-09-22": 2,
     "2026-09-23": 2,
-    "2026-09-24": 1
+    "2026-09-24": 2
   },
   "todayProblems": [
-    "Maximum Height Disc Stack"
+    "Maximum Height Disc Stack",
+    "Smallest Index With Digit Sum Equal to Index"
   ]
 }
