@@ -197,3 +197,4 @@
 | 195 | [Maximum Height Disc Stack](./GeeksForGeeks/Hard/Maximum%20Height%20Disc%20Stack) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/stacking-up-discs1315/1) | Hard | 24 Sept 2026 | 04:20 pm |
 | 196 | [Smallest Index With Digit Sum Equal to Index](./LeetCode/Easy/Smallest%20Index%20With%20Digit%20Sum%20Equal%20to%20Index) | [LeetCode](https://leetcode.com/problems/smallest-index-with-digit-sum-equal-to-index/) | Easy | 24 Sept 2026 | 04:21 pm |
 | 197 | [Brace Expansion II](./LeetCode/Hard/Brace%20Expansion%20II) | [LeetCode](https://leetcode.com/problems/brace-expansion-ii/) | Hard | 25 Sept 2026 | 10:56 am |
+| 198 | [Box Stacking](./GeeksForGeeks/Hard/Box%20Stacking) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/box-stacking/1) | Hard | 25 Sept 2026 | 11:06 am |
