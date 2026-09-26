@@ -199,3 +199,4 @@
 | 197 | [Brace Expansion II](./LeetCode/Hard/Brace%20Expansion%20II) | [LeetCode](https://leetcode.com/problems/brace-expansion-ii/) | Hard | 25 Sept 2026 | 10:56 am |
 | 198 | [Box Stacking](./GeeksForGeeks/Hard/Box%20Stacking) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/box-stacking/1) | Hard | 25 Sept 2026 | 11:06 am |
 | 199 | [Minimum Cost Pizza Selection](./GeeksForGeeks/Medium/Minimum%20Cost%20Pizza%20Selection) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/pizza-mania0155/1) | Medium | 26 Sept 2026 | 10:49 am |
+| 200 | [Evaluate the Bracket Pairs of a String](./LeetCode/Medium/Evaluate%20the%20Bracket%20Pairs%20of%20a%20String) | [LeetCode](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/) | Medium | 26 Sept 2026 | 10:58 am |

@@ -1,12 +1,12 @@
 {
-  "totalSolved": 199,
+  "totalSolved": 200,
   "currentStreak": 54,
   "maxStreak": 54,
   "lastSyncDate": "2026-09-26",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 88,
-    "medium": 67,
+    "medium": 68,
     "hard": 24,
     "basic": 20
   },
@@ -209,7 +209,8 @@
     "LeetCode_Smallest_Index_With_Digit_Sum_Equal_to_Index": true,
     "LeetCode_Brace_Expansion_II": true,
     "GeeksForGeeks_Box_Stacking": true,
-    "GeeksForGeeks_Minimum_Cost_Pizza_Selection": true
+    "GeeksForGeeks_Minimum_Cost_Pizza_Selection": true,
+    "LeetCode_Evaluate_the_Bracket_Pairs_of_a_String": true
   },
   "activityHistory": {
     "2026-08-04": 34,
@@ -265,9 +266,10 @@
     "2026-09-23": 2,
     "2026-09-24": 2,
     "2026-09-25": 2,
-    "2026-09-26": 1
+    "2026-09-26": 2
   },
   "todayProblems": [
-    "Minimum Cost Pizza Selection"
+    "Minimum Cost Pizza Selection",
+    "Evaluate the Bracket Pairs of a String"
   ]
 }
