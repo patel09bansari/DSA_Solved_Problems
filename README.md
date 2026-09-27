@@ -200,3 +200,4 @@
 | 198 | [Box Stacking](./GeeksForGeeks/Hard/Box%20Stacking) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/box-stacking/1) | Hard | 25 Sept 2026 | 11:06 am |
 | 199 | [Minimum Cost Pizza Selection](./GeeksForGeeks/Medium/Minimum%20Cost%20Pizza%20Selection) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/pizza-mania0155/1) | Medium | 26 Sept 2026 | 10:49 am |
 | 200 | [Evaluate the Bracket Pairs of a String](./LeetCode/Medium/Evaluate%20the%20Bracket%20Pairs%20of%20a%20String) | [LeetCode](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/) | Medium | 26 Sept 2026 | 10:58 am |
+| 201 | [Reverse Substrings Between Each Pair of Parentheses](./LeetCode/Medium/Reverse%20Substrings%20Between%20Each%20Pair%20of%20Parentheses) | [LeetCode](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/) | Medium | 27 Sept 2026 | 11:06 am |
