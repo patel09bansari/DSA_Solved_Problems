@@ -1,12 +1,12 @@
 {
-  "totalSolved": 204,
+  "totalSolved": 205,
   "currentStreak": 56,
   "maxStreak": 56,
   "lastSyncDate": "2026-09-28",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
     "easy": 89,
-    "medium": 70,
+    "medium": 71,
     "hard": 25,
     "basic": 20
   },
@@ -214,7 +214,8 @@
     "LeetCode_Reverse_Substrings_Between_Each_Pair_of_Parentheses": true,
     "GeeksForGeeks_Longest_Colored_Path": true,
     "LeetCode_Find_Peak_Element": true,
-    "LeetCode_Maximum_Nesting_Depth_of_the_Parentheses": true
+    "LeetCode_Maximum_Nesting_Depth_of_the_Parentheses": true,
+    "GeeksForGeeks_Range_GCD_Queries": true
   },
   "activityHistory": {
     "2026-08-04": 34,
@@ -272,10 +273,11 @@
     "2026-09-25": 2,
     "2026-09-26": 2,
     "2026-09-27": 2,
-    "2026-09-28": 2
+    "2026-09-28": 3
   },
   "todayProblems": [
     "Find Peak Element",
-    "Maximum Nesting Depth of the Parentheses"
+    "Maximum Nesting Depth of the Parentheses",
+    "Range GCD Queries"
   ]
 }
