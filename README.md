@@ -203,3 +203,4 @@
 | 201 | [Reverse Substrings Between Each Pair of Parentheses](./LeetCode/Medium/Reverse%20Substrings%20Between%20Each%20Pair%20of%20Parentheses) | [LeetCode](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/) | Medium | 27 Sept 2026 | 11:06 am |
 | 202 | [Longest Colored Path](./GeeksForGeeks/Hard/Longest%20Colored%20Path) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/longest-colored-path--151454/1) | Hard | 27 Sept 2026 | 04:52 pm |
 | 203 | [Find Peak Element](./LeetCode/Medium/Find%20Peak%20Element) | [LeetCode](https://leetcode.com/problems/find-peak-element/) | Medium | 28 Sept 2026 | 11:05 am |
+| 204 | [Maximum Nesting Depth of the Parentheses](./LeetCode/Easy/Maximum%20Nesting%20Depth%20of%20the%20Parentheses) | [LeetCode](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/) | Easy | 28 Sept 2026 | 03:47 pm |
