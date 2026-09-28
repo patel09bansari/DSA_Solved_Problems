@@ -205,3 +205,4 @@
 | 203 | [Find Peak Element](./LeetCode/Medium/Find%20Peak%20Element) | [LeetCode](https://leetcode.com/problems/find-peak-element/) | Medium | 28 Sept 2026 | 11:05 am |
 | 204 | [Maximum Nesting Depth of the Parentheses](./LeetCode/Easy/Maximum%20Nesting%20Depth%20of%20the%20Parentheses) | [LeetCode](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/) | Easy | 28 Sept 2026 | 03:47 pm |
 | 205 | [Range GCD Queries](./GeeksForGeeks/Medium/Range%20GCD%20Queries) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/range-gcd-queries3654/1) | Medium | 28 Sept 2026 | 03:49 pm |
+| 206 | [Find in Mountain Array](./LeetCode/Hard/Find%20in%20Mountain%20Array) | [LeetCode](https://leetcode.com/problems/find-in-mountain-array/) | Hard | 28 Sept 2026 | 04:01 pm |
