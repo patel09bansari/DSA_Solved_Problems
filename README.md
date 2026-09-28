@@ -206,3 +206,4 @@
 | 204 | [Maximum Nesting Depth of the Parentheses](./LeetCode/Easy/Maximum%20Nesting%20Depth%20of%20the%20Parentheses) | [LeetCode](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/) | Easy | 28 Sept 2026 | 03:47 pm |
 | 205 | [Range GCD Queries](./GeeksForGeeks/Medium/Range%20GCD%20Queries) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/range-gcd-queries3654/1) | Medium | 28 Sept 2026 | 03:49 pm |
 | 206 | [Find in Mountain Array](./LeetCode/Hard/Find%20in%20Mountain%20Array) | [LeetCode](https://leetcode.com/problems/find-in-mountain-array/) | Hard | 28 Sept 2026 | 04:01 pm |
+| 207 | [Minimum Time to Repair Cars](./LeetCode/Medium/Minimum%20Time%20to%20Repair%20Cars) | [LeetCode](https://leetcode.com/problems/minimum-time-to-repair-cars/) | Medium | 28 Sept 2026 | 08:26 pm |
