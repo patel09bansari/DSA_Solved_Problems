@@ -209,3 +209,4 @@
 | 207 | [Minimum Time to Repair Cars](./LeetCode/Medium/Minimum%20Time%20to%20Repair%20Cars) | [LeetCode](https://leetcode.com/problems/minimum-time-to-repair-cars/) | Medium | 28 Sept 2026 | 08:26 pm |
 | 208 | [Search in an almost Sorted Array](./GeeksForGeeks/Medium/Search%20in%20an%20almost%20Sorted%20Array) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/search-in-an-almost-sorted-array/1) | Medium | 29 Sept 2026 | 11:19 am |
 | 209 | [ Check if There Is a Valid Parentheses String Path](./LeetCode/Hard/%20Check%20if%20There%20Is%20a%20Valid%20Parentheses%20String%20Path) | [LeetCode](https://leetcode.com/problems/check-if-there-is-a-valid-parentheses-string-path/) | Hard | 29 Sept 2026 | 09:40 pm |
+| 210 | [Min Steps by Knight](./GeeksForGeeks/Medium/Min%20Steps%20by%20Knight) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/steps-by-knight5927/1) | Medium | 29 Sept 2026 | 09:45 pm |

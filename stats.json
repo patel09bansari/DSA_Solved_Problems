@@ -1,12 +1,12 @@
 {
-  "totalSolved": 209,
+  "totalSolved": 210,
   "currentStreak": 57,
   "maxStreak": 57,
   "lastSyncDate": "2026-09-29",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
     "easy": 89,
-    "medium": 73,
+    "medium": 74,
     "hard": 27,
     "basic": 20
   },
@@ -219,7 +219,8 @@
     "LeetCode_Find_in_Mountain_Array": true,
     "LeetCode_Minimum_Time_to_Repair_Cars": true,
     "GeeksForGeeks_Search_in_an_almost_Sorted_Array": true,
-    "LeetCode__Check_if_There_Is_a_Valid_Parentheses_String_Path": true
+    "LeetCode__Check_if_There_Is_a_Valid_Parentheses_String_Path": true,
+    "GeeksForGeeks_Min_Steps_by_Knight": true
   },
   "activityHistory": {
     "2026-08-04": 34,
@@ -278,10 +279,11 @@
     "2026-09-26": 2,
     "2026-09-27": 2,
     "2026-09-28": 5,
-    "2026-09-29": 2
+    "2026-09-29": 3
   },
   "todayProblems": [
     "Search in an almost Sorted Array",
-    " Check if There Is a Valid Parentheses String Path"
+    " Check if There Is a Valid Parentheses String Path",
+    "Min Steps by Knight"
   ]
 }
