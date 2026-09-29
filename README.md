@@ -207,3 +207,4 @@
 | 205 | [Range GCD Queries](./GeeksForGeeks/Medium/Range%20GCD%20Queries) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/range-gcd-queries3654/1) | Medium | 28 Sept 2026 | 03:49 pm |
 | 206 | [Find in Mountain Array](./LeetCode/Hard/Find%20in%20Mountain%20Array) | [LeetCode](https://leetcode.com/problems/find-in-mountain-array/) | Hard | 28 Sept 2026 | 04:01 pm |
 | 207 | [Minimum Time to Repair Cars](./LeetCode/Medium/Minimum%20Time%20to%20Repair%20Cars) | [LeetCode](https://leetcode.com/problems/minimum-time-to-repair-cars/) | Medium | 28 Sept 2026 | 08:26 pm |
+| 208 | [Search in an almost Sorted Array](./GeeksForGeeks/Medium/Search%20in%20an%20almost%20Sorted%20Array) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/search-in-an-almost-sorted-array/1) | Medium | 29 Sept 2026 | 11:19 am |
