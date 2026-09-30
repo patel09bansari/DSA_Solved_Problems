@@ -1,12 +1,12 @@
 {
-  "totalSolved": 211,
+  "totalSolved": 212,
   "currentStreak": 58,
   "maxStreak": 58,
   "lastSyncDate": "2026-09-30",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 89,
-    "medium": 75,
+    "medium": 76,
     "hard": 27,
     "basic": 20
   },
@@ -221,7 +221,8 @@
     "GeeksForGeeks_Search_in_an_almost_Sorted_Array": true,
     "LeetCode__Check_if_There_Is_a_Valid_Parentheses_String_Path": true,
     "GeeksForGeeks_Min_Steps_by_Knight": true,
-    "GeeksForGeeks_Ways_to_Reach_Origin": true
+    "GeeksForGeeks_Ways_to_Reach_Origin": true,
+    "LeetCode_Maximum_Nesting_Depth_of_Two_Valid_Parentheses_Strings": true
   },
   "activityHistory": {
     "2026-08-04": 34,
@@ -281,9 +282,10 @@
     "2026-09-27": 2,
     "2026-09-28": 5,
     "2026-09-29": 3,
-    "2026-09-30": 1
+    "2026-09-30": 2
   },
   "todayProblems": [
-    "Ways to Reach Origin"
+    "Ways to Reach Origin",
+    "Maximum Nesting Depth of Two Valid Parentheses Strings"
   ]
 }
