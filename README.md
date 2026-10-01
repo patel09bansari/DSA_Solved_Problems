@@ -212,3 +212,4 @@
 | 210 | [Min Steps by Knight](./GeeksForGeeks/Medium/Min%20Steps%20by%20Knight) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/steps-by-knight5927/1) | Medium | 29 Sept 2026 | 09:45 pm |
 | 211 | [Ways to Reach Origin](./GeeksForGeeks/Medium/Ways%20to%20Reach%20Origin) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/paths-to-reach-origin3850/1) | Medium | 30 Sept 2026 | 07:22 pm |
 | 212 | [Maximum Nesting Depth of Two Valid Parentheses Strings](./LeetCode/Medium/Maximum%20Nesting%20Depth%20of%20Two%20Valid%20Parentheses%20Strings) | [LeetCode](https://leetcode.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium | 30 Sept 2026 | 07:23 pm |
+| 213 | [Minimum Time to Finish Project](./GeeksForGeeks/Medium/Minimum%20Time%20to%20Finish%20Project) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/project-manager--141631/1) | Medium | 01 Oct 2026 | 04:10 pm |
