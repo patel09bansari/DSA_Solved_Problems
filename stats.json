@@ -1,12 +1,12 @@
 {
-  "totalSolved": 215,
+  "totalSolved": 216,
   "currentStreak": 60,
   "maxStreak": 60,
   "lastSyncDate": "2026-10-02",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 90,
-    "medium": 77,
+    "medium": 78,
     "hard": 28,
     "basic": 20
   },
@@ -225,7 +225,8 @@
     "LeetCode_Maximum_Nesting_Depth_of_Two_Valid_Parentheses_Strings": true,
     "GeeksForGeeks_Minimum_Time_to_Finish_Project": true,
     "LeetCode_Valid_Parentheses": true,
-    "GeeksForGeeks_Lexicographically_Smallest_Rotation": true
+    "GeeksForGeeks_Lexicographically_Smallest_Rotation": true,
+    "LeetCode_Generate_Parentheses": true
   },
   "activityHistory": {
     "2026-08-04": 34,
@@ -287,9 +288,10 @@
     "2026-09-29": 3,
     "2026-09-30": 2,
     "2026-10-01": 2,
-    "2026-10-02": 1
+    "2026-10-02": 2
   },
   "todayProblems": [
-    "Lexicographically Smallest Rotation"
+    "Lexicographically Smallest Rotation",
+    "Generate Parentheses"
   ]
 }
