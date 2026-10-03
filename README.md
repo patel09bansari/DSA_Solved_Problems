@@ -217,3 +217,4 @@
 | 215 | [Lexicographically Smallest Rotation](./GeeksForGeeks/Hard/Lexicographically%20Smallest%20Rotation) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/lexicographically-smallest-string--151951/1) | Hard | 02 Oct 2026 | 08:52 am |
 | 216 | [Generate Parentheses](./LeetCode/Medium/Generate%20Parentheses) | [LeetCode](https://leetcode.com/problems/generate-parentheses/) | Medium | 02 Oct 2026 | 08:53 am |
 | 217 | [Longest Valid Parentheses](./LeetCode/Hard/Longest%20Valid%20Parentheses) | [LeetCode](https://leetcode.com/problems/longest-valid-parentheses/) | Hard | 03 Oct 2026 | 09:39 am |
+| 218 | [Coils in Matrix](./GeeksForGeeks/Medium/Coils%20in%20Matrix) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/form-coils-in-a-matrix4726/1) | Medium | 03 Oct 2026 | 11:29 am |
