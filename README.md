@@ -216,3 +216,4 @@
 | 214 | [Valid Parentheses](./LeetCode/Easy/Valid%20Parentheses) | [LeetCode](https://leetcode.com/problems/valid-parentheses/) | Easy | 01 Oct 2026 | 04:21 pm |
 | 215 | [Lexicographically Smallest Rotation](./GeeksForGeeks/Hard/Lexicographically%20Smallest%20Rotation) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/lexicographically-smallest-string--151951/1) | Hard | 02 Oct 2026 | 08:52 am |
 | 216 | [Generate Parentheses](./LeetCode/Medium/Generate%20Parentheses) | [LeetCode](https://leetcode.com/problems/generate-parentheses/) | Medium | 02 Oct 2026 | 08:53 am |
+| 217 | [Longest Valid Parentheses](./LeetCode/Hard/Longest%20Valid%20Parentheses) | [LeetCode](https://leetcode.com/problems/longest-valid-parentheses/) | Hard | 03 Oct 2026 | 09:39 am |
