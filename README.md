@@ -221,3 +221,4 @@
 | 219 | [Perimeter of Shapes in Binary Matrix](./GeeksForGeeks/Easy/Perimeter%20of%20Shapes%20in%20Binary%20Matrix) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/find-perimeter-of-shapes/1) | Easy | 04 Oct 2026 | 09:46 pm |
 | 220 | [Valid Parenthesis String](./LeetCode/Medium/Valid%20Parenthesis%20String) | [LeetCode](https://leetcode.com/problems/valid-parenthesis-string/) | Medium | 04 Oct 2026 | 09:47 pm |
 | 221 | [Your Social Network](./GeeksForGeeks/Medium/Your%20Social%20Network) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/your-social-network0328/1) | Medium | 05 Oct 2026 | 05:07 pm |
+| 222 | [Score of Parentheses](./LeetCode/Medium/Score%20of%20Parentheses) | [LeetCode](https://leetcode.com/problems/score-of-parentheses/) | Medium | 05 Oct 2026 | 05:08 pm |
