@@ -1,12 +1,12 @@
 {
-  "totalSolved": 220,
-  "currentStreak": 62,
-  "maxStreak": 62,
-  "lastSyncDate": "2026-10-04",
-  "todayCount": 2,
+  "totalSolved": 221,
+  "currentStreak": 63,
+  "maxStreak": 63,
+  "lastSyncDate": "2026-10-05",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 91,
-    "medium": 80,
+    "medium": 81,
     "hard": 29,
     "basic": 20
   },
@@ -230,7 +230,8 @@
     "LeetCode_Longest_Valid_Parentheses": true,
     "GeeksForGeeks_Coils_in_Matrix": true,
     "GeeksForGeeks_Perimeter_of_Shapes_in_Binary_Matrix": true,
-    "LeetCode_Valid_Parenthesis_String": true
+    "LeetCode_Valid_Parenthesis_String": true,
+    "GeeksForGeeks_Your_Social_Network": true
   },
   "activityHistory": {
     "2026-08-04": 34,
@@ -294,10 +295,10 @@
     "2026-10-01": 2,
     "2026-10-02": 2,
     "2026-10-03": 2,
-    "2026-10-04": 2
+    "2026-10-04": 2,
+    "2026-10-05": 1
   },
   "todayProblems": [
-    "Perimeter of Shapes in Binary Matrix",
-    "Valid Parenthesis String"
+    "Your Social Network"
   ]
 }
