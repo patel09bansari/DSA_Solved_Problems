@@ -224,3 +224,4 @@
 | 222 | [Score of Parentheses](./LeetCode/Medium/Score%20of%20Parentheses) | [LeetCode](https://leetcode.com/problems/score-of-parentheses/) | Medium | 05 Oct 2026 | 05:08 pm |
 | 223 | [Longest Increasing Path in Matrix](./GeeksForGeeks/Hard/Longest%20Increasing%20Path%20in%20Matrix) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/longest-increasing-path-in-a-matrix/1) | Hard | 06 Oct 2026 | 07:11 pm |
 | 224 | [Minimum Add to Make Parentheses Valid](./LeetCode/Medium/Minimum%20Add%20to%20Make%20Parentheses%20Valid) | [LeetCode](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) | Medium | 06 Oct 2026 | 07:12 pm |
+| 225 | [Maximum Frequency with K Increments](./GeeksForGeeks/Medium/Maximum%20Frequency%20with%20K%20Increments) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/maximum-frequency-1662528911/1) | Medium | 08 Oct 2026 | 07:47 pm |
