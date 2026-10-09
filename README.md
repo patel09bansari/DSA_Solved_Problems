@@ -232,3 +232,4 @@
 | 230 | [Unique Paths](./LeetCode/Medium/Unique%20Paths) | [LeetCode](https://leetcode.com/problems/unique-paths/) | Medium | 09 Oct 2026 | 07:19 pm |
 | 231 | [Minimum Path Sum](./LeetCode/Medium/Minimum%20Path%20Sum) | [LeetCode](https://leetcode.com/problems/minimum-path-sum/) | Medium | 09 Oct 2026 | 07:33 pm |
 | 232 | [Edit Distance](./LeetCode/Medium/Edit%20Distance) | [LeetCode](https://leetcode.com/problems/edit-distance/) | Medium | 09 Oct 2026 | 07:42 pm |
+| 233 | [Critical Connections in a Network](./LeetCode/Hard/Critical%20Connections%20in%20a%20Network) | [LeetCode](https://leetcode.com/problems/critical-connections-in-a-network/) | Hard | 09 Oct 2026 | 09:22 pm |
