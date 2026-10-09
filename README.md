@@ -234,3 +234,4 @@
 | 232 | [Edit Distance](./LeetCode/Medium/Edit%20Distance) | [LeetCode](https://leetcode.com/problems/edit-distance/) | Medium | 09 Oct 2026 | 07:42 pm |
 | 233 | [Critical Connections in a Network](./LeetCode/Hard/Critical%20Connections%20in%20a%20Network) | [LeetCode](https://leetcode.com/problems/critical-connections-in-a-network/) | Hard | 09 Oct 2026 | 09:22 pm |
 | 234 | [Number of Islands](./LeetCode/Medium/Number%20of%20Islands) | [LeetCode](https://leetcode.com/problems/number-of-islands/) | Medium | 09 Oct 2026 | 09:28 pm |
+| 235 | [Rotting Oranges](./LeetCode/Medium/Rotting%20Oranges) | [LeetCode](https://leetcode.com/problems/rotting-oranges/) | Medium | 09 Oct 2026 | 09:41 pm |
