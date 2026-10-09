@@ -1,11 +1,11 @@
 {
-  "totalSolved": 225,
-  "currentStreak": 1,
+  "totalSolved": 226,
+  "currentStreak": 2,
   "maxStreak": 64,
-  "lastSyncDate": "2026-10-08",
+  "lastSyncDate": "2026-10-09",
   "todayCount": 1,
   "difficultyCounts": {
-    "easy": 91,
+    "easy": 92,
     "medium": 84,
     "hard": 30,
     "basic": 20
@@ -235,7 +235,8 @@
     "LeetCode_Score_of_Parentheses": true,
     "GeeksForGeeks_Longest_Increasing_Path_in_Matrix": true,
     "LeetCode_Minimum_Add_to_Make_Parentheses_Valid": true,
-    "GeeksForGeeks_Maximum_Frequency_with_K_Increments": true
+    "GeeksForGeeks_Maximum_Frequency_with_K_Increments": true,
+    "GeeksForGeeks_Minimum_Operations_to_Reach_n": true
   },
   "activityHistory": {
     "2026-08-04": 34,
@@ -302,9 +303,10 @@
     "2026-10-04": 2,
     "2026-10-05": 2,
     "2026-10-06": 2,
-    "2026-10-08": 1
+    "2026-10-08": 1,
+    "2026-10-09": 1
   },
   "todayProblems": [
-    "Maximum Frequency with K Increments"
+    "Minimum Operations to Reach n"
   ]
 }
