@@ -227,3 +227,4 @@
 | 225 | [Maximum Frequency with K Increments](./GeeksForGeeks/Medium/Maximum%20Frequency%20with%20K%20Increments) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/maximum-frequency-1662528911/1) | Medium | 08 Oct 2026 | 07:47 pm |
 | 226 | [Minimum Operations to Reach n](./GeeksForGeeks/Easy/Minimum%20Operations%20to%20Reach%20n) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/find-optimum-operation4504/1) | Easy | 09 Oct 2026 | 06:33 pm |
 | 227 | [Minimum Insertions to Balance a Parentheses String](./LeetCode/Medium/Minimum%20Insertions%20to%20Balance%20a%20Parentheses%20String) | [LeetCode](https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/) | Medium | 09 Oct 2026 | 06:34 pm |
+| 228 | [Candy](./LeetCode/Hard/Candy) | [LeetCode](https://leetcode.com/problems/candy/) | Hard | 09 Oct 2026 | 06:54 pm |
