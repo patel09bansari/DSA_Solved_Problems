@@ -1,12 +1,12 @@
 {
-  "totalSolved": 228,
+  "totalSolved": 229,
   "currentStreak": 2,
   "maxStreak": 64,
   "lastSyncDate": "2026-10-09",
-  "todayCount": 3,
+  "todayCount": 4,
   "difficultyCounts": {
     "easy": 92,
-    "medium": 85,
+    "medium": 86,
     "hard": 31,
     "basic": 20
   },
@@ -238,7 +238,8 @@
     "GeeksForGeeks_Maximum_Frequency_with_K_Increments": true,
     "GeeksForGeeks_Minimum_Operations_to_Reach_n": true,
     "LeetCode_Minimum_Insertions_to_Balance_a_Parentheses_String": true,
-    "LeetCode_Candy": true
+    "LeetCode_Candy": true,
+    "GeeksForGeeks_Aggressive_Cows": true
   },
   "activityHistory": {
     "2026-08-04": 34,
@@ -306,11 +307,12 @@
     "2026-10-05": 2,
     "2026-10-06": 2,
     "2026-10-08": 1,
-    "2026-10-09": 3
+    "2026-10-09": 4
   },
   "todayProblems": [
     "Minimum Operations to Reach n",
     "Minimum Insertions to Balance a Parentheses String",
-    "Candy"
+    "Candy",
+    "Aggressive Cows"
   ]
 }

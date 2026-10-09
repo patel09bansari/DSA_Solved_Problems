@@ -228,3 +228,4 @@
 | 226 | [Minimum Operations to Reach n](./GeeksForGeeks/Easy/Minimum%20Operations%20to%20Reach%20n) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/find-optimum-operation4504/1) | Easy | 09 Oct 2026 | 06:33 pm |
 | 227 | [Minimum Insertions to Balance a Parentheses String](./LeetCode/Medium/Minimum%20Insertions%20to%20Balance%20a%20Parentheses%20String) | [LeetCode](https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/) | Medium | 09 Oct 2026 | 06:34 pm |
 | 228 | [Candy](./LeetCode/Hard/Candy) | [LeetCode](https://leetcode.com/problems/candy/) | Hard | 09 Oct 2026 | 06:54 pm |
+| 229 | [Aggressive Cows](./GeeksForGeeks/Medium/Aggressive%20Cows) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/aggressive-cows/1) | Medium | 09 Oct 2026 | 07:11 pm |
