@@ -240,3 +240,4 @@
 | 238 | [Minimum Sum of Squared Difference](./LeetCode/Medium/Minimum%20Sum%20of%20Squared%20Difference) | [LeetCode](https://leetcode.com/problems/minimum-sum-of-squared-difference/) | Medium | 10 Oct 2026 | 06:50 pm |
 | 239 | [Redundant Connection](./LeetCode/Medium/Redundant%20Connection) | [LeetCode](https://leetcode.com/problems/redundant-connection/) | Medium | 11 Oct 2026 | 08:52 am |
 | 240 | [Sort Two Parts Sorted](./GeeksForGeeks/Easy/Sort%20Two%20Parts%20Sorted) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/sort-the-half-sorted2157/1) | Easy | 11 Oct 2026 | 08:54 am |
+| 241 | [Sum of Squares of Special Elements ](./LeetCode/Easy/Sum%20of%20Squares%20of%20Special%20Elements%20) | [LeetCode](https://leetcode.com/problems/sum-of-squares-of-special-elements/) | Easy | 11 Oct 2026 | 08:57 am |
