@@ -238,3 +238,4 @@
 | 236 | [Remove K Digits](./LeetCode/Medium/Remove%20K%20Digits) | [LeetCode](https://leetcode.com/problems/remove-k-digits/) | Medium | 09 Oct 2026 | 09:52 pm |
 | 237 | [Balancing with Distinct Powers](./GeeksForGeeks/Easy/Balancing%20with%20Distinct%20Powers) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/balancing-pan5038/1) | Easy | 10 Oct 2026 | 06:49 pm |
 | 238 | [Minimum Sum of Squared Difference](./LeetCode/Medium/Minimum%20Sum%20of%20Squared%20Difference) | [LeetCode](https://leetcode.com/problems/minimum-sum-of-squared-difference/) | Medium | 10 Oct 2026 | 06:50 pm |
+| 239 | [Redundant Connection](./LeetCode/Medium/Redundant%20Connection) | [LeetCode](https://leetcode.com/problems/redundant-connection/) | Medium | 11 Oct 2026 | 08:52 am |

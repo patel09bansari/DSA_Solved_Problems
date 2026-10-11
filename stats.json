@@ -1,12 +1,12 @@
 {
-  "totalSolved": 238,
-  "currentStreak": 3,
+  "totalSolved": 239,
+  "currentStreak": 4,
   "maxStreak": 64,
-  "lastSyncDate": "2026-10-10",
-  "todayCount": 2,
+  "lastSyncDate": "2026-10-11",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 93,
-    "medium": 93,
+    "medium": 94,
     "hard": 32,
     "basic": 20
   },
@@ -248,7 +248,8 @@
     "LeetCode_Rotting_Oranges": true,
     "LeetCode_Remove_K_Digits": true,
     "GeeksForGeeks_Balancing_with_Distinct_Powers": true,
-    "LeetCode_Minimum_Sum_of_Squared_Difference": true
+    "LeetCode_Minimum_Sum_of_Squared_Difference": true,
+    "LeetCode_Redundant_Connection": true
   },
   "activityHistory": {
     "2026-08-04": 34,
@@ -317,10 +318,10 @@
     "2026-10-06": 2,
     "2026-10-08": 1,
     "2026-10-09": 11,
-    "2026-10-10": 2
+    "2026-10-10": 2,
+    "2026-10-11": 1
   },
   "todayProblems": [
-    "Balancing with Distinct Powers",
-    "Minimum Sum of Squared Difference"
+    "Redundant Connection"
   ]
 }
