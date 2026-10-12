@@ -241,3 +241,4 @@
 | 239 | [Redundant Connection](./LeetCode/Medium/Redundant%20Connection) | [LeetCode](https://leetcode.com/problems/redundant-connection/) | Medium | 11 Oct 2026 | 08:52 am |
 | 240 | [Sort Two Parts Sorted](./GeeksForGeeks/Easy/Sort%20Two%20Parts%20Sorted) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/sort-the-half-sorted2157/1) | Easy | 11 Oct 2026 | 08:54 am |
 | 241 | [Sum of Squares of Special Elements ](./LeetCode/Easy/Sum%20of%20Squares%20of%20Special%20Elements%20) | [LeetCode](https://leetcode.com/problems/sum-of-squares-of-special-elements/) | Easy | 11 Oct 2026 | 08:57 am |
+| 242 | [Minimum Squares with Full Cuts](./GeeksForGeeks/Medium/Minimum%20Squares%20with%20Full%20Cuts) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/squares-in-reactangle3340/1) | Medium | 12 Oct 2026 | 10:40 pm |
