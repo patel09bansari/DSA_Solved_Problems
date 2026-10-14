@@ -245,3 +245,4 @@
 | 243 | [Apply Operations on Array to Maximize Sum of Squares](./LeetCode/Hard/Apply%20Operations%20on%20Array%20to%20Maximize%20Sum%20of%20Squares) | [LeetCode](https://leetcode.com/problems/apply-operations-on-array-to-maximize-sum-of-squares/) | Hard | 12 Oct 2026 | 10:41 pm |
 | 244 | [Adding Ones](./GeeksForGeeks/Easy/Adding%20Ones) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/adding-ones3628/1) | Easy | 13 Oct 2026 | 10:39 pm |
 | 245 | [Maximum Alternating Sum of Squares](./LeetCode/Medium/Maximum%20Alternating%20Sum%20of%20Squares) | [LeetCode](https://leetcode.com/problems/maximum-alternating-sum-of-squares/) | Medium | 13 Oct 2026 | 10:39 pm |
+| 246 | [Roll Characters of String](./GeeksForGeeks/Medium/Roll%20Characters%20of%20String) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/roll-the-characters-of-a-string2127/1) | Medium | 14 Oct 2026 | 09:02 pm |
