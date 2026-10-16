@@ -247,3 +247,4 @@
 | 245 | [Maximum Alternating Sum of Squares](./LeetCode/Medium/Maximum%20Alternating%20Sum%20of%20Squares) | [LeetCode](https://leetcode.com/problems/maximum-alternating-sum-of-squares/) | Medium | 13 Oct 2026 | 10:39 pm |
 | 246 | [Roll Characters of String](./GeeksForGeeks/Medium/Roll%20Characters%20of%20String) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/roll-the-characters-of-a-string2127/1) | Medium | 14 Oct 2026 | 09:02 pm |
 | 247 | [Maximize Sum of Squares of Digits](./LeetCode/Medium/Maximize%20Sum%20of%20Squares%20of%20Digits) | [LeetCode](https://leetcode.com/problems/maximize-sum-of-squares-of-digits/) | Medium | 14 Oct 2026 | 09:03 pm |
+| 248 | [Successful Binary Searches Irrespective of Pivot](./GeeksForGeeks/Medium/Successful%20Binary%20Searches%20Irrespective%20of%20Pivot) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/count-always-found/1) | Medium | 16 Oct 2026 | 07:52 pm |
