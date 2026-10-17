@@ -249,3 +249,4 @@
 | 247 | [Maximize Sum of Squares of Digits](./LeetCode/Medium/Maximize%20Sum%20of%20Squares%20of%20Digits) | [LeetCode](https://leetcode.com/problems/maximize-sum-of-squares-of-digits/) | Medium | 14 Oct 2026 | 09:03 pm |
 | 248 | [Successful Binary Searches Irrespective of Pivot](./GeeksForGeeks/Medium/Successful%20Binary%20Searches%20Irrespective%20of%20Pivot) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/count-always-found/1) | Medium | 16 Oct 2026 | 07:52 pm |
 | 249 | [Subarrays Distinct Element Sum of Squares II](./LeetCode/Hard/Subarrays%20Distinct%20Element%20Sum%20of%20Squares%20II) | [LeetCode](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-ii/) | Hard | 16 Oct 2026 | 07:52 pm |
+| 250 | [Minimum Swaps to Sort by Digit Sum](./LeetCode/Medium/Minimum%20Swaps%20to%20Sort%20by%20Digit%20Sum) | [LeetCode](https://leetcode.com/problems/minimum-swaps-to-sort-by-digit-sum/) | Medium | 17 Oct 2026 | 05:21 pm |
