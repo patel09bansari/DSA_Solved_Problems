@@ -251,3 +251,4 @@
 | 249 | [Subarrays Distinct Element Sum of Squares II](./LeetCode/Hard/Subarrays%20Distinct%20Element%20Sum%20of%20Squares%20II) | [LeetCode](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-ii/) | Hard | 16 Oct 2026 | 07:52 pm |
 | 250 | [Minimum Swaps to Sort by Digit Sum](./LeetCode/Medium/Minimum%20Swaps%20to%20Sort%20by%20Digit%20Sum) | [LeetCode](https://leetcode.com/problems/minimum-swaps-to-sort-by-digit-sum/) | Medium | 17 Oct 2026 | 05:21 pm |
 | 251 | [Shortest Path From 1 To n](./GeeksForGeeks/Easy/Shortest%20Path%20From%201%20To%20n) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/shortest-path-from-1-to-n0156/1) | Easy | 18 Oct 2026 | 12:38 am |
+| 252 | [Number of Ways to Reorder Array to Get Same BST](./LeetCode/Hard/Number%20of%20Ways%20to%20Reorder%20Array%20to%20Get%20Same%20BST) | [LeetCode](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/) | Hard | 18 Oct 2026 | 12:52 pm |

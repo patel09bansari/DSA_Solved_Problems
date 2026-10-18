@@ -1,13 +1,13 @@
 {
-  "totalSolved": 251,
+  "totalSolved": 252,
   "currentStreak": 3,
   "maxStreak": 64,
   "lastSyncDate": "2026-10-18",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 97,
     "medium": 100,
-    "hard": 34,
+    "hard": 35,
     "basic": 20
   },
   "syncedProblems": {
@@ -261,7 +261,8 @@
     "GeeksForGeeks_Successful_Binary_Searches_Irrespective_of_Pivot": true,
     "LeetCode_Subarrays_Distinct_Element_Sum_of_Squares_II": true,
     "LeetCode_Minimum_Swaps_to_Sort_by_Digit_Sum": true,
-    "GeeksForGeeks_Shortest_Path_From_1_To_n": true
+    "GeeksForGeeks_Shortest_Path_From_1_To_n": true,
+    "LeetCode_Number_of_Ways_to_Reorder_Array_to_Get_Same_BST": true
   },
   "activityHistory": {
     "2026-08-04": 34,
@@ -337,9 +338,10 @@
     "2026-10-14": 2,
     "2026-10-16": 2,
     "2026-10-17": 1,
-    "2026-10-18": 1
+    "2026-10-18": 2
   },
   "todayProblems": [
-    "Shortest Path From 1 To n"
+    "Shortest Path From 1 To n",
+    "Number of Ways to Reorder Array to Get Same BST"
   ]
 }
