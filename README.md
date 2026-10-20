@@ -254,3 +254,4 @@
 | 252 | [Number of Ways to Reorder Array to Get Same BST](./LeetCode/Hard/Number%20of%20Ways%20to%20Reorder%20Array%20to%20Get%20Same%20BST) | [LeetCode](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/) | Hard | 18 Oct 2026 | 12:52 pm |
 | 253 | [Count Indices That Escape Array](./GeeksForGeeks/Medium/Count%20Indices%20That%20Escape%20Array) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/good-stones--170647/1) | Medium | 19 Oct 2026 | 09:34 pm |
 | 254 | [Largest with Same Parity Adjacent Swaps](./GeeksForGeeks/Medium/Largest%20with%20Same%20Parity%20Adjacent%20Swaps) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/even-swap/1) | Medium | 20 Oct 2026 | 03:05 pm |
+| 255 | [Sum of Sortable Integers](./LeetCode/Hard/Sum%20of%20Sortable%20Integers) | [LeetCode](https://leetcode.com/problems/sum-of-sortable-integers/) | Hard | 20 Oct 2026 | 03:10 pm |
