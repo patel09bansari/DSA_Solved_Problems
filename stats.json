@@ -1,12 +1,12 @@
 {
-  "totalSolved": 256,
+  "totalSolved": 257,
   "currentStreak": 6,
   "maxStreak": 64,
   "lastSyncDate": "2026-10-21",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 97,
-    "medium": 103,
+    "medium": 104,
     "hard": 36,
     "basic": 20
   },
@@ -266,7 +266,8 @@
     "GeeksForGeeks_Count_Indices_That_Escape_Array": true,
     "GeeksForGeeks_Largest_with_Same_Parity_Adjacent_Swaps": true,
     "LeetCode_Sum_of_Sortable_Integers": true,
-    "GeeksForGeeks_Minimum_Sum_Subarray": true
+    "GeeksForGeeks_Minimum_Sum_Subarray": true,
+    "LeetCode_Minimum_Operations_to_Sort_a_String": true
   },
   "activityHistory": {
     "2026-08-04": 34,
@@ -345,9 +346,10 @@
     "2026-10-18": 2,
     "2026-10-19": 1,
     "2026-10-20": 2,
-    "2026-10-21": 1
+    "2026-10-21": 2
   },
   "todayProblems": [
-    "Minimum Sum Subarray"
+    "Minimum Sum Subarray",
+    "Minimum Operations to Sort a String"
   ]
 }
