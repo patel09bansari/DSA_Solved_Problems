@@ -258,3 +258,4 @@
 | 256 | [Minimum Sum Subarray](./GeeksForGeeks/Medium/Minimum%20Sum%20Subarray) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/smallest-sum-contiguous-subarray/1) | Medium | 21 Oct 2026 | 10:19 am |
 | 257 | [Minimum Operations to Sort a String](./LeetCode/Medium/Minimum%20Operations%20to%20Sort%20a%20String) | [LeetCode](https://leetcode.com/problems/minimum-operations-to-sort-a-string/) | Medium | 21 Oct 2026 | 10:46 am |
 | 258 | [Palindrome with Replacement](./GeeksForGeeks/Medium/Palindrome%20with%20Replacement) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/palindrome-with-minimum-sum--170648/1) | Medium | 22 Oct 2026 | 08:14 pm |
+| 259 | [Minimum Operations to Sort a Permutation](./LeetCode/Medium/Minimum%20Operations%20to%20Sort%20a%20Permutation) | [LeetCode](https://leetcode.com/problems/minimum-operations-to-sort-a-permutation/) | Medium | 22 Oct 2026 | 08:16 pm |
