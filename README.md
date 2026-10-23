@@ -260,3 +260,4 @@
 | 258 | [Palindrome with Replacement](./GeeksForGeeks/Medium/Palindrome%20with%20Replacement) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/palindrome-with-minimum-sum--170648/1) | Medium | 22 Oct 2026 | 08:14 pm |
 | 259 | [Minimum Operations to Sort a Permutation](./LeetCode/Medium/Minimum%20Operations%20to%20Sort%20a%20Permutation) | [LeetCode](https://leetcode.com/problems/minimum-operations-to-sort-a-permutation/) | Medium | 22 Oct 2026 | 08:16 pm |
 | 260 | [Count Pairs Violating BST Property](./GeeksForGeeks/Medium/Count%20Pairs%20Violating%20BST%20Property) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/pairs-violating-bst-property--212515/1) | Medium | 23 Oct 2026 | 04:11 pm |
+| 261 | [Maximum K to Sort a Permutation](./LeetCode/Medium/Maximum%20K%20to%20Sort%20a%20Permutation) | [LeetCode](https://leetcode.com/problems/maximum-k-to-sort-a-permutation/) | Medium | 23 Oct 2026 | 04:12 pm |

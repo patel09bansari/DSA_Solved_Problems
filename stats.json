@@ -1,12 +1,12 @@
 {
-  "totalSolved": 260,
+  "totalSolved": 261,
   "currentStreak": 8,
   "maxStreak": 64,
   "lastSyncDate": "2026-10-23",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 97,
-    "medium": 107,
+    "medium": 108,
     "hard": 36,
     "basic": 20
   },
@@ -270,7 +270,8 @@
     "LeetCode_Minimum_Operations_to_Sort_a_String": true,
     "GeeksForGeeks_Palindrome_with_Replacement": true,
     "LeetCode_Minimum_Operations_to_Sort_a_Permutation": true,
-    "GeeksForGeeks_Count_Pairs_Violating_BST_Property": true
+    "GeeksForGeeks_Count_Pairs_Violating_BST_Property": true,
+    "LeetCode_Maximum_K_to_Sort_a_Permutation": true
   },
   "activityHistory": {
     "2026-08-04": 34,
@@ -351,9 +352,10 @@
     "2026-10-20": 2,
     "2026-10-21": 2,
     "2026-10-22": 2,
-    "2026-10-23": 1
+    "2026-10-23": 2
   },
   "todayProblems": [
-    "Count Pairs Violating BST Property"
+    "Count Pairs Violating BST Property",
+    "Maximum K to Sort a Permutation"
   ]
 }
