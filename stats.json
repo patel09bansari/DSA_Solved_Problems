@@ -1,12 +1,12 @@
 {
-  "totalSolved": 264,
+  "totalSolved": 265,
   "currentStreak": 1,
   "maxStreak": 64,
   "lastSyncDate": "2026-10-26",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 99,
-    "medium": 109,
+    "medium": 110,
     "hard": 36,
     "basic": 20
   },
@@ -274,7 +274,8 @@
     "LeetCode_Maximum_K_to_Sort_a_Permutation": true,
     "LeetCode_Count_Days_Spent_Together": true,
     "GeeksForGeeks_Trace_Path": true,
-    "GeeksForGeeks_Minimize_Max_Min_Diff_with_Subarray_Removal": true
+    "GeeksForGeeks_Minimize_Max_Min_Diff_with_Subarray_Removal": true,
+    "LeetCode_Count_Islands_With_Total_Value_Divisible_by_K": true
   },
   "activityHistory": {
     "2026-08-04": 34,
@@ -357,9 +358,10 @@
     "2026-10-22": 2,
     "2026-10-23": 2,
     "2026-10-24": 2,
-    "2026-10-26": 1
+    "2026-10-26": 2
   },
   "todayProblems": [
-    "Minimize Max Min Diff with Subarray Removal"
+    "Minimize Max Min Diff with Subarray Removal",
+    "Count Islands With Total Value Divisible by K"
   ]
 }

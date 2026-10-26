@@ -264,3 +264,4 @@
 | 262 | [Count Days Spent Together](./LeetCode/Easy/Count%20Days%20Spent%20Together) | [LeetCode](https://leetcode.com/problems/count-days-spent-together/) | Easy | 24 Oct 2026 | 02:22 pm |
 | 263 | [Trace Path](./GeeksForGeeks/Easy/Trace%20Path) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/trace-path3840/1) | Easy | 24 Oct 2026 | 02:23 pm |
 | 264 | [Minimize Max Min Diff with Subarray Removal](./GeeksForGeeks/Medium/Minimize%20Max%20Min%20Diff%20with%20Subarray%20Removal) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/minimize-the-difference/1) | Medium | 26 Oct 2026 | 08:52 pm |
+| 265 | [Count Islands With Total Value Divisible by K](./LeetCode/Medium/Count%20Islands%20With%20Total%20Value%20Divisible%20by%20K) | [LeetCode](https://leetcode.com/problems/count-islands-with-total-value-divisible-by-k/) | Medium | 26 Oct 2026 | 08:52 pm |
