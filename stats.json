@@ -1,12 +1,12 @@
 {
-  "totalSolved": 263,
-  "currentStreak": 9,
+  "totalSolved": 264,
+  "currentStreak": 1,
   "maxStreak": 64,
-  "lastSyncDate": "2026-10-24",
-  "todayCount": 2,
+  "lastSyncDate": "2026-10-26",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 99,
-    "medium": 108,
+    "medium": 109,
     "hard": 36,
     "basic": 20
   },
@@ -273,7 +273,8 @@
     "GeeksForGeeks_Count_Pairs_Violating_BST_Property": true,
     "LeetCode_Maximum_K_to_Sort_a_Permutation": true,
     "LeetCode_Count_Days_Spent_Together": true,
-    "GeeksForGeeks_Trace_Path": true
+    "GeeksForGeeks_Trace_Path": true,
+    "GeeksForGeeks_Minimize_Max_Min_Diff_with_Subarray_Removal": true
   },
   "activityHistory": {
     "2026-08-04": 34,
@@ -355,10 +356,10 @@
     "2026-10-21": 2,
     "2026-10-22": 2,
     "2026-10-23": 2,
-    "2026-10-24": 2
+    "2026-10-24": 2,
+    "2026-10-26": 1
   },
   "todayProblems": [
-    "Count Days Spent Together",
-    "Trace Path"
+    "Minimize Max Min Diff with Subarray Removal"
   ]
 }

@@ -263,3 +263,4 @@
 | 261 | [Maximum K to Sort a Permutation](./LeetCode/Medium/Maximum%20K%20to%20Sort%20a%20Permutation) | [LeetCode](https://leetcode.com/problems/maximum-k-to-sort-a-permutation/) | Medium | 23 Oct 2026 | 04:12 pm |
 | 262 | [Count Days Spent Together](./LeetCode/Easy/Count%20Days%20Spent%20Together) | [LeetCode](https://leetcode.com/problems/count-days-spent-together/) | Easy | 24 Oct 2026 | 02:22 pm |
 | 263 | [Trace Path](./GeeksForGeeks/Easy/Trace%20Path) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/trace-path3840/1) | Easy | 24 Oct 2026 | 02:23 pm |
+| 264 | [Minimize Max Min Diff with Subarray Removal](./GeeksForGeeks/Medium/Minimize%20Max%20Min%20Diff%20with%20Subarray%20Removal) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/minimize-the-difference/1) | Medium | 26 Oct 2026 | 08:52 pm |
