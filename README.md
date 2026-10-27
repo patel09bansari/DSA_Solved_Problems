@@ -265,3 +265,4 @@
 | 263 | [Trace Path](./GeeksForGeeks/Easy/Trace%20Path) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/trace-path3840/1) | Easy | 24 Oct 2026 | 02:23 pm |
 | 264 | [Minimize Max Min Diff with Subarray Removal](./GeeksForGeeks/Medium/Minimize%20Max%20Min%20Diff%20with%20Subarray%20Removal) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/minimize-the-difference/1) | Medium | 26 Oct 2026 | 08:52 pm |
 | 265 | [Count Islands With Total Value Divisible by K](./LeetCode/Medium/Count%20Islands%20With%20Total%20Value%20Divisible%20by%20K) | [LeetCode](https://leetcode.com/problems/count-islands-with-total-value-divisible-by-k/) | Medium | 26 Oct 2026 | 08:52 pm |
+| 266 | [Maximum Weight Transformation of String](./GeeksForGeeks/Medium/Maximum%20Weight%20Transformation%20of%20String) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/maximum-weight-transformation-of-a-given-string3551/1) | Medium | 27 Oct 2026 | 10:00 pm |
