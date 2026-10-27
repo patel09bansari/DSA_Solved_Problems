@@ -1,11 +1,11 @@
 {
-  "totalSolved": 266,
+  "totalSolved": 267,
   "currentStreak": 2,
   "maxStreak": 64,
   "lastSyncDate": "2026-10-27",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
-    "easy": 99,
+    "easy": 100,
     "medium": 111,
     "hard": 36,
     "basic": 20
@@ -276,7 +276,8 @@
     "GeeksForGeeks_Trace_Path": true,
     "GeeksForGeeks_Minimize_Max_Min_Diff_with_Subarray_Removal": true,
     "LeetCode_Count_Islands_With_Total_Value_Divisible_by_K": true,
-    "GeeksForGeeks_Maximum_Weight_Transformation_of_String": true
+    "GeeksForGeeks_Maximum_Weight_Transformation_of_String": true,
+    "LeetCode_Create_Grid_With_Exactly_One_Path": true
   },
   "activityHistory": {
     "2026-08-04": 34,
@@ -360,9 +361,10 @@
     "2026-10-23": 2,
     "2026-10-24": 2,
     "2026-10-26": 2,
-    "2026-10-27": 1
+    "2026-10-27": 2
   },
   "todayProblems": [
-    "Maximum Weight Transformation of String"
+    "Maximum Weight Transformation of String",
+    "Create Grid With Exactly One Path"
   ]
 }
