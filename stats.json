@@ -1,12 +1,12 @@
 {
-  "totalSolved": 268,
+  "totalSolved": 269,
   "currentStreak": 3,
   "maxStreak": 64,
   "lastSyncDate": "2026-10-28",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 100,
-    "medium": 112,
+    "medium": 113,
     "hard": 36,
     "basic": 20
   },
@@ -278,7 +278,8 @@
     "LeetCode_Count_Islands_With_Total_Value_Divisible_by_K": true,
     "GeeksForGeeks_Maximum_Weight_Transformation_of_String": true,
     "LeetCode_Create_Grid_With_Exactly_One_Path": true,
-    "GeeksForGeeks_Nth_in_Concatenated_Decimal_String": true
+    "GeeksForGeeks_Nth_in_Concatenated_Decimal_String": true,
+    "LeetCode_Minimum_XOR_Path_in_a_Grid": true
   },
   "activityHistory": {
     "2026-08-04": 34,
@@ -363,9 +364,10 @@
     "2026-10-24": 2,
     "2026-10-26": 2,
     "2026-10-27": 2,
-    "2026-10-28": 1
+    "2026-10-28": 2
   },
   "todayProblems": [
-    "Nth in Concatenated Decimal String"
+    "Nth in Concatenated Decimal String",
+    "Minimum XOR Path in a Grid"
   ]
 }
