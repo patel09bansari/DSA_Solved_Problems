@@ -1,0 +1,17 @@
+# Nth in Concatenated Decimal String
+
+## Difficulty: Medium
+
+## Platform: GeeksForGeeks
+
+## Problem Link
+[View Problem](https://www.geeksforgeeks.org/problems/nth-character-in-concatenated-decimal-string0245/1)
+
+## Solved On
+28 Oct 2026 at 09:08 pm
+
+<h2><a href="https://www.geeksforgeeks.org/problems/nth-character-in-concatenated-decimal-string0245/1">Nth in Concatenated Decimal String</a></h2><h3>Difficulty Level: Medium</h3><hr><p><span style="font-size: 18px;">Consider a string <strong>s</strong> formed by concatenating the decimal representations of all positive integers in order:</span></p><p><span style="font-size: 18px;">s = "12345678910111213141516171819202122232425262728293031..."</span></p><p><span style="font-size: 18px;">Given an integer<strong> n</strong>, find the nth character (1-based indexing) in the string s.</span></p><p><strong><span style="font-size: 18px;">Examples:</span></strong></p><pre><span style="font-size: 18px;"><strong>Input: </strong>n = 10<strong>
+Output: </strong>'1'<strong>
+Explanation: </strong>The 10th in "</span><span style="font-size: 18px;">1234567891.."</span><span style="font-size: 18px;"> character is '1'.</span></pre><pre><span style="font-size: 18px;"><strong>Input: </strong>n = 11<strong>
+Output: </strong>'0'<strong>
+Explanation: </strong>The 11th character in </span><span style="font-size: 18px;">"12345678910.."</span><span style="font-size: 18px;">  is '0'.</span></pre>
