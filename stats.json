@@ -1,13 +1,13 @@
 {
-  "totalSolved": 270,
+  "totalSolved": 271,
   "currentStreak": 4,
   "maxStreak": 64,
   "lastSyncDate": "2026-10-29",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 100,
     "medium": 114,
-    "hard": 36,
+    "hard": 37,
     "basic": 20
   },
   "syncedProblems": {
@@ -280,7 +280,8 @@
     "LeetCode_Create_Grid_With_Exactly_One_Path": true,
     "GeeksForGeeks_Nth_in_Concatenated_Decimal_String": true,
     "LeetCode_Minimum_XOR_Path_in_a_Grid": true,
-    "GeeksForGeeks_Optimal_File_Merge": true
+    "GeeksForGeeks_Optimal_File_Merge": true,
+    "LeetCode_Palindromic_Path_Queries_in_a_Tree": true
   },
   "activityHistory": {
     "2026-08-04": 34,
@@ -366,9 +367,10 @@
     "2026-10-26": 2,
     "2026-10-27": 2,
     "2026-10-28": 2,
-    "2026-10-29": 1
+    "2026-10-29": 2
   },
   "todayProblems": [
-    "Optimal File Merge"
+    "Optimal File Merge",
+    "Palindromic Path Queries in a Tree"
   ]
 }

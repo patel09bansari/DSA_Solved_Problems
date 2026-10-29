@@ -270,3 +270,4 @@
 | 268 | [Nth in Concatenated Decimal String](./GeeksForGeeks/Medium/Nth%20in%20Concatenated%20Decimal%20String) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/nth-character-in-concatenated-decimal-string0245/1) | Medium | 28 Oct 2026 | 09:08 pm |
 | 269 | [Minimum XOR Path in a Grid](./LeetCode/Medium/Minimum%20XOR%20Path%20in%20a%20Grid) | [LeetCode](https://leetcode.com/problems/minimum-xor-path-in-a-grid/) | Medium | 28 Oct 2026 | 09:10 pm |
 | 270 | [Optimal File Merge](./GeeksForGeeks/Medium/Optimal%20File%20Merge) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/optimal-file-merge/1) | Medium | 29 Oct 2026 | 07:41 pm |
+| 271 | [Palindromic Path Queries in a Tree](./LeetCode/Hard/Palindromic%20Path%20Queries%20in%20a%20Tree) | [LeetCode](https://leetcode.com/problems/palindromic-path-queries-in-a-tree/) | Hard | 29 Oct 2026 | 07:42 pm |
