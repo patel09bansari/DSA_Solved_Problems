@@ -273,3 +273,4 @@
 | 271 | [Palindromic Path Queries in a Tree](./LeetCode/Hard/Palindromic%20Path%20Queries%20in%20a%20Tree) | [LeetCode](https://leetcode.com/problems/palindromic-path-queries-in-a-tree/) | Hard | 29 Oct 2026 | 07:42 pm |
 | 272 | [Subsets with MEX in Range](./GeeksForGeeks/Hard/Subsets%20with%20MEX%20in%20Range) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/crazy-subsets--131708/1) | Hard | 30 Oct 2026 | 08:56 am |
 | 273 | [Shortest Path With At Most K Consecutive Identical Characters](./LeetCode/Medium/Shortest%20Path%20With%20At%20Most%20K%20Consecutive%20Identical%20Characters) | [LeetCode](https://leetcode.com/problems/shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium | 30 Oct 2026 | 08:58 am |
+| 274 | [Maximum Packages within Time](./GeeksForGeeks/Easy/Maximum%20Packages%20within%20Time) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/bird-and-maximum-fruit-gathering0509/1) | Easy | 31 Oct 2026 | 07:59 pm |

@@ -1,11 +1,11 @@
 {
-  "totalSolved": 273,
-  "currentStreak": 5,
+  "totalSolved": 274,
+  "currentStreak": 6,
   "maxStreak": 64,
-  "lastSyncDate": "2026-10-30",
-  "todayCount": 2,
+  "lastSyncDate": "2026-10-31",
+  "todayCount": 1,
   "difficultyCounts": {
-    "easy": 100,
+    "easy": 101,
     "medium": 115,
     "hard": 38,
     "basic": 20
@@ -283,7 +283,8 @@
     "GeeksForGeeks_Optimal_File_Merge": true,
     "LeetCode_Palindromic_Path_Queries_in_a_Tree": true,
     "GeeksForGeeks_Subsets_with_MEX_in_Range": true,
-    "LeetCode_Shortest_Path_With_At_Most_K_Consecutive_Identical_Characters": true
+    "LeetCode_Shortest_Path_With_At_Most_K_Consecutive_Identical_Characters": true,
+    "GeeksForGeeks_Maximum_Packages_within_Time": true
   },
   "activityHistory": {
     "2026-08-04": 34,
@@ -370,10 +371,10 @@
     "2026-10-27": 2,
     "2026-10-28": 2,
     "2026-10-29": 2,
-    "2026-10-30": 2
+    "2026-10-30": 2,
+    "2026-10-31": 1
   },
   "todayProblems": [
-    "Subsets with MEX in Range",
-    "Shortest Path With At Most K Consecutive Identical Characters"
+    "Maximum Packages within Time"
   ]
 }
