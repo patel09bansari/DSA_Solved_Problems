@@ -1,12 +1,12 @@
 {
-  "totalSolved": 275,
-  "currentStreak": 6,
+  "totalSolved": 276,
+  "currentStreak": 7,
   "maxStreak": 64,
-  "lastSyncDate": "2026-10-31",
-  "todayCount": 2,
+  "lastSyncDate": "2026-11-01",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 101,
-    "medium": 116,
+    "medium": 117,
     "hard": 38,
     "basic": 20
   },
@@ -285,7 +285,8 @@
     "GeeksForGeeks_Subsets_with_MEX_in_Range": true,
     "LeetCode_Shortest_Path_With_At_Most_K_Consecutive_Identical_Characters": true,
     "GeeksForGeeks_Maximum_Packages_within_Time": true,
-    "LeetCode_Twisted_Mirror_Path_Count": true
+    "LeetCode_Twisted_Mirror_Path_Count": true,
+    "GeeksForGeeks_Maximum_Subarray_Sum_with_One_Square_Allowed": true
   },
   "activityHistory": {
     "2026-08-04": 34,
@@ -373,10 +374,10 @@
     "2026-10-28": 2,
     "2026-10-29": 2,
     "2026-10-30": 2,
-    "2026-10-31": 2
+    "2026-10-31": 2,
+    "2026-11-01": 1
   },
   "todayProblems": [
-    "Maximum Packages within Time",
-    "Twisted Mirror Path Count"
+    "Maximum Subarray Sum with One Square Allowed"
   ]
 }
