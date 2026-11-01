@@ -276,3 +276,4 @@
 | 274 | [Maximum Packages within Time](./GeeksForGeeks/Easy/Maximum%20Packages%20within%20Time) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/bird-and-maximum-fruit-gathering0509/1) | Easy | 31 Oct 2026 | 07:59 pm |
 | 275 | [Twisted Mirror Path Count](./LeetCode/Medium/Twisted%20Mirror%20Path%20Count) | [LeetCode](https://leetcode.com/problems/twisted-mirror-path-count/) | Medium | 31 Oct 2026 | 08:00 pm |
 | 276 | [Maximum Subarray Sum with One Square Allowed](./GeeksForGeeks/Medium/Maximum%20Subarray%20Sum%20with%20One%20Square%20Allowed) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/maximum-sum-subarray--143510/1) | Medium | 01 Nov 2026 | 05:26 pm |
+| 277 | [Minimum Moves to Equal Array Elements](./LeetCode/Medium/Minimum%20Moves%20to%20Equal%20Array%20Elements) | [LeetCode](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/) | Medium | 01 Nov 2026 | 05:27 pm |
