@@ -278,3 +278,4 @@
 | 276 | [Maximum Subarray Sum with One Square Allowed](./GeeksForGeeks/Medium/Maximum%20Subarray%20Sum%20with%20One%20Square%20Allowed) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/maximum-sum-subarray--143510/1) | Medium | 01 Nov 2026 | 05:26 pm |
 | 277 | [Minimum Moves to Equal Array Elements](./LeetCode/Medium/Minimum%20Moves%20to%20Equal%20Array%20Elements) | [LeetCode](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/) | Medium | 01 Nov 2026 | 05:27 pm |
 | 278 | [Largest Sum Cycle](./GeeksForGeeks/Hard/Largest%20Sum%20Cycle) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/largest-sum-cycle--170645/1) | Hard | 02 Nov 2026 | 10:49 pm |
+| 279 | [Minimum Moves to Equal Array Elements II](./LeetCode/Medium/Minimum%20Moves%20to%20Equal%20Array%20Elements%20II) | [LeetCode](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/) | Medium | 02 Nov 2026 | 10:51 pm |
