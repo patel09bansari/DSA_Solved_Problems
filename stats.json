@@ -1,13 +1,13 @@
 {
-  "totalSolved": 279,
-  "currentStreak": 8,
+  "totalSolved": 280,
+  "currentStreak": 9,
   "maxStreak": 64,
-  "lastSyncDate": "2026-11-02",
-  "todayCount": 2,
+  "lastSyncDate": "2026-11-03",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 101,
     "medium": 119,
-    "hard": 39,
+    "hard": 40,
     "basic": 20
   },
   "syncedProblems": {
@@ -289,7 +289,8 @@
     "GeeksForGeeks_Maximum_Subarray_Sum_with_One_Square_Allowed": true,
     "LeetCode_Minimum_Moves_to_Equal_Array_Elements": true,
     "GeeksForGeeks_Largest_Sum_Cycle": true,
-    "LeetCode_Minimum_Moves_to_Equal_Array_Elements_II": true
+    "LeetCode_Minimum_Moves_to_Equal_Array_Elements_II": true,
+    "GeeksForGeeks_Count_Tree_Paths_With_Limited_Max_Edge_Weight": true
   },
   "activityHistory": {
     "2026-08-04": 34,
@@ -379,10 +380,10 @@
     "2026-10-30": 2,
     "2026-10-31": 2,
     "2026-11-01": 2,
-    "2026-11-02": 2
+    "2026-11-02": 2,
+    "2026-11-03": 1
   },
   "todayProblems": [
-    "Largest Sum Cycle",
-    "Minimum Moves to Equal Array Elements II"
+    "Count Tree Paths With Limited Max Edge Weight"
   ]
 }
