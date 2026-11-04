@@ -281,3 +281,4 @@
 | 279 | [Minimum Moves to Equal Array Elements II](./LeetCode/Medium/Minimum%20Moves%20to%20Equal%20Array%20Elements%20II) | [LeetCode](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/) | Medium | 02 Nov 2026 | 10:51 pm |
 | 280 | [Count Tree Paths With Limited Max Edge Weight](./GeeksForGeeks/Hard/Count%20Tree%20Paths%20With%20Limited%20Max%20Edge%20Weight) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/possible-paths--141628/1) | Hard | 03 Nov 2026 | 05:29 pm |
 | 281 | [Minimum Moves to Equal Array Elements III](./LeetCode/Easy/Minimum%20Moves%20to%20Equal%20Array%20Elements%20III) | [LeetCode](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-iii/) | Easy | 03 Nov 2026 | 05:30 pm |
+| 282 | [XOR of All Subarray XORs](./GeeksForGeeks/Medium/XOR%20of%20All%20Subarray%20XORs) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/game-of-xor1541/1) | Medium | 04 Nov 2026 | 09:32 pm |
