@@ -283,3 +283,4 @@
 | 281 | [Minimum Moves to Equal Array Elements III](./LeetCode/Easy/Minimum%20Moves%20to%20Equal%20Array%20Elements%20III) | [LeetCode](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-iii/) | Easy | 03 Nov 2026 | 05:30 pm |
 | 282 | [XOR of All Subarray XORs](./GeeksForGeeks/Medium/XOR%20of%20All%20Subarray%20XORs) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/game-of-xor1541/1) | Medium | 04 Nov 2026 | 09:32 pm |
 | 283 | [Minimum Operations to Make Elements Within K Subarrays Equal](./LeetCode/Hard/Minimum%20Operations%20to%20Make%20Elements%20Within%20K%20Subarrays%20Equal) | [LeetCode](https://leetcode.com/problems/minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard | 04 Nov 2026 | 09:33 pm |
+| 284 | [Minimum Days](./GeeksForGeeks/Medium/Minimum%20Days) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/minimum-days--170646/1) | Medium | 05 Nov 2026 | 08:58 am |
