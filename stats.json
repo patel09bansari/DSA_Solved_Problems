@@ -1,11 +1,11 @@
 {
-  "totalSolved": 285,
-  "currentStreak": 11,
+  "totalSolved": 286,
+  "currentStreak": 12,
   "maxStreak": 64,
-  "lastSyncDate": "2026-11-05",
-  "todayCount": 2,
+  "lastSyncDate": "2026-11-06",
+  "todayCount": 1,
   "difficultyCounts": {
-    "easy": 103,
+    "easy": 104,
     "medium": 121,
     "hard": 41,
     "basic": 20
@@ -295,7 +295,8 @@
     "GeeksForGeeks_XOR_of_All_Subarray_XORs": true,
     "LeetCode_Minimum_Operations_to_Make_Elements_Within_K_Subarrays_Equal": true,
     "GeeksForGeeks_Minimum_Days": true,
-    "LeetCode_Find_the_Distance_Value_Between_Two_Arrays": true
+    "LeetCode_Find_the_Distance_Value_Between_Two_Arrays": true,
+    "GeeksForGeeks_Balanced_Binary_Tree_Counter": true
   },
   "activityHistory": {
     "2026-08-04": 34,
@@ -388,10 +389,10 @@
     "2026-11-02": 2,
     "2026-11-03": 2,
     "2026-11-04": 2,
-    "2026-11-05": 2
+    "2026-11-05": 2,
+    "2026-11-06": 1
   },
   "todayProblems": [
-    "Minimum Days",
-    "Find the Distance Value Between Two Arrays"
+    "Balanced Binary Tree Counter"
   ]
 }
