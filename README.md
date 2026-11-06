@@ -286,3 +286,4 @@
 | 284 | [Minimum Days](./GeeksForGeeks/Medium/Minimum%20Days) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/minimum-days--170646/1) | Medium | 05 Nov 2026 | 08:58 am |
 | 285 | [Find the Distance Value Between Two Arrays](./LeetCode/Easy/Find%20the%20Distance%20Value%20Between%20Two%20Arrays) | [LeetCode](https://leetcode.com/problems/find-the-distance-value-between-two-arrays/) | Easy | 05 Nov 2026 | 08:58 am |
 | 286 | [Balanced Binary Tree Counter](./GeeksForGeeks/Easy/Balanced%20Binary%20Tree%20Counter) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/bbt-counter4914/1) | Easy | 06 Nov 2026 | 10:21 pm |
+| 287 | [Count Zero Request Servers](./LeetCode/Medium/Count%20Zero%20Request%20Servers) | [LeetCode](https://leetcode.com/problems/count-zero-request-servers/) | Medium | 06 Nov 2026 | 10:22 pm |
