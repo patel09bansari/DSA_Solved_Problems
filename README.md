@@ -288,3 +288,4 @@
 | 286 | [Balanced Binary Tree Counter](./GeeksForGeeks/Easy/Balanced%20Binary%20Tree%20Counter) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/bbt-counter4914/1) | Easy | 06 Nov 2026 | 10:21 pm |
 | 287 | [Count Zero Request Servers](./LeetCode/Medium/Count%20Zero%20Request%20Servers) | [LeetCode](https://leetcode.com/problems/count-zero-request-servers/) | Medium | 06 Nov 2026 | 10:22 pm |
 | 288 | [Process Tasks Using Servers](./LeetCode/Medium/Process%20Tasks%20Using%20Servers) | [LeetCode](https://leetcode.com/problems/process-tasks-using-servers/) | Medium | 07 Nov 2026 | 11:10 pm |
+| 289 | [Minimum Time with 2 Scanners](./GeeksForGeeks/Easy/Minimum%20Time%20with%202%20Scanners) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/find-the-minimum-time0253/1) | Easy | 08 Nov 2026 | 05:24 pm |
