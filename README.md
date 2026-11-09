@@ -290,3 +290,4 @@
 | 288 | [Process Tasks Using Servers](./LeetCode/Medium/Process%20Tasks%20Using%20Servers) | [LeetCode](https://leetcode.com/problems/process-tasks-using-servers/) | Medium | 07 Nov 2026 | 11:10 pm |
 | 289 | [Minimum Time with 2 Scanners](./GeeksForGeeks/Easy/Minimum%20Time%20with%202%20Scanners) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/find-the-minimum-time0253/1) | Easy | 08 Nov 2026 | 05:24 pm |
 | 290 | [Count Servers that Communicate](./LeetCode/Medium/Count%20Servers%20that%20Communicate) | [LeetCode](https://leetcode.com/problems/count-servers-that-communicate/) | Medium | 08 Nov 2026 | 05:25 pm |
+| 291 | [Count Group Occurrences](./GeeksForGeeks/Easy/Count%20Group%20Occurrences) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/count-the-characters1821/1) | Easy | 09 Nov 2026 | 06:08 pm |
