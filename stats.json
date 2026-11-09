@@ -1,13 +1,13 @@
 {
-  "totalSolved": 291,
+  "totalSolved": 292,
   "currentStreak": 15,
   "maxStreak": 64,
   "lastSyncDate": "2026-11-09",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 106,
     "medium": 124,
-    "hard": 41,
+    "hard": 42,
     "basic": 20
   },
   "syncedProblems": {
@@ -301,7 +301,8 @@
     "LeetCode_Process_Tasks_Using_Servers": true,
     "GeeksForGeeks_Minimum_Time_with_2_Scanners": true,
     "LeetCode_Count_Servers_that_Communicate": true,
-    "GeeksForGeeks_Count_Group_Occurrences": true
+    "GeeksForGeeks_Count_Group_Occurrences": true,
+    "LeetCode_Find_Servers_That_Handled_Most_Number_of_Requests": true
   },
   "activityHistory": {
     "2026-08-04": 34,
@@ -398,9 +399,10 @@
     "2026-11-06": 2,
     "2026-11-07": 1,
     "2026-11-08": 2,
-    "2026-11-09": 1
+    "2026-11-09": 2
   },
   "todayProblems": [
-    "Count Group Occurrences"
+    "Count Group Occurrences",
+    "Find Servers That Handled Most Number of Requests"
   ]
 }
