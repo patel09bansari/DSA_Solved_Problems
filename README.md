@@ -292,3 +292,4 @@
 | 290 | [Count Servers that Communicate](./LeetCode/Medium/Count%20Servers%20that%20Communicate) | [LeetCode](https://leetcode.com/problems/count-servers-that-communicate/) | Medium | 08 Nov 2026 | 05:25 pm |
 | 291 | [Count Group Occurrences](./GeeksForGeeks/Easy/Count%20Group%20Occurrences) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/count-the-characters1821/1) | Easy | 09 Nov 2026 | 06:08 pm |
 | 292 | [Find Servers That Handled Most Number of Requests](./LeetCode/Hard/Find%20Servers%20That%20Handled%20Most%20Number%20of%20Requests) | [LeetCode](https://leetcode.com/problems/find-servers-that-handled-most-number-of-requests/) | Hard | 09 Nov 2026 | 06:09 pm |
+| 293 | [At Least K Occurrences](./GeeksForGeeks/Easy/At%20Least%20K%20Occurrences) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/first-element-to-occur-k-times5150/1) | Easy | 10 Nov 2026 | 09:14 am |
