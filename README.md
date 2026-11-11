@@ -294,3 +294,4 @@
 | 292 | [Find Servers That Handled Most Number of Requests](./LeetCode/Hard/Find%20Servers%20That%20Handled%20Most%20Number%20of%20Requests) | [LeetCode](https://leetcode.com/problems/find-servers-that-handled-most-number-of-requests/) | Hard | 09 Nov 2026 | 06:09 pm |
 | 293 | [At Least K Occurrences](./GeeksForGeeks/Easy/At%20Least%20K%20Occurrences) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/first-element-to-occur-k-times5150/1) | Easy | 10 Nov 2026 | 09:14 am |
 | 294 | [Climbing Stairs II](./LeetCode/Medium/Climbing%20Stairs%20II) | [LeetCode](https://leetcode.com/problems/climbing-stairs-ii/) | Medium | 10 Nov 2026 | 09:17 am |
+| 295 | [Closest in BST](./GeeksForGeeks/Medium/Closest%20in%20BST) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/find-the-closest-element-in-bst/1) | Medium | 12 Nov 2026 | 12:14 am |

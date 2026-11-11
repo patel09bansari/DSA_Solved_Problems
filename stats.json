@@ -1,12 +1,12 @@
 {
-  "totalSolved": 294,
-  "currentStreak": 16,
+  "totalSolved": 295,
+  "currentStreak": 1,
   "maxStreak": 64,
-  "lastSyncDate": "2026-11-10",
-  "todayCount": 2,
+  "lastSyncDate": "2026-11-12",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 107,
-    "medium": 125,
+    "medium": 126,
     "hard": 42,
     "basic": 20
   },
@@ -304,7 +304,8 @@
     "GeeksForGeeks_Count_Group_Occurrences": true,
     "LeetCode_Find_Servers_That_Handled_Most_Number_of_Requests": true,
     "GeeksForGeeks_At_Least_K_Occurrences": true,
-    "LeetCode_Climbing_Stairs_II": true
+    "LeetCode_Climbing_Stairs_II": true,
+    "GeeksForGeeks_Closest_in_BST": true
   },
   "activityHistory": {
     "2026-08-04": 34,
@@ -402,10 +403,10 @@
     "2026-11-07": 1,
     "2026-11-08": 2,
     "2026-11-09": 2,
-    "2026-11-10": 2
+    "2026-11-10": 2,
+    "2026-11-12": 1
   },
   "todayProblems": [
-    "At Least K Occurrences",
-    "Climbing Stairs II"
+    "Closest in BST"
   ]
 }
