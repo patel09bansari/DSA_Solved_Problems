@@ -296,3 +296,4 @@
 | 294 | [Climbing Stairs II](./LeetCode/Medium/Climbing%20Stairs%20II) | [LeetCode](https://leetcode.com/problems/climbing-stairs-ii/) | Medium | 10 Nov 2026 | 09:17 am |
 | 295 | [Closest in BST](./GeeksForGeeks/Medium/Closest%20in%20BST) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/find-the-closest-element-in-bst/1) | Medium | 12 Nov 2026 | 12:14 am |
 | 296 | [Minimum Cost to Acquire Required Items](./LeetCode/Medium/Minimum%20Cost%20to%20Acquire%20Required%20Items) | [LeetCode](https://leetcode.com/problems/minimum-cost-to-acquire-required-items/) | Medium | 12 Nov 2026 | 12:15 am |
+| 297 | [Longest Strictly Increasing or Strictly Decreasing Subarray](./LeetCode/Easy/Longest%20Strictly%20Increasing%20or%20Strictly%20Decreasing%20Subarray) | [LeetCode](https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy | 12 Nov 2026 | 10:56 pm |

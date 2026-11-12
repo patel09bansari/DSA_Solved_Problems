@@ -1,11 +1,11 @@
 {
-  "totalSolved": 296,
+  "totalSolved": 297,
   "currentStreak": 1,
   "maxStreak": 64,
   "lastSyncDate": "2026-11-12",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
-    "easy": 107,
+    "easy": 108,
     "medium": 127,
     "hard": 42,
     "basic": 20
@@ -306,7 +306,8 @@
     "GeeksForGeeks_At_Least_K_Occurrences": true,
     "LeetCode_Climbing_Stairs_II": true,
     "GeeksForGeeks_Closest_in_BST": true,
-    "LeetCode_Minimum_Cost_to_Acquire_Required_Items": true
+    "LeetCode_Minimum_Cost_to_Acquire_Required_Items": true,
+    "LeetCode_Longest_Strictly_Increasing_or_Strictly_Decreasing_Subarray": true
   },
   "activityHistory": {
     "2026-08-04": 34,
@@ -405,10 +406,11 @@
     "2026-11-08": 2,
     "2026-11-09": 2,
     "2026-11-10": 2,
-    "2026-11-12": 2
+    "2026-11-12": 3
   },
   "todayProblems": [
     "Closest in BST",
-    "Minimum Cost to Acquire Required Items"
+    "Minimum Cost to Acquire Required Items",
+    "Longest Strictly Increasing or Strictly Decreasing Subarray"
   ]
 }
