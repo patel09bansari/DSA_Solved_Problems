@@ -297,3 +297,4 @@
 | 295 | [Closest in BST](./GeeksForGeeks/Medium/Closest%20in%20BST) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/find-the-closest-element-in-bst/1) | Medium | 12 Nov 2026 | 12:14 am |
 | 296 | [Minimum Cost to Acquire Required Items](./LeetCode/Medium/Minimum%20Cost%20to%20Acquire%20Required%20Items) | [LeetCode](https://leetcode.com/problems/minimum-cost-to-acquire-required-items/) | Medium | 12 Nov 2026 | 12:15 am |
 | 297 | [Longest Strictly Increasing or Strictly Decreasing Subarray](./LeetCode/Easy/Longest%20Strictly%20Increasing%20or%20Strictly%20Decreasing%20Subarray) | [LeetCode](https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy | 12 Nov 2026 | 10:56 pm |
+| 298 | [Common Nodes in Two BSTs](./GeeksForGeeks/Medium/Common%20Nodes%20in%20Two%20BSTs) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/print-common-nodes-in-bst/1) | Medium | 13 Nov 2026 | 10:20 am |
