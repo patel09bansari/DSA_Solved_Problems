@@ -1,12 +1,12 @@
 {
-  "totalSolved": 299,
-  "currentStreak": 2,
+  "totalSolved": 300,
+  "currentStreak": 3,
   "maxStreak": 64,
-  "lastSyncDate": "2026-11-13",
-  "todayCount": 2,
+  "lastSyncDate": "2026-11-14",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 108,
-    "medium": 128,
+    "medium": 129,
     "hard": 43,
     "basic": 20
   },
@@ -309,7 +309,8 @@
     "LeetCode_Minimum_Cost_to_Acquire_Required_Items": true,
     "LeetCode_Longest_Strictly_Increasing_or_Strictly_Decreasing_Subarray": true,
     "GeeksForGeeks_Common_Nodes_in_Two_BSTs": true,
-    "LeetCode_Count_Non-Decreasing_Subarrays_After_K_Operations": true
+    "LeetCode_Count_Non-Decreasing_Subarrays_After_K_Operations": true,
+    "GeeksForGeeks_Max_Equal_Sum_in_3_Stacks": true
   },
   "activityHistory": {
     "2026-08-04": 34,
@@ -409,10 +410,10 @@
     "2026-11-09": 2,
     "2026-11-10": 2,
     "2026-11-12": 3,
-    "2026-11-13": 2
+    "2026-11-13": 2,
+    "2026-11-14": 1
   },
   "todayProblems": [
-    "Common Nodes in Two BSTs",
-    "Count Non-Decreasing Subarrays After K Operations"
+    "Max Equal Sum in 3 Stacks"
   ]
 }
