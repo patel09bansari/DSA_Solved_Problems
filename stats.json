@@ -1,12 +1,12 @@
 {
-  "totalSolved": 302,
+  "totalSolved": 303,
   "currentStreak": 4,
   "maxStreak": 64,
   "lastSyncDate": "2026-11-15",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 110,
-    "medium": 129,
+    "medium": 130,
     "hard": 43,
     "basic": 20
   },
@@ -312,7 +312,8 @@
     "LeetCode_Count_Non-Decreasing_Subarrays_After_K_Operations": true,
     "GeeksForGeeks_Max_Equal_Sum_in_3_Stacks": true,
     "LeetCode_Minimum_Positive_Sum_Subarray_": true,
-    "GeeksForGeeks_Sum_of_All_Digit_Subsequences": true
+    "GeeksForGeeks_Sum_of_All_Digit_Subsequences": true,
+    "LeetCode_Number_of_Sub-arrays_With_Odd_Sum": true
   },
   "activityHistory": {
     "2026-08-04": 34,
@@ -414,9 +415,10 @@
     "2026-11-12": 3,
     "2026-11-13": 2,
     "2026-11-14": 2,
-    "2026-11-15": 1
+    "2026-11-15": 2
   },
   "todayProblems": [
-    "Sum of All Digit Subsequences"
+    "Sum of All Digit Subsequences",
+    "Number of Sub-arrays With Odd Sum"
   ]
 }
