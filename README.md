@@ -301,3 +301,4 @@
 | 299 | [Count Non-Decreasing Subarrays After K Operations](./LeetCode/Hard/Count%20Non-Decreasing%20Subarrays%20After%20K%20Operations) | [LeetCode](https://leetcode.com/problems/count-non-decreasing-subarrays-after-k-operations/) | Hard | 13 Nov 2026 | 10:21 am |
 | 300 | [Max Equal Sum in 3 Stacks](./GeeksForGeeks/Medium/Max%20Equal%20Sum%20in%203%20Stacks) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/find-maximum-equal-sum-of-three-stacks/1) | Medium | 14 Nov 2026 | 09:38 am |
 | 301 | [Minimum Positive Sum Subarray ](./LeetCode/Easy/Minimum%20Positive%20Sum%20Subarray%20) | [LeetCode](https://leetcode.com/problems/minimum-positive-sum-subarray/) | Easy | 14 Nov 2026 | 09:38 am |
+| 302 | [Sum of All Digit Subsequences](./GeeksForGeeks/Easy/Sum%20of%20All%20Digit%20Subsequences) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/sum-of-all-sub-sequences-of-a-number3437/1) | Easy | 15 Nov 2026 | 09:59 am |
