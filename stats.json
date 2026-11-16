@@ -1,12 +1,12 @@
 {
-  "totalSolved": 304,
+  "totalSolved": 305,
   "currentStreak": 5,
   "maxStreak": 64,
   "lastSyncDate": "2026-11-16",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 111,
-    "medium": 130,
+    "medium": 131,
     "hard": 43,
     "basic": 20
   },
@@ -314,7 +314,8 @@
     "LeetCode_Minimum_Positive_Sum_Subarray_": true,
     "GeeksForGeeks_Sum_of_All_Digit_Subsequences": true,
     "LeetCode_Number_of_Sub-arrays_With_Odd_Sum": true,
-    "LeetCode_Calculate_Digit_Sum_of_a_String": true
+    "LeetCode_Calculate_Digit_Sum_of_a_String": true,
+    "GeeksForGeeks_K-th_Missing_in_Natural_Numbers": true
   },
   "activityHistory": {
     "2026-08-04": 34,
@@ -417,9 +418,10 @@
     "2026-11-13": 2,
     "2026-11-14": 2,
     "2026-11-15": 2,
-    "2026-11-16": 1
+    "2026-11-16": 2
   },
   "todayProblems": [
-    "Calculate Digit Sum of a String"
+    "Calculate Digit Sum of a String",
+    "K-th Missing in Natural Numbers"
   ]
 }
