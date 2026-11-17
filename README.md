@@ -305,3 +305,4 @@
 | 303 | [Number of Sub-arrays With Odd Sum](./LeetCode/Medium/Number%20of%20Sub-arrays%20With%20Odd%20Sum) | [LeetCode](https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/) | Medium | 15 Nov 2026 | 10:00 am |
 | 304 | [Calculate Digit Sum of a String](./LeetCode/Easy/Calculate%20Digit%20Sum%20of%20a%20String) | [LeetCode](https://leetcode.com/problems/calculate-digit-sum-of-a-string/) | Easy | 16 Nov 2026 | 11:28 am |
 | 305 | [K-th Missing in Natural Numbers](./GeeksForGeeks/Medium/K-th%20Missing%20in%20Natural%20Numbers) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/k-th-missing-element-in-natural-numbers/1) | Medium | 16 Nov 2026 | 11:29 am |
+| 306 | [Repeated Pattern Check](./GeeksForGeeks/Easy/Repeated%20Pattern%20Check) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/the-pattern-matcher/1) | Easy | 17 Nov 2026 | 09:52 am |
