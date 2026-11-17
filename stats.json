@@ -1,13 +1,13 @@
 {
-  "totalSolved": 306,
+  "totalSolved": 307,
   "currentStreak": 6,
   "maxStreak": 64,
   "lastSyncDate": "2026-11-17",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 112,
     "medium": 131,
-    "hard": 43,
+    "hard": 44,
     "basic": 20
   },
   "syncedProblems": {
@@ -316,7 +316,8 @@
     "LeetCode_Number_of_Sub-arrays_With_Odd_Sum": true,
     "LeetCode_Calculate_Digit_Sum_of_a_String": true,
     "GeeksForGeeks_K-th_Missing_in_Natural_Numbers": true,
-    "GeeksForGeeks_Repeated_Pattern_Check": true
+    "GeeksForGeeks_Repeated_Pattern_Check": true,
+    "LeetCode_Minimum_Changes_to_Make_K_Semi-palindromes": true
   },
   "activityHistory": {
     "2026-08-04": 34,
@@ -420,9 +421,10 @@
     "2026-11-14": 2,
     "2026-11-15": 2,
     "2026-11-16": 2,
-    "2026-11-17": 1
+    "2026-11-17": 2
   },
   "todayProblems": [
-    "Repeated Pattern Check"
+    "Repeated Pattern Check",
+    "Minimum Changes to Make K Semi-palindromes"
   ]
 }

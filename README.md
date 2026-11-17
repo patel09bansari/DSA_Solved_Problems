@@ -306,3 +306,4 @@
 | 304 | [Calculate Digit Sum of a String](./LeetCode/Easy/Calculate%20Digit%20Sum%20of%20a%20String) | [LeetCode](https://leetcode.com/problems/calculate-digit-sum-of-a-string/) | Easy | 16 Nov 2026 | 11:28 am |
 | 305 | [K-th Missing in Natural Numbers](./GeeksForGeeks/Medium/K-th%20Missing%20in%20Natural%20Numbers) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/k-th-missing-element-in-natural-numbers/1) | Medium | 16 Nov 2026 | 11:29 am |
 | 306 | [Repeated Pattern Check](./GeeksForGeeks/Easy/Repeated%20Pattern%20Check) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/the-pattern-matcher/1) | Easy | 17 Nov 2026 | 09:52 am |
+| 307 | [Minimum Changes to Make K Semi-palindromes](./LeetCode/Hard/Minimum%20Changes%20to%20Make%20K%20Semi-palindromes) | [LeetCode](https://leetcode.com/problems/minimum-changes-to-make-k-semi-palindromes/) | Hard | 17 Nov 2026 | 09:52 am |
