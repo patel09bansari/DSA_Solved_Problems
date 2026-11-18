@@ -1,12 +1,12 @@
 {
-  "totalSolved": 308,
+  "totalSolved": 309,
   "currentStreak": 7,
   "maxStreak": 64,
   "lastSyncDate": "2026-11-18",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 113,
-    "medium": 131,
+    "medium": 132,
     "hard": 44,
     "basic": 20
   },
@@ -318,7 +318,8 @@
     "GeeksForGeeks_K-th_Missing_in_Natural_Numbers": true,
     "GeeksForGeeks_Repeated_Pattern_Check": true,
     "LeetCode_Minimum_Changes_to_Make_K_Semi-palindromes": true,
-    "GeeksForGeeks_XOR_of_Number_Range": true
+    "GeeksForGeeks_XOR_of_Number_Range": true,
+    "LeetCode_Minimum_Number_of_Changes_to_Make_Binary_String_Beautiful": true
   },
   "activityHistory": {
     "2026-08-04": 34,
@@ -423,9 +424,10 @@
     "2026-11-15": 2,
     "2026-11-16": 2,
     "2026-11-17": 2,
-    "2026-11-18": 1
+    "2026-11-18": 2
   },
   "todayProblems": [
-    "XOR of Number Range"
+    "XOR of Number Range",
+    "Minimum Number of Changes to Make Binary String Beautiful"
   ]
 }
