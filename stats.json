@@ -1,12 +1,12 @@
 {
-  "totalSolved": 315,
-  "currentStreak": 10,
+  "totalSolved": 316,
+  "currentStreak": 11,
   "maxStreak": 64,
-  "lastSyncDate": "2026-11-21",
-  "todayCount": 2,
+  "lastSyncDate": "2026-11-22",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 115,
-    "medium": 135,
+    "medium": 136,
     "hard": 45,
     "basic": 20
   },
@@ -325,7 +325,8 @@
     "GeeksForGeeks_Min_Flips_for_Alternate": true,
     "LeetCode_Maximize_Consecutive_Elements_in_an_Array_After_Modification": true,
     "GeeksForGeeks_Smallest_Subarray_Sum_Greater_Than_x": true,
-    "LeetCode_Find_Subtree_Sizes_After_Changes": true
+    "LeetCode_Find_Subtree_Sizes_After_Changes": true,
+    "GeeksForGeeks_Longest_Subarray_Sum_Divisible_by_K": true
   },
   "activityHistory": {
     "2026-08-04": 34,
@@ -433,10 +434,10 @@
     "2026-11-18": 2,
     "2026-11-19": 2,
     "2026-11-20": 2,
-    "2026-11-21": 2
+    "2026-11-21": 2,
+    "2026-11-22": 1
   },
   "todayProblems": [
-    "Smallest Subarray Sum Greater Than x",
-    "Find Subtree Sizes After Changes"
+    "Longest Subarray Sum Divisible by K"
   ]
 }
