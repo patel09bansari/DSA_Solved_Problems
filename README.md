@@ -320,3 +320,4 @@
 | 318 | [Character at Position in Infinite String](./GeeksForGeeks/Medium/Character%20at%20Position%20in%20Infinite%20String) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/the-infinite-string1049/1) | Medium | 23 Nov 2026 | 10:56 am |
 | 319 | [Product of the Last K Numbers](./LeetCode/Medium/Product%20of%20the%20Last%20K%20Numbers) | [LeetCode](https://leetcode.com/problems/product-of-the-last-k-numbers/) | Medium | 23 Nov 2026 | 10:58 am |
 | 320 | [Two Pairs with Same Sum](./GeeksForGeeks/Medium/Two%20Pairs%20with%20Same%20Sum) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/satisfy-the-equation5847/1) | Medium | 24 Nov 2026 | 10:36 pm |
+| 321 | [Maximum Subarray With Equal Products](./LeetCode/Easy/Maximum%20Subarray%20With%20Equal%20Products) | [LeetCode](https://leetcode.com/problems/maximum-subarray-with-equal-products/) | Easy | 24 Nov 2026 | 10:37 pm |

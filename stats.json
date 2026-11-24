@@ -1,11 +1,11 @@
 {
-  "totalSolved": 320,
+  "totalSolved": 321,
   "currentStreak": 13,
   "maxStreak": 64,
   "lastSyncDate": "2026-11-24",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
-    "easy": 116,
+    "easy": 117,
     "medium": 139,
     "hard": 45,
     "basic": 20
@@ -330,7 +330,8 @@
     "LeetCode_Check_if_All_A's_Appears_Before_All_B's": true,
     "GeeksForGeeks_Character_at_Position_in_Infinite_String": true,
     "LeetCode_Product_of_the_Last_K_Numbers": true,
-    "GeeksForGeeks_Two_Pairs_with_Same_Sum": true
+    "GeeksForGeeks_Two_Pairs_with_Same_Sum": true,
+    "LeetCode_Maximum_Subarray_With_Equal_Products": true
   },
   "activityHistory": {
     "2026-08-04": 34,
@@ -441,9 +442,10 @@
     "2026-11-21": 2,
     "2026-11-22": 2,
     "2026-11-23": 2,
-    "2026-11-24": 1
+    "2026-11-24": 2
   },
   "todayProblems": [
-    "Two Pairs with Same Sum"
+    "Two Pairs with Same Sum",
+    "Maximum Subarray With Equal Products"
   ]
 }
