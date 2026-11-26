@@ -323,3 +323,4 @@
 | 321 | [Maximum Subarray With Equal Products](./LeetCode/Easy/Maximum%20Subarray%20With%20Equal%20Products) | [LeetCode](https://leetcode.com/problems/maximum-subarray-with-equal-products/) | Easy | 24 Nov 2026 | 10:37 pm |
 | 322 | [Geek's Destination with Special Jump](./GeeksForGeeks/Hard/Geek's%20Destination%20with%20Special%20Jump) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/geek-and-her-destination--145724/1) | Hard | 25 Nov 2026 | 11:27 pm |
 | 323 | [Smallest Unique Subarray](./LeetCode/Hard/Smallest%20Unique%20Subarray) | [LeetCode](https://leetcode.com/problems/smallest-unique-subarray/) | Hard | 25 Nov 2026 | 11:28 pm |
+| 324 | [Range Vowel Count Queries](./GeeksForGeeks/Medium/Range%20Vowel%20Count%20Queries) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/range-vowel-count-queries-static/1) | Medium | 26 Nov 2026 | 10:11 am |
