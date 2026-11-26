@@ -1,11 +1,11 @@
 {
-  "totalSolved": 324,
+  "totalSolved": 325,
   "currentStreak": 15,
   "maxStreak": 64,
   "lastSyncDate": "2026-11-26",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
-    "easy": 117,
+    "easy": 118,
     "medium": 140,
     "hard": 47,
     "basic": 20
@@ -334,7 +334,8 @@
     "LeetCode_Maximum_Subarray_With_Equal_Products": true,
     "GeeksForGeeks_Geek's_Destination_with_Special_Jump": true,
     "LeetCode_Smallest_Unique_Subarray": true,
-    "GeeksForGeeks_Range_Vowel_Count_Queries": true
+    "GeeksForGeeks_Range_Vowel_Count_Queries": true,
+    "LeetCode_Stone_Removal_Game": true
   },
   "activityHistory": {
     "2026-08-04": 34,
@@ -447,9 +448,10 @@
     "2026-11-23": 2,
     "2026-11-24": 2,
     "2026-11-25": 2,
-    "2026-11-26": 1
+    "2026-11-26": 2
   },
   "todayProblems": [
-    "Range Vowel Count Queries"
+    "Range Vowel Count Queries",
+    "Stone Removal Game"
   ]
 }
