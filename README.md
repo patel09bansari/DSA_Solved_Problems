@@ -325,3 +325,4 @@
 | 323 | [Smallest Unique Subarray](./LeetCode/Hard/Smallest%20Unique%20Subarray) | [LeetCode](https://leetcode.com/problems/smallest-unique-subarray/) | Hard | 25 Nov 2026 | 11:28 pm |
 | 324 | [Range Vowel Count Queries](./GeeksForGeeks/Medium/Range%20Vowel%20Count%20Queries) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/range-vowel-count-queries-static/1) | Medium | 26 Nov 2026 | 10:11 am |
 | 325 | [Stone Removal Game](./LeetCode/Easy/Stone%20Removal%20Game) | [LeetCode](https://leetcode.com/problems/stone-removal-game/) | Easy | 26 Nov 2026 | 10:12 am |
+| 326 | [Count Edges in Graph](./GeeksForGeeks/Easy/Count%20Edges%20in%20Graph) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/count-number-of-edges-in-an-undirected-graph/1) | Easy | 27 Nov 2026 | 10:31 am |
