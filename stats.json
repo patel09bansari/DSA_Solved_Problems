@@ -1,12 +1,12 @@
 {
-  "totalSolved": 328,
+  "totalSolved": 329,
   "currentStreak": 17,
   "maxStreak": 64,
   "lastSyncDate": "2026-11-28",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 120,
-    "medium": 141,
+    "medium": 142,
     "hard": 47,
     "basic": 20
   },
@@ -338,7 +338,8 @@
     "LeetCode_Stone_Removal_Game": true,
     "GeeksForGeeks_Count_Edges_in_Graph": true,
     "LeetCode_Maximum_Number_of_Items_From_Sale_I": true,
-    "GeeksForGeeks_Path_Exists_Between_Two_Vertices": true
+    "GeeksForGeeks_Path_Exists_Between_Two_Vertices": true,
+    "LeetCode_Maximum_Number_of_Items_From_Sale_II": true
   },
   "activityHistory": {
     "2026-08-04": 34,
@@ -453,9 +454,10 @@
     "2026-11-25": 2,
     "2026-11-26": 2,
     "2026-11-27": 2,
-    "2026-11-28": 1
+    "2026-11-28": 2
   },
   "todayProblems": [
-    "Path Exists Between Two Vertices"
+    "Path Exists Between Two Vertices",
+    "Maximum Number of Items From Sale II"
   ]
 }
